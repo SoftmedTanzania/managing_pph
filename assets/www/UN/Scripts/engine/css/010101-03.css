@@ -1,0 +1,69 @@
+.pages_bg_3{
+    background-image: url("../../../Media/eng/images/bg2.jpg");
+	
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 449px;
+    position: relative;
+}
+
+.help_txt{
+	font-size: 20px;
+    padding: 10px;
+    color: #0062ad;
+    font-weight: bold;
+	}
+	
+.emergency_para{
+ background-image: url("../../../Media/eng/images/speech_bub1.png");
+    background-repeat: no-repeat;
+    font-size: 18px;
+    line-height: 26px;
+    padding: 32px 43px 46px 42px;
+    line-height: 24px;
+    width: 115px;
+    text-align: center;
+    position: absolute;
+      top: -5%;
+    left: 30%;
+}
+/* Animation */
+@-webkit-keyframes slideInLeft_1_03 {
+  0% {
+    -webkit-transform: translate3d(-3%, 0, 0);
+    transform: translate3d(-3%, 0, 0);
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+	opacity: 1;
+  }
+}
+
+@keyframes slideInLeft_1_03 {
+  0% {
+    -webkit-transform: translate3d(-3%, 0, 0);
+    transform: translate3d(-3%, 0, 0);
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+	opacity: 1;
+  }
+}
+
+.help_txt_ani {
+  -webkit-animation-name: slideInLeft_1_03;
+  animation-name: slideInLeft_1_03;
+}
+.emergency_para_ani {
+  -webkit-animation-name: slideInLeft_1_03;
+  animation-name: slideInLeft_1_03;
+   animation-delay:1s;
+  -webkit-animation-delay:1s;
+  -moz-animation-delay:1s;
+}

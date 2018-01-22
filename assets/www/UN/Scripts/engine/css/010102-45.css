@@ -1,0 +1,177 @@
+.main_area_2_45{
+
+    min-height: 449px;
+    position: relative;
+}
+
+.cont_left_2_45 {
+	width:50%;
+	float:left;
+}
+
+.cont_right_2_45 {
+    background: url("../../../Media/eng/images/blu_patchs.png");
+    width: 240px;
+    height: 431px;
+    float: right;
+    background-repeat: no-repeat;
+    margin: 10px 15px 0 0;
+    background-size: 100% 100%;
+    padding-left: 22px;
+}
+
+
+
+.nurse3_img img {
+    position: absolute;
+    bottom: 0;
+}
+
+
+
+.think_bub1{
+    background: url("../../../Media/eng/images/think_bub.png");
+    background-repeat: no-repeat;
+    width: 176px;
+    padding: 23px 32px 17px 91px;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 26%;
+    left: 14%;
+}
+
+.think_bub2{
+    background: url("../../../Media/eng/images/think_bub.png");
+    background-repeat: no-repeat;
+    width: 176px;
+    padding: 23px 32px 17px 91px;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 26%;
+    left: 14%;
+}
+.think_bub3{
+    background: url("../../../Media/eng/images/think_bub.png");
+    background-repeat: no-repeat;
+    width: 176px;
+    padding: 23px 32px 17px 91px;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 26%;
+    left: 14%;
+}
+
+.think_bub4{
+    background: url("../../../Media/eng/images/think_bub.png");
+    background-repeat: no-repeat;
+    width: 176px;
+    padding: 23px 32px 17px 91px;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 26%;
+    left: 14%;
+}
+.lmp_2_45 {
+    padding: 8px 0 0 0;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.mr-name_2_45 {
+    color: #996600;
+    font-size: 18px;
+    padding: 63px 25px 0 0px;
+    text-align: center;
+	font-weight:bold;
+}
+.diagnosis_txt{
+padding:5px 10px;
+font-weight:bold;
+    font-size: 18px;
+}
+/*Animation*/
+
+
+@-webkit-keyframes think_fades {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes think_fades {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.think_fades1 {
+  -webkit-animation-name: think_fades;
+  animation-name: think_fades;
+    -webkit-animation-delay: 0s;
+   animation-delay: 0s;
+}
+
+.think_fades2 {
+  -webkit-animation-name: think_fades;
+  animation-name: think_fades;
+    -webkit-animation-delay: 2.2s;
+   animation-delay: 2.2s;
+}
+
+.think_fades3 {
+  -webkit-animation-name: think_fades;
+  animation-name: think_fades;
+    -webkit-animation-delay: 4.5s;
+   animation-delay: 4.5s;
+}
+.think_fades4 {
+  -webkit-animation-name: think_fades;
+  animation-name: think_fades;
+    -webkit-animation-delay: 7s;
+   animation-delay: 7s;
+}
+
+.think_fades5 {
+  -webkit-animation-name: think_fades;
+  animation-name: think_fades;
+    -webkit-animation-delay: 9s;
+   animation-delay: 9s;
+}
+
+
+.tk_fades1 {
+  -webkit-animation-name: think_fades;
+  animation-name: think_fades;
+    -webkit-animation-delay: 3s;
+   animation-delay:3s;
+}
+.tk_fades2 {
+  -webkit-animation-name: think_fades;
+  animation-name: think_fades;
+    -webkit-animation-delay: 5s;
+   animation-delay:5s;
+}
+.tk_fades3 {
+  -webkit-animation-name: think_fades;
+  animation-name: think_fades;
+    -webkit-animation-delay: 8s;
+   animation-delay:8s;
+}
+.tk_fades4 {
+  -webkit-animation-name: think_fades;
+  animation-name: think_fades;
+    -webkit-animation-delay: 12s;
+   animation-delay:12s;
+}

@@ -1,0 +1,118 @@
+.KeyActionWhiteBg {
+    background-image: url("../../../Media/eng/images/whiteBG.png");
+    width: 711px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    background-size: 100% 100%;
+    padding: 13px 27px;
+}
+
+.KeyActionHeading {
+    background-image: url("../../../Media/eng/images/010102-17-04.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 48px;
+    line-height: 48px;
+    padding: 0 10px;
+    text-align: left;
+    margin-bottom: 11px;
+}
+
+.KeyAction1Section {
+    background-image: url("../../../Media/eng/images/010102-17-05.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: left;
+    margin-top: 10px;
+    width: 284px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.KeyAction2Section
+{
+    background-image: url("../../../Media/eng/images/010102-17-05.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: left;
+    margin-top: 10px;
+    width: 417px;
+    text-align: center;
+}
+
+.KeyAction3Section
+{
+    background-image: url("../../../Media/eng/images/010102-17-05.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: left;
+    margin-top: 10px;
+    width: 284px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.KeyAction4Section
+{
+    background-image: url("../../../Media/eng/images/010102-17-05.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: left;
+    margin-top: 10px;
+    width: 417px;
+    text-align: center;
+}
+
+.KeyActionHeading
+{
+background-image: url("../../../Media/eng/images/010102-17-04.png");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
+.KeyAction3Heading {
+    line-height: 22px;
+}
+
+.KeyAction4Img {
+    text-align: left;
+}
+
+.KeyAction4Img ul
+{
+    margin-left: 33px;
+}
+
+/*Animation*/
+.KeyAction1Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:9s;
+    animation-delay:9s;
+    -moz-animation-delay:9s;
+}
+
+.KeyAction2Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:19s;
+    animation-delay:19s;
+    -moz-animation-delay:19s;
+}
+
+.KeyAction3Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:27s;
+    animation-delay:27s;
+    -moz-animation-delay:27s;
+}
+
+.KeyAction4Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:36s;
+    animation-delay:36s;
+    -moz-animation-delay:36s;
+}

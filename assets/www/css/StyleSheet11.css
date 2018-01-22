@@ -1,0 +1,844 @@
+﻿body
+{   font-family:Arial, Helvetica, sans-serif; font-size:14px; color: #55575B; 
+    /*background-color:#CCCCCC;*/
+	background-position:center top; 
+	/* background-image:url(../psd/support.jpg); opacity:0.5;*/ 
+}
+
+.TreeTable
+{
+	width: 940px;
+	height: auto;
+	padding: 0 0 0 0;
+	text-align: center;
+	font-size: 12px;
+	float: left;
+	table-layout:fixed;
+	/*border-top: 1px solid #d0d0d0;*/
+}
+
+.TopicTable
+{
+	width: 940px;
+	height: auto;
+	padding: 0,0,0,0;
+	border-color: #ddd;
+	
+}
+.TopicTable tr
+{
+	/*border-top: 1px solid #ccc;*/
+/*	border-bottom: none;	*/
+}
+.SubTopicTable
+{
+	width: 99.5%;
+	height: auto;
+	padding: 0,0,0,0;
+	float: right;
+}
+.CourseTable
+{
+	width: 940px;
+	height: auto;
+	padding: 0,0,0,0;
+	text-align:center;
+	float:left;
+	table-layout:fixed;
+	/*border-top: 1px solid #d0d0d0;*/
+}
+.CourseTable tr
+{
+	border-left: none;
+	border-right: none;
+}
+.tW5
+{
+	width: 8%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	border-top: 1px solid #d0d0d0;
+}
+.tW10 
+{
+	width: 10%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	border-top: 1px solid #d0d0d0;
+}
+.tW15
+{
+	width: 12%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	border-top: 1px solid #d0d0d0;
+}
+
+.tW17
+{
+	/*width: 13%;*/
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+}
+
+.tW20
+{
+	/*width: 20%;*/
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+}
+.tW30
+{
+	width: 30%;
+	/*width:282px !important;*/
+	height: auto;
+	padding: 0,0,0,0;
+	text-align: left;
+	border-top: 1px solid #d0d0d0;
+}
+
+
+.W5
+{
+	/*width: 6%;*/
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+	border-top:1px solid #D0D0D0;
+}
+.W7
+{
+    height: auto;
+    margin: 0;
+    text-align: center;
+    /*width: 7%;*/width:69px;
+    border-top:1px solid #D0D0D0;
+}
+.W8
+{
+    width:80px;
+	/*width: 8%;*/
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+	border-top:1px solid #D0D0D0;
+}
+.W9
+{
+	width: 9%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+/*.W10 
+{
+    width:101px;
+	/*width: 10%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+	border-top:1px solid #D0D0D0;
+}*/
+.W13 
+{
+	width: 13%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+	border-top:1px solid #D0D0D0;
+}
+.W11
+{
+	width: 11%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.W12 
+{
+	/*width: 12%;*/width:121px;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+	border-top:1px solid #D0D0D0;
+}
+.W15
+{
+	width: 12%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;	
+	border-top:1px solid #D0D0D0;
+}
+.W33
+{
+	width: 33%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	border-top:1px solid #D0D0D0;
+	text-align:left
+}
+.W14
+{
+	width: 14%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+	border-bottom:1px solid #D0D0D0;	
+}
+.W30
+{
+	width: 38%;
+	height: auto;
+	padding: 0,0,0,0;
+	border-top:1px solid #D0D0D0;
+	text-align:left;
+}
+
+
+.W5
+{
+	width: 8%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.W10 
+{
+    width:100px;
+	/*width: 10%;*/
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+	border-top:1px solid #D0D0D0;
+}
+.W11 
+{
+	width: 10%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+/*.W15
+{
+	width: 15%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+	border-top:1px solid #D0D0D0;	
+}*/
+
+
+.W20
+{
+	width: 20%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+}
+
+.W18
+{
+	/*width: 18%;*/width:182px;
+	height: auto;
+	padding: 0,0,0,0;
+	text-align:center ; 
+	border-top:1px solid #D0D0D0;	
+	
+}
+
+.W26
+{
+    /*width:25.9%;*/width:262px;
+    height:auto;
+    padding:0,0,0,0,;
+    text-align:left;
+    border-top:1px solid #D0D0D0;
+}
+.W70
+{
+	width: 70%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+}
+.W100
+{
+	width: 100%;
+/*	height: 30px;	*/
+	padding: 0px 0;
+	text-align:left;
+	margin:0;
+	height: 25px;
+    line-height: 25px;
+}
+.ThBorder
+{
+	border-left: solid 1px #D0D0D0;
+	text-align:center;
+}
+.TrBorder
+{
+	border-left: solid 1px #D0D0D0;
+}
+.TreeTable td,tr
+{
+/*border-bottom: solid 1px #d0d0d0;*/
+}
+.Displaynone
+{
+	display:none;
+	width: 100%;
+}
+.Displayblock
+{
+	display:block;
+	width: 100%;
+}
+.tableTr
+{
+	color:#55575b;
+	font-weight:bold;
+	background-color:#E9EAEA;
+}
+.Acor
+{
+	 text-decoration: none;
+	 color: #C52543;
+	 font-size:12px;
+	 font-weight:bold;
+	 font-family:Arial;
+	 
+}
+a.Acor:link
+{
+	outline-width:thick;
+}
+.Acor span
+{
+	margin-left: 10px;
+}
+a.Acor:hover
+{
+	text-decoration: none;
+	color: #C52543;
+}
+.Acor2
+{
+	text-decoration: none;
+	color:Black;
+	font-size:12px;
+	font-family:Arial;
+/*font-weight:bold; */
+}
+.Acor2 span
+{
+	margin-left: 10px;
+}
+a.Acor2:hover
+{
+	text-decoration: none;
+	color: #C52543;
+}
+
+/*---*/
+.toptable
+{
+  background-color:#C52543;
+  width:100%;
+  height:28px;
+  float:left;
+}
+.tptspn
+{
+  color:#FFFFFF;
+  margin-left:20px;  
+  font-size:14px;
+   font-family:arial;
+   font-weight:bold;
+}
+.tptopspntd
+{
+	margin-left:13px;
+	float:left;
+}
+
+.spimagecross
+{
+	float:right;
+	margin-right:12px;
+	 
+}
+.checktable
+{
+  background-color:#E9EAEA;
+  width:100%;
+  height:28px; 	
+  float: left;
+  border: 1px solid #fff;
+  border-left: none;
+  border-right: none;
+}
+.pagingtable
+{
+  background-color:#F5F8FA;
+  width:100%;
+  height:28px; 	
+}
+
+/*............treeViwEnd............*/
+
+.BtnLanuch
+{
+	background: url(../user/images/gif/launch_crs_blue.gif) right no-repeat;
+	width:139px;
+	height:31px;
+	margin-left:20px;
+	border:none;
+	
+}
+.BtnLanuch:hover
+{
+	background: url() right no-repeat;
+	width:139px;
+	height:31px;
+	margin-left:20px;
+	border:none;
+	
+}
+.BtnAssessment
+{
+	/*background: url() right no-repeat;*/
+	width:167px;
+	height:31px;
+	margin-left:20px;
+	border:none;
+}
+.BtnAssessment:hover
+{
+	/*background: url() right no-repeat;*/
+	width:167px;
+	height:31px;
+	margin-left:20px;
+	border:none;
+}
+.BtnForum
+{
+	/*background: url() right no-repeat;*/
+	width:139px;
+	height:31px;
+	margin-left:20px;
+	border:none;
+}
+.BtnForum:hover
+{
+	/*background: url() right no-repeat;*/
+	width:139px;
+	height:31px;
+	margin-left:20px;
+	border:none;
+}
+.BtnSelfNomination
+{
+	/*background: url() right no-repeat;*/
+	width:186px;
+	height:31px;
+	margin-left:20px;
+	border:none;
+}
+.BtnSelfNomination:hover
+{
+	/*background: url() right no-repeat;*/
+	width:186px;
+	height:31px;
+	margin-left:20px;
+	border:none;
+}
+.lablelaunch
+{
+	font-size:12px;
+	font-family:Arial;
+	
+}
+.labelText
+{  
+	text-align: left; /*color: #4b4b4b;*/
+	font-size: 12px;
+	font-weight: normal;
+	font-family: Verdana;
+	text-decoration: none;	
+}
+.input_text
+{
+	border: 1px solid #c0c0c0;
+	padding: 4px;
+	width: 200px;
+	font-size: 12px;
+	font-family: Verdana;
+	color: #000000;
+	background-color: #ffffff;
+	margin-bottom: 0px;
+}
+.button
+{
+	font-family:Verdana;
+	font-size: 12px;
+	font-weight: bold;
+	cursor:pointer;
+	height: 30px;
+	width:180px;
+}
+
+.button:hover
+{
+	font-family:Verdana;
+	font-size: 12px;
+	font-weight: bold;
+	cursor:pointer;
+	height: 30px;
+	width:180px;
+	color:#FF4F76;
+}
+
+.button1
+{
+    margin-left: 0px;
+    margin-top: 10px;
+    width:80px !important;
+}
+.button2
+{
+    width:60px !important;
+}
+.mGrid
+{
+	width: 100%;
+	font-family: Verdana;
+	background-color: #fff;
+	font-size:12px;
+	border-collapse: collapse;
+}
+.mGrid .pgr
+{
+	background: #E3B064;
+	color:white; 
+	
+}
+.ImageAro
+{
+	background-color:White;
+	border:none;
+	margin-left:5px;
+}
+.ImageAro2
+{
+	background-color:White;
+	border:none;
+	margin-left:15px;
+}
+/*............Catalouge page Start............*/
+.C10
+{
+	width: 10%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+}
+.C30
+{
+	width: 30%;
+	height: auto;
+	padding: 0,0,0,0;
+	text-align:left; 	
+}
+
+/*............Catalouge page End............*/
+
+table
+{
+	border-spacing: 0px;
+	/*border-collapse: collapse;*/
+}
+table tr
+{
+	border-spacing: 0px;
+}
+table tr td
+{
+	border-spacing: 0px;
+}
+
+
+/* 19/4/13 */
+.tdforum1
+{
+	width: 35%; text-align: left; height: auto;
+}
+.tdforum2
+{
+	width: 11%; text-align: center; height: auto;
+}
+.tdforum3
+{
+	width: 13%; text-align: center; height: auto;
+}
+.tdforum4
+{
+	width: 16%; text-align: center; height: auto;
+}
+
+/*My account page*/
+.account_Dtls                                       { float:left; width:938px; border:1px solid  #D0D0D0; }
+.account_Dtls .inner                                { float: left; width:100%; }
+.account_Dtls .personnal                            { float: left; width:100%; }
+.account_Dtls .personnal span                       { float: left; width:882px; font-weight: bold; background:#E5E5E5; color:#55575B; padding:10px 0px 15px 56px; } 
+.account_Dtls .Dtls_inner                           { float: left; width: 100%; }
+.account_Dtls .Dtls_inner ul                        { display: block; float: left; list-style: none outside none; margin: 0;
+                                                      padding: 5px 0 5px 56px; width: 725px; }
+.account_Dtls .Dtls_inner ul li                     { display: block; float: left; list-style: none outside none; margin: 0; padding: 2px 0; width: 100%; }
+.account_Dtls .Dtls_inner ul li label               { display: block; float: left; font-family: Arial, Sans-Serif; font-size: 14px; font-weight: normal; padding:10px 28px 0 15px;
+                                                      text-align: right; width: 95px; }
+.account_Dtls .Dtls_inner ul li .txtbox             { border: 1px solid #A0A0A0; float: left; height: 30px; outline: medium none; padding: 1px 5px; width: 300px; }
+.account_Dtls .Dtls_inner ul li .txtbox:hover       { color:#FF0000; }
+.account_Dtls .Dtls_inner ul li .dropdwn            { border: 1px solid #A0A0A0; float: left; height: 30px; outline: medium none; padding: 4px 5px; width: 190px; }
+.account_Dtls .Dtls_inner ul li .dropdwn:hover      { color:#FF0000; }
+.account_Dtls .Dtls_inner .imgBtn                   { width: 100%; }
+.imgBtn_update {float:left; height: 31px;  margin-left: 0px; min-width: 75px;width:auto; padding:0px 12px 0px 12px;line-height:31px;font-size:13px;font-weight:bold;color:#ffffff; background:url(../user/images/update_normal.gif) repeat-x;  
+                                                      border: medium none; display: block; }
+.imgBtn_cancel{ float:left; height: 31px;  margin-left: 0px; min-width: 75px;width:auto; padding:0px 12px 0px 12px;line-height:31px;font-size:13px;font-weight:bold;color:#ffffff; background:url(../user/images/Cancel_normal.gif) repeat-x;
+                                                      border: medium none; display: block; }
+.imgBtn_save{ float:left; height: 31px;  margin-left: 10px; min-width: 64px;width:auto; padding:0px 12px 0px 12px;line-height:31px;font-size:13px;font-weight:bold;color:#ffffff; background:url(../user/images/save_normal.gif) repeat-x;
+                                                      border: medium none; display: block; }
+.imgBtn_update:hover{ height: 31px;  margin-left: 0px; width:auto; padding:0px 12px 0px 12px;line-height:31px;font-size:13px;font-weight:bold;color:#ffffff; background:url(../user/images/update_hover.gif) repeat-x; 
+                                                      border: medium none; display: block; }
+.imgBtn_cancel:hover{ height: 31px;  margin-left: 0px;width:auto; padding:0px 12px 0px 12px;line-height:31px;font-size:13px;font-weight:bold;color:#ffffff; background:url(../user/images/Cancel_hover.gif) repeat-x; 
+                                                      border: medium none; display: block; }
+.imgBtn_save:hover{ height: 31px;  margin-left: 10px;width:auto; padding:0px 12px 0px 12px;line-height:31px;font-size:13px;font-weight:bold;color:#ffffff; background:url(../user/images/save_hover.gif) repeat-x; 
+                                                      border: medium none; display: block; }
+/* 19/4/13 */
+
+/*	TreePage new Styles	
+.W5Tr
+{
+	width: 65px;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+}
+.W10Tr
+{
+	width: 109px;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+}
+.W15Tr
+{
+	width: 164px;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;	
+}
+.W30Tr
+{
+	width: 328px;
+	height: auto;
+	padding: 0,0,0,0;
+	text-align:left; 	
+	
+}
+/*	TreePage new Styles	*/
+.td_1
+{
+	width: 13%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_2
+{
+	width: 9%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_3
+{
+	width: 13%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_4
+{
+	width: 19%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_5
+{
+	width: 5%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_6
+{
+	width: 5%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_7
+{
+	width: 4%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_8
+{
+	width: 10%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_9
+{
+	width: 11%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_10
+{
+	width: 13%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_11
+{
+	width: 10%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_12
+{
+	width: 11%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_13
+{
+	width: 13%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_14
+{
+	width: 10%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_15
+{
+	width: 11%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_16
+{
+	width: 10%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_17
+{
+	width: 11%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+.td_18
+{
+	width: 11%;
+	height: auto;
+	padding: 0,0,0,0;
+	margin:0;
+	text-align:center;
+}
+/*-----------------------------------ACCESS FORUM BTN STYLE-----------------------------------*/
+.Acor .access_forum
+{
+    /*background:url() no-repeat;*/
+    width:112px;
+    height:31px;
+    color: #C52543;
+    line-height:31px;
+    margin:0px 0px 0px 20px;
+    text-align:left;
+    padding-left:20px;
+    float:left;
+}
+
+.Acor .access_forum:hover
+{
+    text-decoration:underline;
+}
+
+.Acor .access_forum_dis
+{
+    /*background:url() no-repeat;*/
+    width:112px;
+    height:31px;
+    color: #A2A2A2;
+    line-height:31px;
+    margin:0px 0px 0px 20px;
+    text-align:left;
+    padding-left:20px;
+    float:left;
+}

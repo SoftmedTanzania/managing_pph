@@ -1,0 +1,152 @@
+
+.NormalBleeding
+{
+position: relative;
+    background-image: url("../../../Media/eng/images/010102-04-01.png");
+    background-repeat: no-repeat;
+    height: 159px;
+    margin-left: -11px;
+    font-size: 18px;
+    padding-left: 182px;
+    padding-top: 8px;
+}
+
+
+.ExcessiveBleeding
+{
+position: relative;
+    background-image: url("../../../Media/eng/images/010102-04-02.png");
+    background-repeat: no-repeat;
+    height: 159px;
+    margin-left: -11px;
+    font-size: 18px;
+    padding-left: 227px;
+    padding-top: 8px;
+}
+
+.WhiteBg2
+{
+    position:relative;
+	background-image: url("../../../Media/eng/images/010102-04-08.png");
+	background-repeat: no-repeat;
+	width:748px;
+	height:359px;
+	padding:22px 0;
+	margin:0 auto;
+}
+
+.BleedingImg
+{
+    position: absolute;
+    right: 45px;
+    top: 43px;
+}
+
+.BleedingSection
+{
+    position: absolute;
+    top: 61px;
+    right: 30px;
+    width: 313px;;
+}
+
+.Bleeding300
+{
+float: left;
+    text-align: center;
+    margin-right: 29px;
+    margin-top: 70px;
+}
+.Bleeding500
+{
+    float: left;
+    text-align: center;
+}
+
+.Bleeding300Desc,.Bleeding500Desc
+{
+    background-image: url("../../../Media/eng/images/010102-04-06.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 108px;
+    height: 43px;
+    font-size: 18px;
+    line-height: 43px;
+}
+.UterusText
+{
+    background-image: url("../../../Media/eng/images/010102-04-07.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 605px;
+    height: 37px;
+    margin: 4px auto 0;
+    line-height: 37px;
+    font-size: 18px;
+}
+
+.OverviewText
+{
+    position: absolute;
+    color: #990000;
+    font-size: 18px;
+    height: 20px;
+    overflow-y: auto;
+    width: 95%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+
+
+/*Animation*/
+
+.ExcessiveBleedingAnim
+{
+   -webkit-animation-name: slideInLeftCommon;
+  animation-name: slideInLeftCommon;
+      -webkit-animation-delay:28s;
+    animation-delay:28s;
+    -moz-animation-delay: 28s;
+}
+
+
+.BleedingImgAnim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:33s;
+    animation-delay:33s;
+    -moz-animation-delay: 33s;
+}
+
+.Bleeding300Anim {
+  -webkit-animation-name: zoomInCommon;
+  animation-name: zoomInCommon;
+}
+
+.Bleeding500Anim {
+  -webkit-animation-name: zoomInCommon;
+  animation-name: zoomInCommon;
+   -webkit-animation-delay:1s;
+    animation-delay:1s;
+    -moz-animation-delay: 1s;
+}
+
+.UterusTextAnim
+{
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:63s;
+    animation-delay:63s;
+    -moz-animation-delay: 63s;
+}
+
+.OverviewTextAnim
+{
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:67s;
+    animation-delay:67s;
+    -moz-animation-delay: 67s;
+}

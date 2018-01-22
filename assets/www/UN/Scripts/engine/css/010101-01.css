@@ -1,0 +1,129 @@
+.text_para2 {
+    font-size: 22px;
+    padding-left: 9px;
+    padding-top: 7px;
+}
+
+.page_bg{
+    background-image: url("../../../Media/eng/images/02_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 449px;
+    position: relative;
+}
+
+.Bg010101_01
+{
+    background-image: url("../../../Media/eng/images/l01_s34_01.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.copy_right{
+	font-size: 20px;
+    padding: 10px;
+    color: #0062ad;
+    font-weight: bold;
+	}
+	
+.text_para{
+	font-size: 22px;
+    padding: 0px 10px;
+    line-height: 29px;
+    height: 295px;
+    overflow-y: scroll;
+}
+	
+.page_footer{
+	text-align: center; 
+	padding-top: 10px;
+	}
+	.clickMain_1_01 {
+    width: 112px;
+    text-align: center;
+    border-radius: 7px;
+    float: right;
+    color: #fff;
+    margin-right: 12px;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+    cursor: pointer;
+    bottom: 115px;
+    left: 220px;
+}
+.mainDiv_intro {
+    width: 800px;
+    margin: 0 auto;
+    background: #fff;
+}
+/* Animation */
+
+@-webkit-keyframes slideInLeft_1_01 {
+  0% {
+    -webkit-transform: translate3d(-3%, 0, 0);
+    transform: translate3d(-3%, 0, 0);
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+	opacity: 1;
+  }
+}
+
+@keyframes slideInLeft_1_01 {
+  0% {
+    -webkit-transform: translate3d(-3%, 0, 0);
+    transform: translate3d(-3%, 0, 0);
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+	opacity: 1;
+  }
+}
+.copy_right_ani {
+  -webkit-animation-name: slideInLeft_1_01;
+  animation-name: slideInLeft_1_01;
+}
+.text_para_ani {
+  -webkit-animation-name: slideInLeft_1_01;
+  animation-name: slideInLeft_1_01;
+  animation-delay:1s;
+  -webkit-animation-delay:1s;
+  -moz-animation-delay:1s;
+}
+@-webkit-keyframes zoomIn_1_01 {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale3d(.3, .3, .3);
+    transform: scale3d(.3, .3, .3);
+  }
+
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes zoomIn_1_01 {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale3d(.3, .3, .3);
+    transform: scale3d(.3, .3, .3);
+  }
+
+  50% {
+    opacity: 1;
+  }
+}
+.page_footer_ani {
+  -webkit-animation-name: zoomIn_1_01;
+  animation-name: zoomIn_1_01;
+  animation-delay:1s;
+  -webkit-animation-delay:1s;
+  -moz-animation-delay:1s;
+}

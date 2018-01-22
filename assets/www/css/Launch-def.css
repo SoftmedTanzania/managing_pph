@@ -1,0 +1,212 @@
+﻿.whiteBg
+{
+    background:#fff;
+}
+
+.Timer
+{
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #b176d2;
+    width: 96px;
+    float: right;
+    text-align: center;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    margin-right: 7px;
+ }
+ 
+ .headerStyling {
+    background-image: url('../images/headerBg.png');
+    background-repeat: repeat-y;
+    padding-right: 10px;
+    margin-bottom: 15px;
+    background-size: 100% 100%;
+    position: relative;
+    clear: both;
+    z-index: 10000;
+    color:#fff;
+}
+
+.QueImg
+{
+    float: left;
+    width: 7%;
+}
+
+.QueImg img
+{
+    width:100%;
+}
+
+.QueStyle {
+    float: left;
+    color: #fff;
+    padding-left: 16px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: relative;
+    width: 85%;
+}
+
+.div_pos {
+    display: block;
+    bottom: 0;
+    right: 6px;
+    position: absolute;
+    background-color: #b176d2;
+    padding: 3px 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: #fff;
+}
+
+.checkbox 
+{
+    background: url('../images/checkss.gif') no-repeat;
+    display: block;
+    padding-left:30px;
+    cursor:pointer;
+}
+.radio {
+    background: url('../images/radio.gif') no-repeat;
+   display: block;
+    padding-left:30px;
+    cursor:pointer;
+}
+ .checked {
+     background-position: 0px -50px;
+}
+
+.pl8_per
+{
+    padding-left:8%;
+}
+
+
+.next {
+background-image: url("../images/NextBtnNew.png")!important;
+    background-repeat: no-repeat;
+    
+    cursor: pointer;
+    width: 34px!important;
+    height: 31px;
+    border: none;
+    font-weight: bold;
+    margin:0 auto;
+    background-color: transparent;color: #fff!important;background-position: 95% center;
+    padding:0;
+}
+
+.prev {
+background-image: url("../images/PrevBtnNew.png")!important;
+    background-repeat: no-repeat;
+    
+    cursor: pointer;
+    width: 34px!important;
+    height: 31px;
+    border: none;
+    font-weight: bold;
+    margin:0 auto;
+    background-color: transparent;color: #fff!important;background-position: 95% center;
+    padding:0;
+}
+
+.SummaryBtn
+{
+    background-color: #b176d2;
+    cursor: pointer;
+    width: 111px!important;
+    height: 31px;
+    border: none;
+    font-weight: bold;
+    margin:0 auto;
+    color: #fff!important;
+    padding:0;
+    font-size: 17px!important;
+}
+
+.paginationStyle {
+    color: #fff;
+    float: right;
+    font-size: 12px;
+    background-color: #343d46;
+    padding: 5px;
+    border-radius: 6px;
+    margin-right: 12px;
+}
+
+.qnos {
+clear:both;
+margin-top:10px;
+}
+
+    
+ .innercontent
+ {
+     position:relative;
+     }
+     
+     .Go_back {
+  background: #b176d2;
+    border: medium none;
+    padding: 8px 5px;
+    cursor: pointer;
+    color: #FFF;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 6px;
+    width:251px;
+    word-wrap: break-word;
+    display: block;
+    margin: 0 auto;
+}
+
+/*.submit {
+    border: none;
+    padding: 0;
+    margin: 13px 22px 0 0px;
+    width: 20%;
+    overflow: visible;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    color: #ffffff;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Arial;
+    cursor: pointer;
+    background: #b176d2;
+    background-repeat: repeat-x;
+    float: right;
+    background-size: 100% 100%;
+    border-radius: 6px;
+    line-height: 0px;
+    height: 28px;
+}*/
+
+.submitData
+{
+    border: none;
+    padding: 7px 5px;
+    margin: 7px auto;
+    width: 200px;
+    text-align: center;
+    color: #ffffff;
+    text-transform: capitalize;
+    font-weight: bold;
+    height: auto;
+    font-size: 18px;
+    font-family: Arial;
+    cursor: pointer;
+    background: #b176d2;
+    border-radius: 6px;
+    float: none;
+    display: block;
+}
+.submitData p
+{
+    margin:0;
+}

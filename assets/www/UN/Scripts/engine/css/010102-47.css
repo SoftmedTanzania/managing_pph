@@ -1,0 +1,155 @@
+.white_box{
+    background-color: #fff;
+    width: 95%;
+    margin: 0 auto;
+    padding: 9px 10px;
+ box-shadow: 1px 1px 10px 1px #888888;
+}
+
+.keys_text{
+    padding: 5px 10px;
+    font-size: 16px;
+	font-weight: bold;
+}
+
+.img_47{
+    position: absolute;
+    right: 7%;
+    top: 13%;
+}
+.img_47_1 img{
+   opacity:0.5;
+}
+.blu_divs{
+    padding-top: 15px;
+}
+.blu_tab1{
+    background-image: url("../../../Media/eng/images/blue_47.png");
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 18px;
+    color: #000;
+    font-weight: normal;
+    margin-bottom: 5px;
+    height: 50px;
+    padding: 7px 0 4px 21px;
+    line-height: 41px;
+    width: 495px;
+}
+.blu_tab2{
+    background-image: url("../../../Media/eng/images/blue_47.png");
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 18px;
+    color: #000;
+    font-weight: normal;
+    margin-bottom: 5px;
+    height: 50px;
+    padding: 7px 0 4px 21px;
+    line-height: 41px;
+    width: 495px;
+}
+.blu_tab3{
+    background-image: url("../../../Media/eng/images/blue_47.png");
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 18px;
+    color: #000;
+    font-weight: normal;
+    margin-bottom: 5px;
+    height: 50px;
+    padding: 7px 0 4px 21px;
+    line-height: 41px;
+    width: 495px;
+}
+
+.blu_tab4{
+    background-image: url("../../../Media/eng/images/blue_47.png");
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 18px;
+    color: #000;
+    font-weight: normal;
+    margin-bottom: 5px;
+    height: 50px;
+    padding: 7px 0 4px 21px;
+    line-height: 41px;
+    width: 495px;
+}
+
+.blu_tab5{
+    background-image: url("../../../Media/eng/images/blue_47.png");
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 18px;
+    color: #000;
+    font-weight: normal;
+    margin-bottom: 5px;
+    height: 50px;
+    padding: 7px 0 4px 21px;
+    line-height: 41px;
+    width: 495px;
+}
+
+/*Animation*/
+
+
+@-webkit-keyframes key_fades {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes key_fades {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.key_fades1 {
+  -webkit-animation-name: key_fades;
+  animation-name: key_fades;
+    -webkit-animation-delay: 1s;
+   animation-delay: 1s;
+}
+
+.key_fades2 {
+  -webkit-animation-name: key_fades;
+  animation-name: key_fades;
+    -webkit-animation-delay: 7s;
+   animation-delay: 7s;
+}
+
+.key_fades3 {
+  -webkit-animation-name: key_fades;
+  animation-name: key_fades;
+    -webkit-animation-delay: 11s;
+   animation-delay: 11s;
+}
+
+.key_fades4 {
+  -webkit-animation-name: key_fades;
+  animation-name: key_fades;
+    -webkit-animation-delay: 19s;
+   animation-delay: 19s;
+}
+.key_fades5 {
+  -webkit-animation-name: key_fades;
+  animation-name: key_fades;
+    -webkit-animation-delay: 23s;
+   animation-delay:23s;
+}
+.key_fades6 {
+  -webkit-animation-name: key_fades;
+  animation-name: key_fades;
+    -webkit-animation-delay: 34s;
+   animation-delay:34s;
+}

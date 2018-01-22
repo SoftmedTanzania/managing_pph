@@ -1,0 +1,166 @@
+.practiseHeading {
+    padding: 10px;
+    font-size: 18px;
+}
+
+.practiseTab
+{
+background-image: url("../../../Media/eng/images/010102-40-01.png");
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 47px;
+    font-size: 18px;
+    line-height: 47px;
+    margin: 13px 31px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.PractiseItext {
+    font-size: 18px;
+    color: #990000;
+    padding: 10px 10px;
+    line-height: 27px;
+}
+
+.PractiseText
+{
+    background-image: url("../../../Media/eng/images/010102-40-02.png");
+    background-repeat: no-repeat;
+    width: 482px;
+    height: 47px;
+    line-height: 47px;
+    text-align: center;
+    margin-left: 53px;
+    font-size: 18px;
+    margin-top: 8px;
+    position: relative;
+    z-index: 2;
+}
+
+.PractiseImg {
+    position: absolute;
+    right: 0;
+    bottom: 61px;
+    z-index: 1;
+}
+
+.PractisePopup
+{
+position: absolute;
+    z-index: 4;
+    width: 777px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 27px;
+    border-radius: 12px;
+    border: 2px solid #8d9cc7;
+ background-color: #fff;
+}
+
+
+.PopupHeadingBg {
+    font-size: 18px;
+    padding: 13px 15px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    position: relative;
+	border-bottom: 2px solid #8d9cc7;
+
+background: -webkit-linear-gradient(#eaeff7, #a5badd, #eaeff7); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#eaeff7, #a5badd, #eaeff7); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#eaeff7, #a5badd, #eaeff7); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#eaeff7, #a5badd, #eaeff7); /* Standard syntax (must be last) */
+}
+
+.PopupCloseImg
+{
+    background-image: url("../../../Media/eng/images/close.png");
+    background-repeat: no-repeat;
+    width: 27px;
+    height: 26px;
+    position: absolute;
+    right: 9px;
+    top: 12px;
+    cursor: pointer;
+}
+.PopupCloseImg:hover
+{
+    background-image: url("../../../Media/eng/images/close_hover.png");
+}
+.PopupCloseText {
+    position: absolute;
+    right: 41px;
+    top: 14px;
+}
+
+.PopupContent {
+    background-color: #fff;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    font-size: 18px;
+}
+
+.PrepareList {
+    font-size: 18px;
+    margin-left: 30px;
+    margin-right: 37px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.PrepareList li {
+    padding-bottom: 10px;
+}
+
+.PainDesc {
+    font-size: 18px;
+    padding: 15px 15px 3px 15px;
+}
+
+.PainList {
+    font-size: 18px;
+    margin-left: 37px;
+    margin-bottom: 200px;
+    line-height: 24px;
+}
+
+.ProcedureContentSpacing
+{
+    padding: 20px 15px;
+
+}
+
+.ProcedureList {
+    margin-left: 26px;
+}
+
+.ProcedureDesc2 {
+    padding-top: 20px;
+}
+
+.ProcedureDesc3 {
+    padding-top: 30px;
+    line-height: 24px;
+}
+
+.ProcedureImg {
+    position: absolute;
+    right: 43px;
+    top: 73px;
+}
+
+.MonitorDesc {
+    float: left;
+    width: 380px;
+}
+
+.MonitorImg {
+    float: left;
+}
+
+.pphBgNew
+{
+background-image: url("../../../Media/eng/images/010102-40-04.png");
+}

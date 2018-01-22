@@ -1,0 +1,631 @@
+.BeginScreen 
+{
+    background-color: #344b62;
+    background-size: 100% 100%;
+    width: 800px;
+    height: 600px;
+    margin-left: -1px;
+    border-radius: 12px;
+    box-shadow: inset 0 0 3px #fff;
+	box-shadow: inset 0 0 3px #fff;
+    border: 1px solid #283f54;
+}
+
+
+.BeginCourseTitle {
+    color: #fff;
+    font-size: 23px;
+    padding-top: 11px;
+    padding-left: 21px;
+}
+.BeginCourseTitle2 {
+    color: #fff;
+    font-size: 23px;
+    padding-top: 11px;
+    padding-left: 21px;
+}
+.center_tex {
+	text-align:center;
+}
+
+.assess_tex_bg {
+    background: url("../../../Media/eng/images/assessment_bg.png");
+    position: relative;
+    height: 463px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    top: 17px;
+    clear: both;
+    border-bottom-left-radius: 13px;
+    border-bottom-right-radius: 13px;
+}
+
+.assess_bg
+{
+    background-color: #fff;
+    position: relative;
+    width: 754px;
+    margin: 20px auto 0;
+    border-radius: 13px;
+    height: 480px;
+}
+
+.assessment_img
+{
+    position: absolute;
+    bottom: 6px;
+    right: 58px;
+    z-index: 2;
+}
+
+.assessment_text_img
+{
+        position: absolute;
+    left: 21px;
+    top:0;
+}
+
+.assessmentLogo
+{
+    padding-top: 18px;
+    padding-left: 25px;
+    width: 600px;
+    float: left;
+}
+
+.assessment_text
+{
+	font-weight: normal;
+    width: 600px;
+    font-size: 24px;
+    line-height: 36px;
+    clear: both;
+    margin: 0 auto;
+    padding-top: 21px;
+}
+
+.proceed_text_click p
+{
+    margin: 0;
+    text-align: right;
+    font-style: italic;
+    padding-top: 9px;
+}
+
+
+.proceed_text_click
+{
+    font-size: 15px;
+    color: #fff;
+    width: 21%;
+    float: left;
+}
+
+.assessmentBeginBtn
+{
+    background-color: #3d5a70;
+    color: #879fb5;
+    font-size: 17px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 81px;
+    cursor: pointer;
+    border-radius: 24px;
+    border: 1px solid #597386;
+    padding-left: 17px;
+    background-image: url("../../../Media/eng/images/nextBtn.jpg");
+    background-repeat: no-repeat;
+    background-position: 71px 10px;
+}
+
+.assessmentBeginBtn:hover
+{
+	color:#fff;
+	background-image:url("../../../Media/eng/images/nextBtnActive.jpg");
+}
+
+.begin_btn
+{
+    float: right;
+    padding-top: 12px;
+    padding-right: 20px;
+}
+
+.optionwithImg
+{
+	padding: 10px 4px 10px 34px!important;
+    float: left;
+    width: 51%;
+}
+.AssessmentImgSection {
+    float: left;
+    width: 33%;
+    position: relative;
+    bottom: 30px;
+}
+.AssessmentImg img,.OptImg img,.AssessmentImgLarge img{width:100%;}
+.question-option
+{
+	clear:both;
+}
+.AssessmentImg {
+    border: 5px solid #fabb87;
+}
+.AssessmentZoomin
+{
+	    position: absolute;
+    width: 36px;
+    right: 18px;
+    margin: 0 auto;
+    bottom: -11px;
+	cursor:pointer;
+}
+.AssessmentImgLarge
+{
+    position: absolute;
+    top: -112px;
+    display: none;
+    width: 80%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+	cursor:pointer;
+}
+
+.OptImg {
+    width: 15%;
+    float: left;
+    position: relative;
+    top: 0px;
+    margin-right: 10px;
+}
+.reviewOptions .optText
+{
+width: 100%;
+}
+.AssessmentInnerBG
+{
+    background-color: #344b62;
+    background-size: 100% 100%;
+    width: 800px;
+    height: 600px;
+    margin-left: -1px;
+    border-radius: 12px;
+    box-shadow: inset 0 0 3px #fff;
+	box-shadow: inset 0 0 3px #fff;
+    border: 1px solid #283f54;
+}
+
+.question_no
+{
+    background-image: url("../../../Media/eng/images/assessment_quest.png");
+    background-repeat: no-repeat;
+    position: relative;
+    width: 108px;
+    height: 116px;
+    float: left;
+    margin-top: 3px;
+}
+
+.ScoreText
+{
+    float: left;
+    color: #fff;
+    font-size: 18px;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+.ScoreText span
+{
+	    color: #879fb5;
+    text-shadow: 1px 1px 1px #333;
+}
+
+.question
+{
+    clear: both;
+    font-size: 23px;
+    font-weight: normal;
+    position: relative;
+    line-height: 33px;
+    width: 632px;
+    padding-left: 27px;
+    padding-top: 17px;
+}
+
+
+.question-body2
+{
+    color: #fff;
+    padding: 0 20px;
+    background-image: url("../../../Media/eng/images/assessment_bg.png");
+    background-repeat: repeat;
+    background-size: 100% 100%;
+    background-color: #fff;
+	height:407px;
+}
+
+.question-body3
+{
+
+}
+
+.question-instruction-text2
+{
+    font-size: 16px;
+    font-style: italic;
+    color: #ccc;
+    padding-bottom: 10px;
+}
+
+.right-content
+{
+padding-top: 26px
+}
+
+.question-option input[type="radio"] {
+	display:block;
+}
+
+.small_q
+{
+    position: absolute;
+    right: 64px;
+    top: 35px;
+}
+
+.small_q img
+{
+    width: 244px;
+}
+
+.question-option input[type="radio"] + label
+{
+    display: block;
+    cursor: pointer;
+    font-size: 23px;
+    color: #000;
+    padding: 0 26px;
+    font-weight: normal;
+    margin-bottom: 8px;
+    line-height: 27px;
+}
+
+.question-option input[type="radio"]:checked + label
+{
+    display: block;
+    cursor: pointer;
+    font-size: 23px;
+    color: #000;
+    padding: 0 26px;
+    font-weight: normal;
+    margin-bottom: 8px;
+    line-height: 27px;
+}
+
+
+.question-option input[type="checkbox"] {
+	display:block;
+}
+
+.question-option input[type="checkbox"] + label
+{
+    display: block;
+    cursor: pointer;
+    font-size: 23px;
+    color: #000;
+    padding: 0 26px;
+    font-weight: normal;
+    margin-bottom: 8px;
+    line-height: 27px;
+}
+
+.question-option input[type="checkbox"]:checked + label
+{
+    display: block;
+    cursor: pointer;
+    font-size: 23px;
+    color: #000;
+    padding: 0 26px;
+    font-weight: normal;
+    margin-bottom: 8px;
+    line-height: 27px;
+}
+
+.options
+{
+    padding:10px 34px;
+	    width: 85%;
+}
+
+.AssessmentbtnSubmit
+{
+    background-color: #3d5a70;
+    color: #879fb5;
+    font-size: 17px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 91px;
+    border-radius: 24px;
+    border: 1px solid #597386;
+    text-align: center;
+}
+
+.nextQuestion
+{
+width: 170px;  
+}
+.NextQue:hover{
+	color:#fff!important;
+}
+.showResult
+{
+width: 159px;
+}
+.AssessmentbtnSubmitSection
+{
+    float: right;
+    padding-right: 18px;
+    padding-top: 14px;
+}
+
+.AssessmentResult
+{
+    background-image: url("../../../Media/eng/images/resultPopupbgtrans.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position:absolute;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+}
+
+.attemppopUpDiv
+{
+position: relative;
+    text-align: center;
+    color: #000;
+    font-size: 24px;
+    font-weight: bold;
+    height: 412px;
+    background: linear-gradient(#ffffff 70%, #d3e1ee);
+    background: -moz-linear-gradient(#ffffff 70%, #d3e1ee);
+    background: -o-linear-gradient(#ffffff 70%, #d3e1ee);
+    background: -webkit-linear-gradient(#ffffff 70%, #d3e1ee);
+    border-radius: 12px;
+    padding: 21px 0;
+    }
+
+.your_score_text
+{
+    position: absolute;
+    text-align: center;
+    width: 30%;
+    left: 0;
+    right: 0;
+    font-weight: bold;
+    font-family: Arial;
+    line-height: 30px;
+    font-size: 26px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 33px;
+    display: inline;
+}
+  
+  .your_score_img
+  {
+    position: absolute;
+    top: -8px;
+    left: 12px;
+  }
+  
+
+    
+    .attemppopUpDiv .middleContainer
+    {
+  width: 95%;
+  position: relative;
+  float: left;
+  margin-top: 5px;
+  margin-bottom: 3px;
+  text-align: center;
+  font-size: 14px;
+  color: #000;
+  font-weight: normal;
+  padding: 5px 10px;
+        }
+		
+.asmtFailure1
+    {
+      position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 27px;
+    font-weight: bold;
+        }
+		
+.optionHolder input[type=radio] {
+    display: block;
+}
+.asmtCertificationbtnClick
+	{
+    margin: 0;
+    height: auto;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: auto;
+    background-color: #980032;
+    color: #fff;
+    text-align: center;
+    border-radius: 4px;
+	display:none;
+		}
+		
+		.asmtExitbtnClick {
+    float: left;
+    width: 18%;
+    margin-left: 285px;
+}
+		
+.asmtExitbtnClick_style
+{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+    border-radius: 5px;
+    color: #879fb5;
+}
+.asmtExitbtnClick_style:hover
+{
+	color:#fff;
+}
+.assess_bg2
+{
+    background: linear-gradient(#ffffff,#d7e3f0);
+    background: -webkit-linear-gradient(#ffffff,#d7e3f0);
+    background: -o-linear-gradient(#ffffff,#d7e3f0);
+    background: -moz-linear-gradient(#ffffff,#d7e3f0);
+    width: 757px;
+    margin: 0 auto;
+    border-radius: 12px;
+    height: 452px;
+}
+
+.AssessmentQueBg2
+{
+    background-image: url("../../../Media/eng/images/assessment_q.png");
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 443px;
+    width: 746px;
+    margin-left: 11px;
+    display: block;
+    top: 9px;
+    border-bottom-right-radius: 12px;
+}
+
+.feedback-container {
+    position: absolute;
+    top: 130px;
+    left: 0;
+    right: 0;
+    width: 400px;
+    background: #344b62;
+    margin: 0 auto;
+    border: 1px solid #283f54;
+    box-shadow: inset 0 0 3px #fff;
+    color: #fff;
+    border-radius: 12px;
+    font-size: 18px;
+    padding: 15px;
+}
+
+.feedbackTitle
+{
+	    padding-bottom: 14px;
+    border-bottom: 1px solid #445d70;
+    margin-bottom: 21px;
+}
+
+.AssessmentInnerBG .pagination-number
+{
+	    float: left;
+    color: #879fb5;
+    font-size: 18px;
+    padding: 3px 6px 0;
+}
+
+.PointValue
+{
+	float: right;
+    color: #879fb5;
+    font-size: 18px;
+    padding: 3px 24px 0;
+}
+
+.NextQue
+{
+background-color: #3d5a70;
+    color: #879fb5;
+    font-size: 17px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 147px;
+    border-radius: 6px;
+    border: 1px solid #597386;
+    text-align: center;
+    margin: 40px auto 0;
+    display: block;
+    cursor: pointer;
+}
+
+.ScoreSection {
+    width: 53%;
+    margin: 12px auto;
+}
+
+.ScreTextTitle {
+    float: left;
+    width: 45%;
+    text-align: left;
+}
+
+.SCoreeGot {
+    float: right;
+    text-align: left;
+    width: 54%;
+}
+
+.AssResult
+{
+	    width: 755px;
+    margin: 32px auto 0;
+}
+
+.FinitBtn
+{
+    background-color: #3d5a70;
+    color: #879fb5;
+    font-size: 17px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 91px;
+    border-radius: 24px;
+    border: 1px solid #597386;
+    text-align: center;
+    float: left;
+    cursor: pointer;
+}
+.FinitBtn:hover
+{
+	color:#fff;
+}
+
+.ReviewBtn {
+    background-color: #3d5a70;
+    color: #879fb5;
+    font-size: 17px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 123px;
+    border-radius: 24px;
+    border: 1px solid #597386;
+    text-align: center;
+    float: left;
+    margin-right: 12px;
+    cursor: pointer;
+}
+.ReviewBtn:hover
+{
+	color:#fff;
+}
+
+.ResultBtnSection
+{
+	    width: 237px;
+    margin: 15px auto 0;
+}

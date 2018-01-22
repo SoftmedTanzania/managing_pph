@@ -1,0 +1,63 @@
+.KeyPointWhiteBgCyk {
+background-image: url("../../../Media/eng/images/whiteBG.png");
+    width: 723px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    background-size: 100% 100%;
+    padding: 15px 25px;
+    position: relative;
+}
+
+.KeyPointCykDesc {
+    line-height: 20px;
+    padding: 7px 0;
+}
+
+.KeyPointCykItext {
+    color: #990000;
+    padding-bottom: 10px;
+}
+
+.KeyPointCykOptionSection {
+    position: relative;
+    width: 580px;
+}
+
+.KeyPointCykOption {
+    background-image: url("../../../Media/eng/images/0101002-21-01.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 560px;
+    height: 38px;
+    line-height: 38px;
+    cursor: pointer;
+    padding-left: 20px;
+	}
+
+.KeyPointCykTick {
+    position: absolute;
+    right: -20px;
+    top: 8px;
+}
+
+.KeyPointCykSection {
+    padding-bottom: 5px;
+}
+
+/*Animation*/
+.cyk1Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+}
+
+.cyk2Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+}
+
+.cyk3Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+}
+

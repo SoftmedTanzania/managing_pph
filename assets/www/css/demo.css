@@ -1,0 +1,21 @@
+
+nav:not(.mm-menu)
+{
+	display: none;
+}
+
+
+.header.mm-fixed-top + .content
+{
+	background-position: 25px 55px;
+}
+
+
+html.mm-opened.mm-zoom-menu body
+{
+	 background: #333;
+}
+html.mm-opened.mm-zoom-menu .mm-page
+{
+	background-color: #fff;
+}

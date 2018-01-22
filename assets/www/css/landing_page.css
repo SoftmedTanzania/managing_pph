@@ -1,0 +1,73 @@
+
+body {
+    background-attachment: fixed;
+    background-color: #4b425d;
+    font-family: "HelveticaNeue-Light","HelveticaNeue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.violetlogo {
+	width:30%;
+	margin:30% auto;
+}
+
+.violetlogo img {
+ 	width:100%;
+}
+
+
+.LandingLogo
+{
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: auto!important;
+}
+
+@media (max-width: 800px)  {
+.violetlogo {
+	width:40%;
+	margin:35% auto 0;	
+	height:auto;
+}
+}
+
+@media (max-width: 768px)  {
+.violetlogo {
+	width:50%;
+	margin:45% auto 0;	
+	height:auto;
+}
+}
+
+@media (max-width: 640px)  {
+.violetlogo {
+	width:60%;
+	margin:55% auto 0;	
+	height:auto;
+}
+}
+
+@media (max-width: 480px)  {
+.violetlogo {
+	width:70%;
+	margin:55% auto 0;	
+	height:auto;
+}
+}
+
+@media (max-width: 320px)  {
+.violetlogo {
+	width:80%;
+	margin:55% auto 0;	
+	height:auto;
+}
+}

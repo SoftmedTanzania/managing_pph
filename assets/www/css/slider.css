@@ -1,0 +1,162 @@
+﻿.presto_logo img {
+    margin-top: 0;
+    text-align: left;
+	width: 42%;
+}
+
+.slide_left{
+background:#ff8e31;
+width:50%;
+float:left;
+overflow:hidden;
+}
+
+
+.slide_right{
+background:#8d1240;
+width:50%;
+float:right;
+overflow:hidden;
+}
+
+.learn_brain img{
+ float: right;
+    margin: 30% 0% 40% ;
+}
+
+.asses_brain img{
+ float: left;
+    margin: 30% 0% 40%;
+}
+
+
+.learn_button {
+cursor: pointer;
+    position: absolute;
+  right: 50%;
+    top: 12%;
+    z-index: 999;
+}
+
+.assess_button {
+  bottom: 9%;
+    cursor: pointer;
+    position: absolute;
+    left: 50%;
+	 z-index: 999
+}
+.swipe{
+  background: #222 none repeat scroll 0 0;
+    bottom: 0;
+    color: #fff;
+    font-size: 24px;
+    opacity: 0.5;
+    padding: 10px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+.elearning-icon{
+cursor: pointer;
+    position: absolute;
+  right: 47%;
+    top: 12%;
+    z-index: 999;
+}
+@media screen and (max-width: 900px) {
+.asses_brain img {
+    margin: 40% 0 55%;
+}
+
+.learn_brain img {
+      margin: 40% 0 55%;
+   
+}
+.assess_button {
+    left: 51%;
+}
+.learn_button {
+    right: 51%;
+}
+}
+
+@media screen and (max-width: 640px) {
+
+.asses_brain img {
+    margin: 50% 0 65%;
+	 width: 75%;
+}
+
+.learn_brain img {
+      margin: 50% 0 65%;
+	   width: 75%;
+   
+}
+.assess_button {
+    left: 52%;
+}
+.learn_button {
+    right: 52%;
+}
+
+.swipe {
+    font-size: 20px;
+}
+}
+
+
+@media screen and (max-width: 480px) {
+.assess_button {
+    left: 42%;
+}
+.learn_button {
+    right: 42%;
+}
+.learn_brain img {
+    margin: 50% 0 65%;
+    width: 85%;
+}
+.asses_brain img {
+    margin: 50% 0 65%;
+    width: 85%;
+}
+.swipe {
+    font-size: 18px;
+}
+}
+
+
+@media screen and (max-width: 380px) {
+.learn_button {
+    right: 42%;
+    top: 12%;
+    width: 37%;
+}
+.assess_button {
+     bottom: 11%;
+    left: 42.1%;
+    width: 40%;
+}
+.learn_brain img {
+    margin: 50% 0 65%;
+    width: 96%;
+}
+.asses_brain img {
+    margin: 50% 0 65%;
+    width: 96%;
+}
+.swipe {
+    font-size: 15px;
+}
+}
+
+@media screen and (max-width: 350px) {
+.learn_brain img {
+    margin: 75% 0 74%;
+    width: 96%;
+}
+.asses_brain img {
+    margin: 75% 0 74%;
+    width: 96%;
+}
+}

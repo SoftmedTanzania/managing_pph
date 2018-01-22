@@ -1,0 +1,203 @@
+.pages_2_bg_1{
+    background-image: url("../../../Media/eng/images/pages_2_bg_1.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 449px;
+    position: relative;
+}
+
+.safari .pages_2_bg_1
+{
+    min-height: 449px;
+}
+
+.intro_txt{
+	font-size: 20px;
+    padding: 10px;
+    color: #0062ad;
+    font-weight: bold;
+	}
+	
+.click_footer{
+    font-size: 18px;
+    padding: 0px 10px;
+    line-height: 26px;
+    font-style: italic;
+    color: #990000;
+    position: absolute;
+    left: 70px;
+    bottom: 50px;
+}
+
+.video_img{
+    margin-left: 20px;
+    margin-top: 42px;
+    cursor: pointer;
+    width: 49px;
+}
+
+.tab-list{
+    background-image: url("../../../Media/eng/images/keyPointBg.png");
+    background-repeat: no-repeat;
+    padding: 7px 50px 5px;
+    line-height: 37px;
+    margin-top: 12px;
+    font-size: 20px;
+}
+
+.safari .tab-list{
+    background-image: url("../../../Media/eng/images/keyPointBg.png");
+    background-repeat: no-repeat;
+    padding: 7px 50px 5px;
+    line-height: 37px;
+    margin-top: 12px;
+    font-size: 20px;
+}
+
+.video_temp_2_01_bg {
+background-color:#fff;
+margin:0 auto;
+    width: 98%;
+    border: 1px solid #000;
+    min-height: 440px;
+	  box-shadow: 2px 2px 2px;
+}
+.close_tabs_2_01 {
+    background-image: url("../../../Media/eng/images/close.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 27px;
+    height: 26px;
+    position: absolute;
+    right: 14px;
+    top: 6px;
+    cursor: pointer;
+    z-index: 99;
+}
+.close_tabs_txt_2_01 {
+    font-size: 15px;
+    position: absolute;
+    right: 29px;
+    top: 3px;
+    color: #2c5278;
+    z-index: 9999;
+}
+.close_tabs_2_01:hover {
+    background-image: url("../../../Media/eng/images/close_hover.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.clickMain_2_01 {
+    width: 112px;
+    text-align: center;
+    border-radius: 7px;
+    float: right;
+    color: #fff;
+    margin-right: 12px;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+    cursor: pointer;
+    bottom: 115px;
+    left: 220px;
+}
+.mainDiv_lesson {
+    width: 800px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+.impText
+{
+    font-size: 18px;
+    padding: 10px 10px 10px 10px;
+}
+.keyPointText
+{
+    font-size: 18px;
+    padding: 10px 10px 10px 10px;
+}
+
+.YesText
+{
+    position: absolute;
+    top: 9px;
+    right: 47px;
+    font-size: 18px;
+}
+
+/*Animation*/
+
+
+@-webkit-keyframes list_order{
+  0% {
+    -webkit-transform: translate3d(-3%, 0, 0);
+    transform: translate3d(-3%, 0, 0);
+   opacity:0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+   opacity:1;
+  }
+}
+
+@keyframes list_order{
+  0% {
+    -webkit-transform: translate3d(-3%, 0, 0);
+    transform: translate3d(-3%, 0, 0);
+   opacity:0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    opacity:1;
+  }
+}
+
+
+
+.list_order1{
+  -webkit-animation-name: list_order;
+  animation-name: list_order;
+  -webkit-animation-delay: 25s;
+    animation-delay:25s;
+    -moz-animation-delay: 25s;
+}
+
+.list_order2 {
+  -webkit-animation-name: list_order;
+  animation-name: list_order;
+  -webkit-animation-delay: 32s;
+    animation-delay:32s;
+    -moz-animation-delay: 32s;
+}
+
+.list_order3 {
+  -webkit-animation-name: list_order;
+  animation-name: list_order;
+  -webkit-animation-delay: 43.5s;
+    animation-delay:43.5s;
+    -moz-animation-delay: 43.5s;
+}
+.list_order4 {
+  -webkit-animation-name: list_order;
+  animation-name: list_order;
+  -webkit-animation-delay: 49s;
+    animation-delay:49s;
+    -moz-animation-delay: 49s;
+}
+.list_order5 {
+  -webkit-animation-name: list_order;
+  animation-name: list_order;
+  -webkit-animation-delay: 54s;
+    animation-delay:54s;
+    -moz-animation-delay: 54s;
+}
+
+.video_img_ani{
+  -webkit-animation-name: list_order;
+  animation-name: list_order;
+}

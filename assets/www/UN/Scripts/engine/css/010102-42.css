@@ -1,0 +1,278 @@
+.question-body_102_42
+{	background-color:#fae5ba;
+    color: #000;
+    background-repeat: no-repeat;
+    width: 729px;
+    height: 138px;
+    padding: 7px 35px 20%;
+	
+}
+
+.question-option_102_42 {    
+    margin-left: 11%;
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.questionbgarea_102_42 {
+	float:left;
+	width:100%;
+}
+
+.questionimg_102_42 {
+	background-image: url("../../../Media/eng/images/l01_s21_01.png");
+    background-repeat: no-repeat;
+    width: 7%;
+    height: 41px;
+    float: left;
+    font-size: 18px;
+    padding: 13px 1% 0% 12px;
+	    top: 12px;
+    position: relative;
+}
+
+.question_102_42
+{
+	padding-top: 15px;
+    font-size: 17px;
+    padding-bottom: 7px;
+    width: 84%;
+    margin: 0 0 0 0%;
+    line-height: 22px;
+    float: left;
+}
+
+.right-content_102_42
+{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.question-option_102_42 input[type="radio"] {
+	display:none;
+}
+
+.question-option_102_42 input[type="radio"] + label
+{
+	display: block;
+    background-position: left 0;
+    cursor: pointer;
+    font-size: 16px;
+    color: #000;
+    padding: 0 53px;
+    font-weight: normal;
+    margin-bottom: 0;
+    background-image: url("../../../Media/eng/images/radio_btn1.png");
+    background-repeat: no-repeat;
+    line-height: 30px;
+    padding-bottom: 9px;
+}
+
+.question-option_102_42 input[type="radio"]:checked + label
+{
+	display: block;
+    background-position: left 0;
+    cursor: pointer;
+    font-size: 16px;
+    color: #000;
+    padding: 0 53px;
+    font-weight: normal;
+    margin-bottom: 0;
+    background-image: url("../../../Media/eng/images/radio_btn2.png");
+  background-repeat: no-repeat;
+    line-height: 30px;
+    padding-bottom: 9px;
+}
+
+
+.question-option_102_42  input[type="checkbox"] {
+	display:none;
+}
+
+.question-option_102_42  input[type="checkbox"] + label
+{
+	display: block;
+    background-position: left 0px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #000;
+    padding: 0 53px;
+    font-weight: normal;
+    margin-bottom: 0;
+    background-image: url("../../../Media/eng/images/checkbox.png");
+    background-repeat: no-repeat;
+    line-height: 35px;
+	float:left;
+}
+
+.question-option_102_42  input[type="checkbox"]:checked + label
+{
+	display: block;
+    background-position: left 0px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #000;
+    padding: 0 53px;
+    font-weight: normal;
+    margin-bottom: 0;
+    background-image: url("../../../Media/eng/images/checkbox_hover.png");
+     background-repeat: no-repeat;
+    line-height: 35px;
+	float:left;
+}
+
+.question-submit-button_102_42 
+{
+    width: 71%;
+    text-align: right;
+    position: absolute;
+    left: -393px;
+    bottom: 78px;
+}
+
+.options {
+    padding: 10px 15px;
+}
+
+.AssessmentbtnSubmit_102_42 
+{
+	background-image: url("../../../Media/eng/images/button_bg.png");
+    color:#457287;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    height: 53px;
+    width: 139px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    text-align: center;
+    padding-left: 22px;
+    padding-right: 23px;
+    text-shadow: 2px 2px #6d93af;
+    font-size: 16px;
+	    text-shadow: 0px 1px #6d93af;
+}
+
+.AssessmentbtnSubmit_102_42 :hover
+{
+  background-image: url("../../../Media/eng/images/button_bg_hover.png");
+  color:#457287;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0 0 2% 0;
+    height: 53px;
+    width: 139px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    text-align: center;
+    padding-left: 22px;
+    padding-right: 23px;
+    text-shadow: 2px 2px #6d93af;
+    font-size: 16px;
+	    text-shadow: 0px 1px #6d93af;
+}
+
+.submit_btn_102_42 {
+    background-color: transparent;
+    background-image: url("../../../Media/eng/images/submit.png");
+    background-size: 100% 100%;
+    border: medium none;
+    color: #fff;
+    font-size: 16px;
+    height: 44px;
+    outline: medium none;
+    width: 143px;
+    position: absolute;
+    left: 38px;
+    bottom: 112px;
+    opacity:0.5;
+	cursor:default;
+}
+.submit_btn_Hover
+{
+    background-image: url("../../../Media/eng/images/submit2.png")!important;
+    background-repeat: no-repeat;
+}
+
+.submitBtnDisable
+{
+    background-image: url("../../../Media/eng/images/submit2.png");
+    background-repeat: no-repeat;
+}
+.correct_102_42_1{
+	background-image: url("../../../Media/eng/images/correct.png");
+	background-repeat:no-repeat;
+	width: 25px;
+    height: 18px;
+    position: absolute;
+        top: 5px;
+    left: -21px;
+}
+
+.correct_102_42_2{
+	background-image: url("../../../Media/eng/images/correct.png");
+	background-repeat:no-repeat;
+	width: 25px;
+    height: 18px;
+    position: absolute;
+        top: 5px;
+    left: -21px;
+}
+
+.incorrect_102_42_1 {
+	background-image: url("../../../Media/eng/images/incorrect.png");
+	background-repeat:no-repeat;
+	width: 25px;
+    height: 18px;
+    position: absolute;
+    top: 5px;
+    left: -21px;
+}
+.incorrect_102_42_2 {
+	background-image: url("../../../Media/eng/images/incorrect.png");
+	background-repeat:no-repeat;
+	width: 25px;
+    height: 18px;
+    position: absolute;
+    top: 5px;
+    left: -21px;
+}
+.incorrect_102_42_3 {
+	background-image: url("../../../Media/eng/images/incorrect.png");
+	background-repeat:no-repeat;
+	width: 25px;
+    height: 18px;
+    position: absolute;
+    top: 5px;
+    left: -21px;
+}
+.correctfeedback_102_42  {
+	background-image: url("../../../Media/eng/images/feedback_box.png");
+    background-repeat: repeat-x;
+    background-size: 100% 100%;
+    padding: 8px 15px;
+    border-radius: 10px;
+    font-size: 18px;
+    width: 91%;
+    margin: 1% auto 1px;
+    border: 1px solid #87ceff;
+}
+
+.wrongfeedback_102_42  {
+	background-image: url("../../../Media/eng/images/feedback_box.png");
+    background-repeat: repeat-x;
+    background-size: 100% 100%;
+    padding: 3% 2%;
+    border-radius: 10px;
+    font-size: 18px;
+    width: 91%;
+    margin: 1% auto 1px;
+    border: 1px solid #87ceff;
+}

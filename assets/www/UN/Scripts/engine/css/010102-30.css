@@ -1,0 +1,51 @@
+.effectiveWhiteBg
+{
+    background: #fff;
+    border: 1px solid #999999;
+    margin: 10px 23px;
+    position: relative;
+    text-align: center;
+}
+
+.TransWhiteBg {
+       background-color: #fff;
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    opacity: 0.7;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+
+.EffectiveImg2 {
+    position: absolute;
+    width: 195px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 27px;
+	    z-index: 2;
+}
+
+.effectiveSpacing {
+    padding: 53px 0;
+}
+
+.EffectiveImg1 {
+    padding: 38px 0;
+}
+
+/*Animation*/
+.Effective1Anim {
+  -webkit-animation-name: zoomInCommon;
+  animation-name: zoomInCommon;
+}
+
+.Effective2Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:0s;
+    animation-delay:0s;
+    -moz-animation-delay:0s;
+}

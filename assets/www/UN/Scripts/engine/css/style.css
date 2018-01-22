@@ -1,0 +1,680 @@
+.hover_tooltip {
+	background: #b5e2fb;
+    color: #980000;
+    font-size: 16px;
+    padding: 10px 8px 11px 25px;
+    text-transform: none;
+    width: 22%;
+    z-index: 999;
+    margin-top: 5px;
+    text-align: center;
+    line-height: 15px;
+    margin-left: 36px;
+    opacity: 1!important;
+    right: 1px;
+    bottom: 42px;
+    position: absolute;
+    font-style: italic;
+}
+
+/*Welcome Page start*/
+.mainDiv {
+    width: 800px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+.sign
+{
+    background-image: url('../../../Media/eng/images/intro_bg.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 800px;
+    height: 367px;
+    position: absolute;
+    top: 103px;
+}
+
+
+.view
+{
+    font-size: 16px;
+    position: absolute;
+    right: 14px;
+    top: 72px;
+}
+.cross_text{
+font-size: 12px;
+    font-weight: 600;
+    position: relative;
+    top: -4px;
+}
+.danger
+{
+    font-size: 28px;
+    font-weight: bold;
+    color: #040404;
+    position: absolute;
+    left: 40px;
+    top: 150px;
+}
+
+.line_tab
+{
+    position: absolute;
+    bottom: 167px;
+    left: 28px;
+}
+
+.logo_bg
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 58%;
+}
+
+.welocome_bg
+{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 600px;
+    position: relative;
+	/*margin: 35px auto;*/
+}
+
+.clickMain {
+    width: 187px;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 7px;
+    float: right;
+    color: #fff;
+    margin-right: 12px;
+    font-size: 14px;
+    font-weight: bold;
+    position: absolute;
+    cursor: pointer;
+    bottom: 115px;
+    left: 220px;
+}
+.wel_cme_text {
+    padding-left: 32px;
+    padding-top: 11px;
+    font-size: 19px;
+    line-height: 25px;
+}
+/*Welcome Page end*/
+
+/*starthelp start*/
+.note_img {
+    height: 100%;
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+.texture {
+    clear: both;
+    min-height: 439px;
+    position: relative;
+}
+.module_name {
+    font-size: 14px;
+    left: 19px;
+    position: absolute;
+    top: 35px;
+    width: 129px;
+}
+.module_name1 {
+    font-size: 14px;
+    left: 154px;
+    position: absolute;
+    top: 31px;
+    width: 119px;
+}
+.click_audio {
+font-size: 14px;
+    left: 464px;
+    position: absolute;
+    top: 153px;
+    width: 200px;
+}
+.click_glossary {
+bottom: 187px;
+    font-size: 14px;
+    left: 289px;
+    position: absolute;
+    width: 198px;
+}
+.click_page {
+bottom: 172px;
+    font-size: 14px;
+    position: absolute;
+    right: 113px;
+    width: 250px;
+}
+.click_menu {
+    bottom: 140px;
+    font-size: 14px;
+    left: 58px;
+    position: absolute;
+    width: 198px;
+}
+.click_resources {
+    bottom: 81px;
+    font-size: 14px;
+    left: 409px;
+    position: absolute;
+    width: 162px;
+}
+.click_back {
+bottom: 72px;
+    font-size: 14px;
+    position: absolute;
+    right: 243px;
+    width: 147px;
+}
+.click_next {
+    bottom: 69px;
+    font-size: 14px;
+    position: absolute;
+    right: 80px;
+    width: 140px;
+}
+.click_exit {
+    bottom: 42px;
+    font-size: 14px;
+    left: 42px;
+    position: absolute;
+    width: 177px;
+}
+.click_help {
+    bottom: 55px;
+    font-size: 14px;
+    left: 255px;
+    position: absolute;
+    width: 120px;
+}
+.start_proceed_btn1 {
+    position: absolute;
+    top: 8px;
+    right: 6px;
+}
+.note_img img
+{
+    width:100%;
+    height:100%;
+}
+/*starthelp end*/
+
+/*010101-01a start*/
+
+.some_image_bg
+{
+    background-image: url("../../../Media/eng/images/010101-01a-01.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 449px;
+    padding: 3px 36px;
+}
+
+.some_image
+{
+      width: 395px;
+  float: left;
+}
+    
+ .some_image1
+{
+     width: 437px;
+  float: right;
+  position: relative;
+  margin-top: 94px;
+}   
+    
+.law
+{
+    float: right;
+    width: 187px;
+}
+        
+.ruppe
+{
+    float: right;
+    width: 187px;
+}   
+        
+.news
+{
+    float:left;
+    width: 187px;
+}  
+         
+.bank
+{
+    float:left;
+    width: 187px;
+}       
+        
+.law_txt
+{
+    width: 200px;
+    text-align: right;
+    font-size: 16px;
+    float: left;
+    padding-top: 66px;
+}  
+.ruppe_txt
+{
+    width: 196px;
+    text-align: right;
+    font-size: 16px;
+    float: left;
+    padding-top: 51px;
+}       
+.news_txt
+{
+    float: right;
+    text-align: left;
+    font-size: 16px;
+    line-height: 20px;
+    width: 247px;
+    margin-top: 46px;
+}   
+        
+.bank_txt
+{
+    width: 247px;
+    text-align: left;
+    font-size: 16px;
+    line-height: 20px;
+    float: right;
+    margin-top: 78px;
+}  
+.seconSection{margin-top: -79px;}              
+.law img, .news img, .ruppe img, .bank img{width:100%;}
+.some_image12{margin-top: 3px;}
+/*010101-01a  start*/
+
+/*010101-20a start*/
+
+.tab
+{
+    font-size: 16px;
+    color: #774894;
+    font-family: SwissLtBTItalic;
+	font-style: italic;
+    }
+    
+ .loundering_background
+ {
+       background-image: url("../../../Media/eng/images/loundering_bg.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  min-height: 449px;
+     }   
+    
+  #money_tab_two
+  {
+         background-image: url("../../../Media/eng/images/black_trans.png");
+  background-size: 100% 100%;
+  background-repeat: repeat;
+  height: 449px;
+  padding-top: 11%;
+    position: absolute;
+     left: 0;
+  right: 0;
+      }  
+      
+      
+  #money_tab_third
+  {
+          background-image: url("../../../Media/eng/images/black_trans.png");
+  background-size: 100% 100%;
+  background-repeat: repeat;
+  height: 449px;
+  padding-top: 3%;
+    position: absolute;
+     left: 0;
+  right: 0;
+      }      
+    
+   #money_tab_one
+  {
+     background-image: url("../../../Media/eng/images/black_trans.png");
+  background-size: 100% 100%;
+  background-repeat: repeat;
+  height: 449px;
+  padding-top: 2%;
+  position: absolute;
+  left: 0;
+  right: 0;
+      }
+      
+      .money_txt
+      {
+          margin-bottom:0;
+          } 
+    
+.all_tab{
+  background-size: 100% 100%;
+  width: 100%;
+    font-size: 18px;
+  color: #000;
+  text-align: center;
+  border: 3px solid #c8c8ca;
+  height: 85px;
+  background-color: white;
+	margin-top: 41%;
+	  margin-bottom: 0px;
+}
+
+.tab_one
+{
+     padding: 26px 1px 9px 1px;
+  border: 6px solid #9fc757 !important;
+  cursor: pointer;
+  line-height: 18px;
+    }
+    
+.tab_two
+{
+     padding: 19px 7px 0px 1px;
+  border: 6px solid #0099ff !important;
+  cursor: pointer;
+  line-height: 20px;
+    }
+    
+  .tab_three
+{
+    padding: 18px 5px 0px 3px;
+	border: 6px solid #f15f74 !important;
+  line-height:18px;
+  cursor:pointer;
+    }   
+    
+    .question_img {
+  margin: 0 auto;
+  padding-top: 7%;
+  width: 85%;
+}
+
+.question_img img
+{
+    width:100%;
+    }
+    
+
+
+ .sources_bg{
+  min-height: 449px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+      background: -webkit-radial-gradient(#fafafb, #f9fafb, #cedde0); /* Safari 5.1 to 6.0 */
+    background: -o-radial-gradient(#fafafb, #f9fafb, #cedde0); /* For Opera 11.6 to 12.0 */
+    background: -moz-radial-gradient(#fafafb, #f9fafb, #cedde0); /* For Firefox 3.6 to 15 */
+    background: radial-gradient(#fafafb, #f9fafb, #cedde0); /* Standard syntax (must be last) */
+      background-size: 100% 100%;
+}
+
+.sources_txt {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  line-height:20px;
+}
+    
+    .loundering_img
+    {
+        margin: 2% auto 10%;
+  text-align: center;
+  width: 49%;
+        }
+        
+            .loundering_img img
+    {
+        width:100%;
+        }
+        
+    .all_sources
+    {
+         position: relative;
+  width: 68%;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+        }   
+       
+        
+    .tax_div
+    {
+         position: absolute;
+  left: 13px;
+  top: 27px;
+  text-align: center;
+        }  
+        
+     .drug_div
+     {
+       position: absolute;
+  right: -19px;
+  top: 25px;
+  text-align: center;
+         }   
+         
+    .smuggling_div
+    {
+        position: absolute;
+  bottom: 90px;
+  left: -21px;
+  text-align: center;
+        }     
+        
+   .arms_div
+   {
+          position: absolute;
+  right: -54px;
+  bottom: 88px;
+  text-align: center;
+       }   
+       
+   .sharking_div
+   {   bottom: -58px;
+  left: 30px;
+  position: absolute;
+  text-align: center;
+  width: 92%;
+       }   
+       
+   .tax
+   {
+       font-size: 15px;
+  font-weight: bold;
+  background-color: #594b8b;
+  color: #fff;
+  padding: 10px 30px 10px 30px;
+  border-radius: 8px;
+       }    
+           
+
+   .drug
+   {
+         font-size: 15px;
+  font-weight: bold;
+  background-color: #594b8b;
+  color: #fff;
+  padding: 10px 30px 10px 30px;
+  border-radius: 8px;
+       }
+       
+     .smuggling
+   {
+       font-size: 15px;
+  font-weight: bold;
+  background-color: #594b8b;
+  color: #fff;
+  padding: 10px 30px 10px 30px;
+  border-radius: 8px;
+       }
+       
+        .arms
+   {
+        font-size: 15px;
+  font-weight: bold;
+  background-color: #594b8b;
+  color: #fff;
+  padding: 10px 30px 10px 30px;
+  border-radius: 8px;
+       }
+       
+        .sharking
+   {
+        font-size: 15px;
+font-weight: bold;
+background-color: #594b8b;
+color: #fff;
+padding: 10px 0px 10px 2px;
+border-radius: 8px;
+       }   
+
+.understand
+{
+    padding-top:10px;
+    }
+
+.board_desc
+{
+        padding-top: 1%;
+    }
+    
+ .laundering_bg img
+ {
+     width:100%;
+     }   
+
+ .laundering_bg
+ {
+   width: 100%;
+  padding-top: 2%;
+     }  
+     
+  .money_process
+  {
+        font-size: 20px;
+        font-weight: bold;
+      }    
+
+
+.prevention
+{
+      font-size: 18px;
+  font-weight: bold;
+    }
+    
+ .prevention_bg{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 449px;
+    padding-bottom: 15px;
+    padding-top: 6px;
+
+}
+
+.proceed_appear
+{
+background-color: #fff;
+    border: 4px solid #9fc757;
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    width: 90%;
+    }
+    
+ .directly_appear
+{
+       background-color: #fff;
+  border: 4px solid #0099ff;
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 8px;
+  position:absolute;
+  left:0;
+  right:0;
+  margin:0 auto;
+    top:8%;
+    }   
+    
+  .sources_appear
+{
+        background-color: #fff;
+  border: 4px solid #f15f74;
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 8px;
+  position:absolute;
+  left:0;
+  right:0;
+  top:4%;
+  margin:0 auto;
+    }      
+   
+    
+.finance_unit
+{ 
+  margin: 3% auto 0%;
+}
+
+.unit_text
+{
+    font-size: 18px;
+  padding-top: 0;
+  padding-bottom: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+  line-height: 25px;
+    }   
+
+.unit_img
+{
+      width: 54%;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 3px solid #cdcfd3;
+  padding: 2%;
+  margin-bottom: 2%;
+    }
+    
+.pink_back_btn,.green_back_btn,.sky_blue_back_btn
+{
+cursor: pointer;
+}
+
+
+ .pink_back_btn img,  .green_back_btn img,  .sky_blue_back_btn img
+ {
+     width:100%;
+     }
+      
+    .back_btn_txt
+    {
+         font-size: 19px;
+  font-weight: bold;
+  padding-left: 7px;
+  padding-top: 0px;
+  position: relative;
+  top: 1px; 
+    }   
+.LaunderingTab {
+    float: left;
+    margin-left: 9px;
+    margin-right: 9px;
+    width: 31.3%;
+}
+/*010101-20a end*/

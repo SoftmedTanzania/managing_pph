@@ -1,0 +1,60 @@
+.SignWhiteBg {
+background-image: url("../../../Media/eng/images/whiteBG.png");
+    width: 723px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    background-size: 100% 100%;
+    padding: 28px 25px;
+    position: relative;
+}
+
+.SignDesc
+{
+    background-image: url("../../../Media/eng/images/010102-34-04.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 217px;
+    height: 51px;
+    line-height: 51px;
+}
+
+.SignHeading {
+    padding: 10px;
+    font-size: 18px;
+}
+
+.SignSection {
+    float: left;
+    margin: 54px 12px;
+    text-align: center;
+}
+
+.Sign2Img {
+    margin-top: -5px;
+}
+
+/*Animation*/
+.Sign1Anim {
+  -webkit-animation-name: zoomInCommon;
+  animation-name: zoomInCommon;
+      -webkit-animation-delay:1s;
+    animation-delay:1s;
+    -moz-animation-delay:1s;
+}
+
+.Sign2Anim {
+  -webkit-animation-name: zoomInCommon;
+  animation-name: zoomInCommon;
+      -webkit-animation-delay:11s;
+    animation-delay:11s;
+    -moz-animation-delay:11s;
+}
+
+.Sign3Anim {
+  -webkit-animation-name: zoomInCommon;
+  animation-name: zoomInCommon;
+      -webkit-animation-delay:25s;
+    animation-delay:25s;
+    -moz-animation-delay:25s;
+}

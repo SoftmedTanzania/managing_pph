@@ -1,0 +1,178 @@
+.pages_bg_9{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 449px;
+    position: relative;
+}
+
+.pre_module_txt{
+	font-size: 20px;
+    padding: 10px;
+    color: #0062ad;
+    font-weight: bold;
+	}
+	
+.quiz_para{
+position: absolute;
+    right: 6%;
+    width: 200px;
+    font-size: 18px;
+    line-height: 23px;
+    top: 1%;
+}
+
+.bubble_imggif
+{
+position:absolute;
+right:0;
+top:-24px;
+}
+
+.bubble_img{
+    position: absolute;
+    right: 0px;
+    top: -24px;
+}
+
+.lady_img{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.question-option_102_07 input[type="radio"] {
+	display:none;
+}
+
+.question-option_102_07 input[type="radio"] + label
+{
+	display: block;
+    background-position: left 0;
+    cursor: pointer;
+    font-size: 16px;
+    color: #000;
+    padding: 0 53px;
+    font-weight: normal;
+    margin-bottom: 0;
+    background-image: url("../../../Media/eng/images/radio_btn1.png");
+    background-repeat: no-repeat;
+    line-height: 30px;
+    padding-bottom: 9px;
+}
+
+.question-option_102_07 input[type="radio"]:checked + label
+{
+	display: block;
+    background-position: left 0;
+    cursor: pointer;
+    font-size: 16px;
+    color: #000;
+    padding: 0 53px;
+    font-weight: normal;
+    margin-bottom: 0;
+    background-image: url("../../../Media/eng/images/radio_btn2.png");
+    background-repeat: no-repeat;
+    line-height: 30px;
+    padding-bottom: 9px;
+}
+/* Animation */
+@-webkit-keyframes slideInLeft_1_07 {
+  0% {
+    -webkit-transform: translate3d(-3%, 0, 0);
+    transform: translate3d(-3%, 0, 0);
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+	opacity: 1;
+  }
+}
+
+@keyframes slideInLeft_1_07 {
+  0% {
+    -webkit-transform: translate3d(-3%, 0, 0);
+    transform: translate3d(-3%, 0, 0);
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+	opacity: 1;
+  }
+}
+
+.pre_module_txt_ani {
+  -webkit-animation-name: slideInLeft_1_07;
+  animation-name: slideInLeft_1_07;
+}
+@-webkit-keyframes fadeIn_1_07 {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn_1_07 {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+.bubble_img_ani {
+  -webkit-animation-name: fadeIn_1_07;
+  animation-name: fadeIn_1_07;
+   animation-delay:1s;
+  -webkit-animation-delay:1s;
+  -moz-animation-delay:1s;
+}
+.quiz_para_ani {
+  -webkit-animation-name: fadeIn_1_07;
+  animation-name: fadeIn_1_07;
+   animation-delay:1s;
+  -webkit-animation-delay:1s;
+  -moz-animation-delay:1s;
+}
+@-webkit-keyframes slideInRight_1_07 {
+  0% {
+    -webkit-transform: translate3d(3%, 0, 0);
+    transform: translate3d(3%, 0, 0);
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+	opacity: 1;
+  }
+}
+
+@keyframes slideInRight_1_07 {
+  0% {
+    -webkit-transform: translate3d(3%, 0, 0);
+    transform: translate3d(3%, 0, 0);
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+	opacity: 1;
+  }
+}
+
+.lady_img_ani {
+  -webkit-animation-name: slideInRight_1_07;
+  animation-name: slideInRight_1_07;
+   animation-delay:1s;
+  -webkit-animation-delay:1s;
+  -moz-animation-delay:1s;
+}

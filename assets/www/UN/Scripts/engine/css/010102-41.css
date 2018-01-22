@@ -1,0 +1,255 @@
+.question-body_102_41
+{	background-color:#fae5ba;
+    color: #000;
+    background-repeat: no-repeat;
+    width: 729px;
+    height: 118px;
+    padding: 10px 35px 20%;
+	
+}
+
+.question-option_102_41 {    
+	margin-left: 11%;
+    width: 100%;
+    float: left;
+	position: relative;
+}
+
+.questionbgarea_102_41{
+	float:left;
+	width:100%;
+}
+
+.questionbgarea_102_41New
+{
+font-size: 18px;
+padding:10px;
+}
+
+.questionimg_102_41 {
+	background-image: url("../../../Media/eng/images/l01_s21_01.png");
+    background-repeat: no-repeat;
+    width: 7%;
+    height: 41px;
+    float: left;
+    font-size: 18px;
+    padding: 13px 1% 0% 12px;
+}
+
+.question_102_41
+{
+	padding-top: 15px;
+    font-size: 17px;
+    padding-bottom: 7px;
+    width: 84%;
+    margin: 0 0 0 0%;
+    line-height: 22px;
+    float: left;
+}
+
+.right-content_102_41
+{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.question-option_102_41 input[type="radio"] {
+	display:none;
+}
+
+.question-option_102_41 input[type="radio"] + label
+{
+	display: block;
+    background-position: left 0;
+    cursor: pointer;
+    font-size: 16px;
+    color: #000;
+    padding: 0 53px;
+    font-weight: normal;
+    margin-bottom: 0;
+    background-image: url("../../../Media/eng/images/radio_btn1.png");
+    background-repeat: no-repeat;
+    line-height: 30px;
+    padding-bottom: 9px;
+}
+
+.question-option_102_41 input[type="radio"]:checked + label
+{
+	display: block;
+    background-position: left 0;
+    cursor: pointer;
+    font-size: 16px;
+    color: #000;
+    padding: 0 53px;
+    font-weight: normal;
+    margin-bottom: 0;
+    background-image: url("../../../Media/eng/images/radio_btn2.png");
+  background-repeat: no-repeat;
+    line-height: 30px;
+    padding-bottom: 9px;
+}
+
+
+.question-option_102_41 input[type="checkbox"] {
+	display:none;
+}
+
+.question-option_102_41 input[type="checkbox"] + label
+{
+	display: block;
+    background-position: left 0px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #000;
+    padding: 0 53px;
+    font-weight: normal;
+    margin-bottom: 0;
+    background-image: url("../../../Media/eng/images/checkbox.png");
+    background-repeat: no-repeat;
+    line-height: 35px;
+	float:left;
+}
+
+.question-option_102_41 input[type="checkbox"]:checked + label
+{
+	display: block;
+    background-position: left 0px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #000;
+    padding: 0 53px;
+    font-weight: normal;
+    margin-bottom: 0;
+    background-image: url("../../../Media/eng/images/checkbox_hover.png");
+     background-repeat: no-repeat;
+    line-height: 35px;
+	float:left;
+}
+
+.question-submit-button_102_41
+{
+    width: 71%;
+    text-align: right;
+    position: absolute;
+    left: -393px;
+    bottom: 78px;
+}
+
+.options {
+    padding: 10px 15px;
+}
+
+.AssessmentbtnSubmit_102_41
+{
+	background-image: url("../../../Media/eng/images/button_bg.png");
+    color:#457287;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    height: 53px;
+    width: 139px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    text-align: center;
+    padding-left: 22px;
+    padding-right: 23px;
+    text-shadow: 2px 2px #6d93af;
+    font-size: 16px;
+	    text-shadow: 0px 1px #6d93af;
+}
+
+.AssessmentbtnSubmit_102_41:hover
+{
+  background-image: url("../../../Media/eng/images/button_bg_hover.png");
+  color:#457287;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0 0 2% 0;
+    height: 53px;
+    width: 139px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    text-align: center;
+    padding-left: 22px;
+    padding-right: 23px;
+    text-shadow: 2px 2px #6d93af;
+    font-size: 16px;
+	    text-shadow: 0px 1px #6d93af;
+}
+
+.submit_btn_102_41 {
+    background-color: transparent;
+    background-image: url("../../../Media/eng/images/submit.png");
+    background-size: 100% 100%;
+    border: medium none;
+    color: #fff;
+    font-size: 16px;
+    height: 44px;
+    outline: medium none;
+    width: 143px;
+    position: absolute;
+    left: 25px;
+    bottom: 152px;
+    opacity:0.5;
+	cursor:default;
+}
+
+.correct_102_41_1{
+	background-image: url("../../../Media/eng/images/correct.png");
+	background-repeat:no-repeat;
+	width: 25px;
+    height: 18px;
+    position: absolute;
+    top: 4px;
+    left: -23px;
+}
+
+.incorrect_102_41_1 {
+	background-image: url("../../../Media/eng/images/incorrect.png");
+	background-repeat:no-repeat;
+	width: 25px;
+    height: 18px;
+    position: absolute;
+    top: 4px;
+    left: -23px;
+}
+
+.incorrect_102_41_2 {
+	background-image: url("../../../Media/eng/images/incorrect.png");
+	background-repeat:no-repeat;
+	width: 25px;
+    height: 18px;
+    position: absolute;
+    top: 4px;
+    left: -23px;
+}
+
+.correctfeedback_102_41 {
+	background-image: url("../../../Media/eng/images/feedback_box.png");
+    background-repeat: repeat-x;
+    background-size: 100% 100%;
+    padding: 3% 2%;
+    border-radius: 10px;
+    font-size: 18px;
+    width: 91%;
+    margin: 1% auto 1px;
+    border: 1px solid #87ceff;
+}
+
+.wrongfeedback_102_41{
+	background-image: url("../../../Media/eng/images/feedback_box.png");
+    background-repeat: repeat-x;
+    background-size: 100% 100%;
+    padding: 3% 2%;
+    border-radius: 10px;
+    font-size: 18px;
+    width: 91%;
+    margin: 1% auto 1px;
+    border: 1px solid #87ceff;
+}

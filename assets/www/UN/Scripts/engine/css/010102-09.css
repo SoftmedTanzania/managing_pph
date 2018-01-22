@@ -1,0 +1,80 @@
+.actionImg
+{
+text-align:center;
+}
+
+.actionImg2 {
+    position: absolute;
+    right: 0;
+    bottom: -3px;
+}
+
+.actionText {
+    padding: 10px;
+    font-size: 18px;
+    color: #990000;
+}
+
+.ActionTab {
+    background-image: url("../../../Media/eng/images/010102-09-04.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 448px;
+    height: 40px;
+    font-size: 18px;
+    padding: 0 10px;
+    line-height: 39px;
+	cursor:pointer;
+}
+
+.ActionTick {
+    position: absolute;
+    right: -42px;
+    top: 10px;
+}
+
+.ActionTabSection {
+    width: 448px;
+    position: relative;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.CallText
+{
+    background-image: url("../../../Media/eng/images/010102-09-05.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 465px;
+    height: 48px;
+    font-size: 18px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 13px;
+    padding-top: 15px;
+}
+
+/*Animation*/
+.ActionClickSectionanim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:1s;
+    animation-delay:1s;
+    -moz-animation-delay:1s;
+}
+
+.CallTextAnim {
+  -webkit-animation-name: slideInLeftCommon;
+  animation-name: slideInLeftCommon;
+      -webkit-animation-delay:22s;
+    animation-delay:22s;
+    -moz-animation-delay:22s;
+}
+
+.actionImg2Anim {
+  -webkit-animation-name: slideInRightCommon;
+  animation-name: slideInRightCommon;
+      -webkit-animation-delay:1s;
+    animation-delay:1s;
+    -moz-animation-delay:1s;
+}

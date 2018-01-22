@@ -1,0 +1,93 @@
+.welcome_section
+{
+background-image: url("../../../Media/eng/images/welcome_bg.jpg");
+height: 465px;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+width: 100%;
+color: #fff;
+font-family: FuturaBT-Book !important;
+line-height: 29px;
+font-size: 24px;
+padding-left: 8%;
+padding-top: 32%;
+padding-right: 45%;
+font-weight: bold;
+}
+.cd91b3f{color:#d91b3f;}
+
+.introclr{
+
+	background-color:#fff;
+	height:465px;
+	display:table
+}
+
+.intro{
+
+	width: 52%;
+	margin: 0 auto;
+	display:table-cell;
+	vertical-align:middle;
+	text-align:center;
+
+}
+
+.launched{
+
+	font-size: 36px;
+	width: 100%;
+	margin: 0 auto;
+	padding-top: 2%;
+	padding-bottom: 3%;
+	background-color: #e31837;
+	text-align: center;
+	color:white;
+	font-weight:bold;
+}
+
+
+@media only screen and (max-width:900px){
+.introclr{background-color:#fff;height:auto;padding:5%;display:block}
+.intro{width: 75%;display:block;}
+.welcome_section {
+height: auto;
+line-height: 28px;
+font-size: 21px;
+padding:30% 36% 9% 8%;
+}
+
+}
+@media only screen and (max-width:640px){
+.welcome_section {
+line-height: 24px;
+font-size: 18px;
+ padding: 31% 36% 9% 8%;
+}
+
+.introclr
+{
+ padding: 8% 2%;
+}
+
+}
+@media only screen and (max-width:480px){
+.welcome_section {
+line-height: 21px;
+font-size: 16px;
+padding-left: 8%;
+padding-top: 14%;
+padding-right: 34%;
+padding-bottom: 11%;
+}
+}
+
+@media only screen and (max-width:320px){
+
+.welcome_section {
+line-height: 18px;
+font-size: 12px;
+  padding: 30% 34% 12% 8%;
+}
+
+}

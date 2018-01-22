@@ -1,0 +1,1017 @@
+﻿body
+{
+    margin:0px;
+    font-family:Arial, Verdana;
+}
+/*LabelText*/
+.labelText
+{
+	text-align: left; /*color: #4b4b4b;*/
+	font-size: 12px;
+	font-weight: normal;
+	font-family: Verdana;
+	text-decoration: none;
+}
+.labelText1d
+{
+	text-align: center; /*color: #4b4b4b;*/
+	font-size: 12px;
+	font-weight: normal;
+	font-family: Verdana;
+	text-decoration: none;
+}
+
+
+.modalBackground
+{
+	background-color: Gray;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
+
+.gridViewPager
+{
+	background-color: #0066CC;
+	color: #FFFFFF;
+	text-align: right;
+	padding: 0px;
+}
+
+
+
+.input_text
+{
+	border: 1px solid #c0c0c0;
+	padding: 4px;
+	width: 200px;
+	font-size: 12px;
+	font-family: Verdana;
+	color: #000000;
+	background-color: #ffffff;
+	margin-bottom: 0px;
+}
+.disableTxtBox
+{
+	-unselectable: ON;
+	-contenteditable: false;
+	-moz-user-select: none;
+	-moz-user-input: disabled;
+}
+
+
+/* This is the CSS class to use when the control has focus */
+
+.input_text:focus, input.input_text_focus
+{
+	border-color: #646464;
+	background-color: #ffffc0;
+}
+.button
+{
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bold;
+	cursor: pointer;
+	height: 30px;
+}
+
+.button:hover
+{
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bold;
+	cursor: pointer;
+	color: Red;
+	height: 30px;
+}
+.mGrid
+{
+	width: 100%;
+/*	font-family: Verdana;	*/
+	background-color: #fff;
+	font-size: 12px;
+	border-collapse: collapse;
+}
+.mGrid td
+{
+	font-size: 13px;
+/*	font-family: Verdana;*/
+	border: solid 1px #D4D5D6;
+	height: 29px;
+	border-left: none;
+	border-top: none;
+}
+.mGrid th
+{
+/*	font-size: 13px;	*/
+	font-weight: bold;
+	background: #E9EAEA;
+	color: #55575b;
+	height: 29px;
+	border: solid 1px #D4D5D6;
+	border-left: none;
+	border-top: none;
+}
+.mGrid .alt
+{
+	background: #F7F8E8;
+	color: Black;
+}
+.mGrid .pgr
+{
+	background: #E3B064;
+	color: white;
+}
+.mGrid .pgr table
+{
+	margin: 5px 0;
+}
+.mGrid .pgr td
+{
+	border-width: 0;
+	color: #AF4D1E;
+	line-height: 12px;
+	font-weight: bold;
+	font-size: 16px;
+}
+.mGrid .pgr a
+{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 16px;
+}
+.mGrid .pgr a:hover
+{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 16px;
+}
+.Manadatory
+{
+	font-weight: bold;
+	font-size: 13px;
+	font-family: Verdana;
+}
+
+.required
+{
+	text-align: left;
+	color: #4b4b4b;
+	font-size: 13px;
+	font-weight: normal;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+div.scroll
+{
+	border: 1px solid #c0c0c0;
+	padding: 4px;
+	font-size: 14px;
+	color: #000000;
+	background-color: #ffffff;
+	height: 180px;
+	overflow: auto;
+	padding: 8px;
+}
+.modalBackground1
+{
+	background-color: Gray;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+	z-index: 1;
+}
+.LinkPaging
+{
+	width: 20px;
+	background-color: White;
+	border: Solid 1px Black;
+	text-align: center;
+	margin-left: 8px;
+}
+div.scroll
+{
+	height: 180px;
+	width: 300px;
+	overflow: auto;
+	border: 1px solid #666;
+	padding: 8px;
+}
+.imagebg
+{
+	background-image: url(    );
+	background-repeat: no-repeat;
+	width: 390px;
+	height: 530px;
+	z-index: 1;
+}
+.txtbox
+{
+	background: url(   ) no-repeat;
+	border: 0;
+	padding: 6px 10px 7px;
+	margin: 0 0 0 4px;
+	width: 320px;
+	z-index: 1;
+}
+.txtbigtextbox
+{
+	background: url(  ) no-repeat;
+	border: 0;
+	padding: 6px 10px 7px;
+	margin: 0 0 0 4px;
+	width: 300px;
+	height: 160px;
+	z-index: 1;
+}
+
+.lblreqire
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	z-index: 1;
+}
+.lbltext1
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #D56A00;
+	font-weight: bold;
+	azimuth: left;
+	z-index: 1;
+}
+.headertext
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	z-index: 1;
+}
+
+/* rotator in-page placement */div.rotator
+{
+	position: relative;
+	display: none;
+}
+/* rotator css */div.rotator ul li
+{
+	position: absolute;
+	list-style: none;
+}
+/* rotator image style */div.rotator ul li img
+{
+	/*border:1px solid #ccc;*/
+	padding: 1px; /*background: #FFF;*/
+}
+div.rotator ul li.para /*recent releases course name is center in home page: */
+{
+	z-index: 0;
+	text-align: center;
+}
+div.rotator.para
+{
+	text-align: center;
+}
+div.rotator .para h1
+{
+	color: #333333;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, calibri, helvetica, geneva, sans-serif;
+}
+div.rotator .para a
+{
+	color: #333333;
+	font-size: 12px;
+}
+div.rotator .para span
+{
+	border-bottom: 1px solid #F58221;
+}
+/* dis added by rahul to show ul and ol on design page genrated by editor 11-4-2012 */
+.dis ul
+{
+	list-style-type: disc;
+	padding-left: 18px;
+}
+
+.dis ol
+{
+	list-style-type: decimal;
+	padding-left: 18px;
+}
+/* padd added by rahul to show ul and ol and datat on design page in sequence  11-4-2012 */
+.padd
+{
+	padding-left: 18px;
+}
+
+.slides_box ul
+{
+	margin: -10px 0 0 0 !important;
+}
+
+/* Site feedback page for "comment text box" alignment 11-5-2012 --Start */
+.CMT
+{
+	background: Transparent;
+	border: 0;
+	padding: 6px 10px 7px;
+	margin: 0 0 0 4px;
+	width: 300px;
+	height: 160px;
+	z-index: 1;
+}
+.CMT input.CMTNew
+{
+	background-color: Transparent;
+	border: 0;
+	width: 290px;
+	height: 140px;
+}
+
+.InstructionText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+/* Site feedback page for "comment text box" alignment 11-5-2012 -- End */
+
+
+
+/* CSS FOR USER_FORMLIST.ASPX START*/
+
+.formlistbg
+{
+	background: #C52543;
+	width: 100%;
+	height: 26px;
+	float: left;
+}
+.lft
+{
+	float: left;
+}
+
+/*.submit_btn
+{
+    float: left;
+	background: url(../User/images/gif/submit_normal.gif) no-repeat;
+	Width:108px; 
+	Height:32px;
+	border:none;
+	font-size:13px;
+	font-weight:bold;
+	color:#ffffff;
+	padding-right:20px;
+	cursor:pointer;
+}
+
+.submit_btn:hover
+{
+background: url(../User/images/gif/submit_hover.gif) no-repeat;
+}*/
+
+.submit_btn
+{
+	border: none;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFF;
+	background:none;
+	cursor:pointer;
+	/*background-image: url(images/arrow.png);
+	background-repeat: no-repeat;
+	background-position: right;*/
+	margin:0px;
+	float: left;
+	height: 18px;
+}
+
+
+.submit
+{
+
+
+	background-repeat:repeat-x;
+	background-position:top left;
+	height:32px;
+	margin-top:15px;
+	padding-left:15px;
+	padding-right:17px;
+	padding-top: 7px;
+	float:left;
+}
+
+.submit:hover
+{
+	
+	background-repeat:repeat-x;
+	background-position:top left;
+}
+
+.forumm
+{
+
+	/*background: url(../User/images/1340642066_page.png) no-repeat;*/
+	width: 36px;
+	height: 24px;
+	background-position: right bottom;
+	float: left;
+}
+.formlistbg .hd
+{
+	color: #ffffff;
+	font-family:'Trebuchet MS';
+	font-size: 14px;
+	font-weight:bold;
+	float: left;
+	margin-top: 3px;
+	margin-left: 10px;
+}
+.formlistbg .navv
+{
+	margin-top: 5px;
+	margin-left: 10px;
+	padding: 0;
+	float: left;
+}
+.formlistbg .navv a
+{
+	color: #ffffff;
+	margin: 0 5px 0 0;
+}
+.ryt
+{
+    float:right;
+    background-color:#ffffff;
+}
+.postnavv
+{
+/*	width: 100%;	*/
+	margin-top: 5px;
+	float: right;
+}
+
+.pagnation
+{
+	/*width: 10%;*/
+	height: 30px;
+	float: right;
+	padding-top: 5px;
+}
+.pagnation .lfft, .pagnation .rytt
+{
+	color: #183884;
+	padding: 5px 10px 0 10px;
+	font-size: 22px;
+	float: left;
+	display: block;
+}
+.pagnation .prsnt
+{
+	color: #666666;
+	padding: 0 10px 0 10px;
+	float: left;
+}
+.pagnation .lfft:hover, .pagnation .rytt:hover, .pagnation .prsnt:hover
+{
+	text-decoration: none;
+}
+.tablhd
+{
+	width: 100%;
+	height: 32px;
+	background: #E9EAEA;
+	float: left;
+}
+.hl
+{
+	width: 99.9%;
+	height: 1px;
+	font-size: 0px;
+	background: #808080;
+	float: left;
+}
+.tablhd .posst
+{
+	width: 500px;
+	/*float: left; */
+	color: #55575b;
+	font-size: 12px;
+	font-weight: bold;
+	text-indent:120px;
+	text-align: center;
+	height: 32px;
+	border-right: solid 1px #D4D5D6;
+	vertical-align: middle;
+}
+.tablhd .athr
+{
+	width: 122px;
+	/*float: left; */
+	color: #55575b;
+	text-align: center;
+	font-weight: bold;
+	border-right: solid 1px #D4D5D6;
+	font-size: 12px;
+	height: 32px;
+	vertical-align: middle;
+}
+.tablhd .nor
+{
+	width: 105px;
+	/*float: left; */
+	color: #55575b;
+	text-align: center;
+	font-weight: bold;
+	border-right: solid 1px #D4D5D6;
+	font-size: 12px;
+	height: 32px;
+	vertical-align: middle;
+}
+.tablhd .lastt
+{
+	width: 210px;
+	/*float: left;*/ 
+	color: #55575b;
+	text-align: center;
+	font-weight: bold;
+	/*border-left: solid 1px #D4D5D6;*/
+	font-size: 12px;
+	height: 32px;
+	vertical-align: middle;
+}
+.tablcont
+{
+	width: 100%;
+	background: #fff;
+	height: auto;
+/*	float: left; 
+	border: solid 1px #989898;*/
+	border-top: 1px solid #CCC;
+}
+.tablcont .postt
+{
+    width:499px;
+	/*float: left; */
+	padding: 0;
+/*	border-left: solid 1px #989898;
+	border-right: solid 1px #989898;*/
+	/*display: inline;*/
+	height: 50px;
+	border-top: solid 1px #D4D5D6;
+	
+}
+.tablcont .postt .linnk
+{
+/*	width: 100%;	*/
+	color: #55575b;
+	font-size: 12px;
+	font-weight: bold;
+	margin-left:15px;
+/*	text-decoration: underline;
+	float: left;  */
+}
+.tablcont .postt .desc
+{
+/*	width: 100%;	*/
+	color: #55575b;
+	font-size: 12px;
+	margin-left:15px;
+/*	float: left;  */
+}
+.tablcont .atthr
+{
+    width:122px;
+	/*float: left; */
+	text-align: center;
+	/*padding: 6px 0 0 0;*/	
+	color: #55575b;
+	border-left: solid 1px #D4D5D6;
+	border-top: solid 1px #D4D5D6;
+	height: 50px;
+}
+.tablcont .norr
+{
+ 
+	/*float: left; */
+	text-align: center;/*
+	padding: 20px 0 0 0;	*/
+	color: #55575b;
+	border-left: solid 1px #D4D5D6;
+	height: 50px;
+	border-top: solid 1px #D4D5D6;
+}
+.tablcont .lasst
+{
+    width: 209px;
+	/*float: left; */
+	text-align: center;
+/*	padding: 20px 0 0 0;*/
+	border-left: solid 1px #D4D5D6;
+	border-top: solid 1px #D4D5D6;
+	height: 50px;
+}
+.tablcont .lasst .tym
+{
+	width: 100%;
+/*	float: left; */
+	text-align: center;
+	color: #000000;
+}
+.tablcont .lasst .usr
+{
+	text-align: center;
+	color: #000000;
+}
+/* CSS FOR USER_FORMLIST.ASPX STOP*/
+
+
+/* CSS FOR USER_FORUMPOSTREPLYLIST.ASPX START*/
+.lastply
+{
+    width: 938px;
+    float: left;
+    border: 1px solid #E1E1E1;
+	/* width: 100%;
+	float: left;
+	border-left: 1px solid #E9EAEA;
+	border-right: 1px solid #E9EAEA;	*/
+}
+.lastply .postAuthrty
+{
+	width: 150px;
+	float: right;
+	text-align: left;
+	font-size: 12px;
+	color: #55575b;
+}
+.lastply .btnns
+{
+	width:100px;
+	float: right;
+	margin-right: 10px;
+}
+.lastply .postdet
+{
+	width: 670px;
+	float: left;
+	color: #55575b;
+}
+.lastply .postdet .naam
+{
+	width: 100%;
+	text-indent: 15px;
+	text-decoration: none;	
+	font-size: 12px;
+	float: left;
+	font-weight: bold;
+}
+.lastply .postdet .desc
+{
+	width: 100%;
+	text-indent: 15px;
+	font-size: 12px;
+	float: left;
+}
+.lastply .posttus
+{
+	width: 20%;
+	background: #fff;
+/*	padding-top: 15px;
+	padding-bottom: 15px; */
+	float: left;
+	padding-right:5px;
+	border-right: 1px solid #6e6e6e;
+}
+.lastply .postvotess
+{
+	background: #fff;
+	float:right;
+}
+.lastply .postvotess .tov
+{
+	width:100%;
+	float:left;
+	text-align:left;
+	color: #55575b;
+}
+.lastply .posttus .tyme
+{
+	width: 100%;
+	text-align: right;
+	font-size: 12px;
+	float: left;
+}
+.lastply .posttus .atthhr
+{
+	width: 100%;
+	text-align: right;
+	font-size: 12px;
+	float: left;
+}
+.plyposthd
+{
+	width: 100%;
+	background: #E9EAEA;
+	float: left;
+	height: 32px;
+	font-size: 12px;
+}
+.plyposthd .fromm
+{
+	width: 135px;
+	float: left;
+	text-align: center;
+	color: #55575b;
+	font-weight: bold;
+	border-right: solid 1px #D4D5D6;
+	height: 100%;	
+}
+.plyposthd .cmmnts
+{
+	width: 545px;
+	float: left;
+	text-align: center;
+	color: #55575b;
+	font-weight: bold;
+	border-right: solid 1px #D4D5D6;
+	height: 100%;	
+}
+.plyposthd .rting
+{
+	width: 24%;
+	float: left;
+	height:100%;
+}
+.plypostcont
+{
+	width: 100%;
+	float: left;
+	background: #fff;
+	height: auto;
+	border-bottom: solid 1px #D4D5D6;
+	font-size: 12px;
+}
+.plypostcont .frmm
+{
+/*	width: 135px;
+	float: left; */
+	text-align: center;
+	color: #333333;
+/*	padding-top: 14px;
+	padding-bottom: 14px;
+	border-left: solid 1px #989898; */
+	height:inherit;
+}
+.plypostcont .cmmentt
+{
+/*	width: 544px;
+	float: left; 
+	padding: 14px 10px 12px 10px;*/
+	border-left: solid 1px #D4D5D6;
+	height:inherit;
+}
+.plypostcont .ratting
+{
+/*	width: 23.8%;
+	float: left; */
+	text-align: center;
+	color: #333333;
+/*	padding:0 14px;
+	padding-bottom: 14px;*/
+	border-left: solid 1px #D4D5D6; 
+	height:inherit;
+}
+.edditt
+{
+/*	background-image:url(../user/images/Edit_2.gif); */
+	width:22px;
+	height:22px;
+	float:right;
+	margin-right:2px;
+	border:none;
+}
+.delette
+{
+	width:16px;
+	height:16px;
+	float:right;
+	margin-right:2px;
+	border:none;
+}
+.attch
+{
+	width:15px;
+	height:18px;
+	float:right;
+	margin-right:2px;
+	border:none;
+}	
+	
+/* CSS FOR USER_FORUMPOSTREPLYLIST.ASPX STOP*/
+
+/* CSS FOR  REPLYADD.ASPX START*/
+.nwreply
+{
+	width:938px;
+	float:left;
+	height:auto;
+	background:#fff;
+	font-size: 12px;
+	margin-top:1px;
+}
+.mt12
+{
+	width:100%;
+	height:12px;
+	float:left;
+}
+.ml50
+{
+	width:5%;
+	height:50px;
+	float:left;
+}
+.nwreply .lbltexxt
+{
+	width:90%;
+	float:left;
+/*	color:#000;	*/
+	font-weight:bold;
+/*	font-family:'Trebuchet MS';		*/
+}
+.nwreply .inn1
+{
+	width:70%;
+	float:left;
+/*	color:#000;	*/
+	height:24px;
+}
+.nwreply .inn2
+{
+	width:70%;
+	float:left;
+/*	color:#000;		*/
+	height:150px;
+}
+.nwreply .notte
+{
+	font-style:italic;
+	float:left;
+	margin-left:10px;
+/*	color:#000;		*/
+}
+.nwreply .frmot
+{
+	width:90%;
+	float:left;
+	color:#55575b;
+/*	font-family:'Trebuchet MS';		*/
+	font-size:12px;
+}
+/* CSS FOR  REPLYADD.ASPX STOP*/
+
+/* Extra CSS FOR USER_NEWPOSTFORUM.ASPX */
+.indd
+{
+	margin-left:50px;
+}
+.mand
+{
+	font-weight: bold;
+	/*font-size: 13px;*/
+	font-family: Verdana;
+	width:10px;
+	height:10px;
+	float:left;
+}
+.repp
+{
+	margin-left:5px;
+	font-size:14px;
+/*	font-family:'Trebuchet MS';		*/
+	font-weight:bold;
+	float:left;
+}
+/* Extra CSS FOR USER_NEWPOSTFORUM.ASPX */
+
+/* Extra CSS for USER_REPORTTOMODERATOR.ASPX */
+.labelTexxt
+{
+	text-align: left; /*color: #4b4b4b;*/
+	font-size: 12px;
+	font-weight: normal;
+	font-family: Verdana;
+	text-decoration: none;
+	float:left;
+}
+/* Extra CSS for USER_REPORTTOMODERATOR.ASPX */
+
+
+.tabTR								{ }
+.tabTR							{ padding:0px 0px 0px 0px; }
+.tabTR ul						{display:block; width:600px; list-style:none; margin:0px; padding:0px;  }
+.tabTR li						{ float:left; display:block; list-style:none; margin:0px; padding:0px 1px 0px 0px;  }
+.tabTR li a						{ display:block; color:#6E6F71; font-size:12px; padding:0px 12px; font-weight:bold; 
+											    height:33px; line-height:33px;	}
+.tabTR li a:hover				{ color:#FFF; background-position:0 -33px; }
+.tabTR li a.selected				{ color:#FFF; background-position:0 -33px; }
+
+/*.last					                    { float:right !important; margin-top:-32px}
+.last a					                    { display:block; color:#FFF; font-size:13px; padding:0px 12px; font-weight:bold;  
+											  background:url(../user/images/tab-rt-bg.png) repeat-x left top; height:33px; line-height:33px; }
+.topR .tab .last a:hover   		    { color:#FFF; background-position:0 -33px;  }*/
+
+/*NEW STYLE DATE 18-12-13*/
+
+.list_style_type
+{
+    list-style-type:none;
+}
+
+.list_style_type li
+{
+    float:left;
+}
+
+/*-----------------------USER FORM LIST BUTTON------------*/
+.Newpost_btn
+{
+ 
+    height:32px;
+    padding:0px 14px 0px 14px;
+    border:none;
+    line-height:32px;
+    font-size:13px;
+    font-weight:bold;
+    color:#ffffff;
+    cursor:pointer;
+    margin:0 0 0 2px;
+}
+
+.Newpost_btn:hover
+{
+    
+}
+
+.replypost_btn
+{
+   
+    height:32px;
+    padding:0px 14px 0px 14px;
+    border:none;
+    line-height:32px;
+    font-size:13px;
+    font-weight:bold;
+    color:#ffffff;
+    cursor:pointer;
+    margin:0 0 0 2px;
+}
+
+.replypost_btn:hover
+{
+ 
+}
+.bckpost_btn
+{
+    
+    height:32px;
+    padding:0px 14px 0px 14px;
+    border:none;
+    line-height:32px;
+    font-size:13px;
+    font-weight:bold;
+    color:#ffffff;
+    cursor:pointer;
+    margin:0 0 0 2px;
+}
+
+.bckpost_btn:hover
+{
+ 
+}
+
+.backtoforum_btn
+{
+   
+    height:32px;
+    padding:0px 14px 0px 14px;
+    border:none;
+    line-height:32px;
+    font-size:13px;
+    font-weight:bold;
+    color:#ffffff;
+    cursor:pointer;
+    margin:0;
+}
+
+.backtoforum_btn:hover
+{
+ 
+}
+

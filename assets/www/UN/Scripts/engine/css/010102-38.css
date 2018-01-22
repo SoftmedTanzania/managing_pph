@@ -1,0 +1,59 @@
+.ConditionList li {
+    font-size: 18px;
+    padding-bottom: 12px;
+    line-height: 26px;
+}
+
+.ConditionList {
+    margin-left: 32px;
+    padding-top: 14px;
+}
+
+/*Animation*/
+.Condition1Anim {
+  -webkit-animation-name: slideInLeftCommon;
+  animation-name: slideInLeftCommon;
+      -webkit-animation-delay:1s;
+    animation-delay:1s;
+    -moz-animation-delay:1s;
+}
+
+.Condition2Anim {
+  -webkit-animation-name: slideInLeftCommon;
+  animation-name: slideInLeftCommon;
+      -webkit-animation-delay:2s;
+    animation-delay:2s;
+    -moz-animation-delay:2s;
+}
+
+.Condition3Anim {
+  -webkit-animation-name: slideInLeftCommon;
+  animation-name: slideInLeftCommon;
+      -webkit-animation-delay:3s;
+    animation-delay:3s;
+    -moz-animation-delay:3s;
+}
+
+.Condition4Anim {
+  -webkit-animation-name: slideInLeftCommon;
+  animation-name: slideInLeftCommon;
+      -webkit-animation-delay:4s;
+    animation-delay:4s;
+    -moz-animation-delay:4s;
+}
+
+.Condition5Anim {
+  -webkit-animation-name: slideInLeftCommon;
+  animation-name: slideInLeftCommon;
+      -webkit-animation-delay:5s;
+    animation-delay:5s;
+    -moz-animation-delay:5s;
+}
+
+.Condition6Anim {
+  -webkit-animation-name: slideInLeftCommon;
+  animation-name: slideInLeftCommon;
+      -webkit-animation-delay:6s;
+    animation-delay:6s;
+    -moz-animation-delay:6s;
+}

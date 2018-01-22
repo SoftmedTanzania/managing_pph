@@ -1,0 +1,157 @@
+.KeyPointTitle {
+    font-size: 18px;
+    padding: 0px 10px;
+}
+
+.Point1 {
+    background-image: url("../../../Media/eng/images/010102-29-01.png");
+    background-repeat: no-repeat;
+    font-size: 18px;
+    position: relative;
+    width: 609px;
+    height: 49px;
+    padding-top: 54px;
+    margin-left: 10px;
+    padding-left: 13px;
+    margin-top: -38px;
+}
+
+.PointLeft {
+    float: left;
+    width: 477px;
+    margin-left: 11px;
+}
+
+.Point2 {
+    background-image: url("../../../Media/eng/images/010102-29-02.png");
+    background-repeat: no-repeat;
+    font-size: 18px;
+    position: relative;
+    width: 171px;
+    height: 54px;
+    padding-top: 39px;
+    padding-left: 224px;
+    margin-top: -14px;
+}
+
+.Point3 {
+    background-image: url("../../../Media/eng/images/010102-29-03.png");
+    background-repeat: no-repeat;
+    font-size: 18px;
+    position: relative;
+    clear: both;
+    width: 263px;
+    height: 66px;
+    padding-top: 25px;
+    padding-left: 218px;
+    padding-right: 15px;
+}
+
+.Point4{
+    background-image: url("../../../Media/eng/images/010102-29-04.png");
+    background-repeat: no-repeat;
+    font-size: 18px;
+    position: relative;
+    width: 193px;
+    height: 70px;
+    padding-top: 24px;
+    padding-left: 213px;
+}
+
+.Point5 {
+    background-image: url("../../../Media/eng/images/010102-29-05.png");
+    background-repeat: no-repeat;
+    font-size: 18px;
+    position: relative;
+    width: 193px;
+    padding-left: 207px;
+    height: 68px;
+    padding-top: 27px;
+}
+.PointRight {
+    float: right;
+    width: 252px;
+    margin-right: 25px;
+}
+
+.Point6 {
+    background-image: url("../../../Media/eng/images/010102-29-06.png");
+    background-repeat: no-repeat;
+    font-size: 18px;
+    position: relative;
+    width: 211px;
+    height: 166px;
+    padding-top: 10px;
+    padding-left: 26px;
+}
+
+
+.Point7 {
+    background-image: url("../../../Media/eng/images/010102-29-07.png");
+    background-repeat: no-repeat;
+    font-size: 18px;
+    position: relative;
+    width: 204px;
+    padding-top: 15px;
+    height: 161px;
+    padding-left: 32px;
+}
+
+
+/*Animation*/
+.Point1Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:1s;
+    animation-delay:1s;
+    -moz-animation-delay:1s;
+}
+
+.Point2Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:2s;
+    animation-delay:2s;
+    -moz-animation-delay:2s;
+}
+
+.Point3Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:3s;
+    animation-delay:3s;
+    -moz-animation-delay:3s;
+}
+
+.Point4Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:4s;
+    animation-delay:4s;
+    -moz-animation-delay:4s;
+}
+
+.Point5Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:5s;
+    animation-delay:5s;
+    -moz-animation-delay:5s;
+}
+
+.Point6Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:6s;
+    animation-delay:6s;
+    -moz-animation-delay:6s;
+}
+
+.Point7Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:7s;
+    animation-delay:7s;
+    -moz-animation-delay:7s;
+}
+

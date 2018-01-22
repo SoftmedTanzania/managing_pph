@@ -1,0 +1,68 @@
+.updatesWhiteBg {
+    background-image: url("../../../Media/eng/images/whiteBG.png");
+    width: 723px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    background-size: 100% 100%;
+    padding: 20px 25px;
+    position: relative;
+}
+
+.BirthText {
+    background-image: url("../../../Media/eng/images/010102-05-04.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 658px;
+    height: 54px;
+    line-height: 54px;
+    padding-left: 15px;
+    margin-top: 12px;
+}
+
+.UpdatesHeading {
+    padding-bottom: 5px;
+}
+
+.updates {
+    line-height: 28px;
+}
+
+.UpdateResourceText {
+    color: #990000;
+    padding: 15px 0;
+}
+
+
+/*Animation*/
+.Update1Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:19s;
+    animation-delay:19s;
+    -moz-animation-delay:19s;
+}
+
+.Update2Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:43s;
+    animation-delay:43s;
+    -moz-animation-delay:43s;
+}
+
+.Update3Anim {
+  -webkit-animation-name: slideInLeftCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:43s;
+    animation-delay:43s;
+    -moz-animation-delay:43s;
+}
+
+.Update4Anim {
+  -webkit-animation-name: slideInLeftCommon;
+  animation-name: slideInLeftCommon;
+      -webkit-animation-delay:61s;
+    animation-delay:61s;
+    -moz-animation-delay:61s;
+}

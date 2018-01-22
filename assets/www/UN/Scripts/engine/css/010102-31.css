@@ -1,0 +1,137 @@
+
+.assess_red_bgNew
+{
+background-image: url("../../../Media/eng/images/010102-31-01.png");
+}
+
+.assess_green_bg_102_19New
+{
+background-image: url("../../../Media/eng/images/010102-35-01.png");
+    padding: 8px 16px 9px 134px;
+    width: 329px;
+}
+
+.assess_parpal_bg_102_27New
+{
+background-image: url("../../../Media/eng/images/010102-37-01.png");
+}
+
+.assess_parpal_bg_102_45New
+{
+background-image: url("../../../Media/eng/images/purple_102_27_bg2.png")!important;
+    left: 331px!important;
+    padding: 8px 40px 9px 78px!important;
+    top: 30%!important;
+}
+
+.close_tabs_102_45_2New
+{
+    top: 32%!important;
+    z-index: 3!important;
+}
+
+
+
+/********Animation*********/
+
+/*A Fade */
+
+@-webkit-keyframes acc_fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes acc_fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.acc_fadeIn {
+  -webkit-animation-name: acc_fadeIn;
+  animation-name: acc_fadeIn;
+      -webkit-animation-delay: 11s;
+    animation-delay:11s;
+    -moz-animation-delay: 11s;
+}
+
+
+@-webkit-keyframes acc_bounce {
+  0%, 60%,  80%, 100% {
+    -webkit-transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+    transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+  }
+
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -30px, 0);
+    transform: translate3d(0, -30px, 0);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 5px, 0);
+    transform: translate3d(0, 5px, 0);
+  }
+
+
+
+  80% {
+    -webkit-transform: translate3d(0, -5px, 0);
+    transform: translate3d(0, -5px, 0);
+  }
+
+  100% {
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@keyframes acc_bounce {
+  0%, 60%,  80%, 100% {
+    -webkit-transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+    transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+  }
+
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -30px, 0);
+    transform: translate3d(0, -30px, 0);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 5px, 0);
+    transform: translate3d(0, 5px, 0);
+  }
+
+
+
+  80% {
+    -webkit-transform: translate3d(0, -5px, 0);
+    transform: translate3d(0, -5px, 0);
+  }
+
+  100% {
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+.acc_bounce {
+  -webkit-animation-name: acc_bounce;
+  animation-name: acc_bounce;
+   -webkit-animation-delay: 1s;
+    animation-delay:1s;
+    -moz-animation-delay: 1s;
+}
+

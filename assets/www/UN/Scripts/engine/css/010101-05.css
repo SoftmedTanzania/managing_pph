@@ -1,0 +1,61 @@
+.pages_bg_5{
+    background-image: url("../../../Media/eng/images/bg4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 449px;
+    position: relative;
+}
+
+.intro_txt{
+	font-size: 20px;
+    padding: 10px;
+    color: #0062ad;
+    font-weight: bold;
+	}
+	
+.module_para{
+    font-size: 18px;
+    padding: 0px 10px;
+    line-height: 26px;
+    font-weight: bold;
+}
+/* Animation */
+@-webkit-keyframes slideInLeft_1_05 {
+  0% {
+    -webkit-transform: translate3d(-3%, 0, 0);
+    transform: translate3d(-3%, 0, 0);
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+	opacity: 1;
+  }
+}
+
+@keyframes slideInLeft_1_05 {
+  0% {
+    -webkit-transform: translate3d(-3%, 0, 0);
+    transform: translate3d(-3%, 0, 0);
+    opacity: 0;
+  }
+
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+	opacity: 1;
+  }
+}
+
+.intro_txt_ani {
+  -webkit-animation-name: slideInLeft_1_05;
+  animation-name: slideInLeft_1_05;
+}
+.module_para_ani {
+  -webkit-animation-name: slideInLeft_1_05;
+  animation-name: slideInLeft_1_05;
+   animation-delay:1s;
+  -webkit-animation-delay:1s;
+  -moz-animation-delay:1s;
+}	

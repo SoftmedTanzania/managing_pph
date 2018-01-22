@@ -1,0 +1,57 @@
+.MonitorWhiteBg {
+background-image: url("../../../Media/eng/images/whiteBG.png");
+    width: 723px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    font-size: 19px;
+    background-size: 100% 100%;
+    padding: 18px 25px;
+    position: relative;
+}
+
+
+.Monitor {
+background-image: url("../../../Media/eng/images/010102-28-01.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 625px;
+    height: 66px;
+    margin: 21px auto;
+    line-height: 64px;
+    padding-left: 20px;
+}
+
+
+/*Animation*/
+.monitor1Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:23s;
+    animation-delay:23s;
+    -moz-animation-delay:23s;
+}
+
+.monitor2Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:31s;
+    animation-delay:31s;
+    -moz-animation-delay:31s;
+}
+
+.monitor3Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:37s;
+    animation-delay:37s;
+    -moz-animation-delay:37s;
+}
+
+.monitor4Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:47s;
+    animation-delay:47s;
+    -moz-animation-delay:47s;
+}
+

@@ -1,0 +1,99 @@
+.PrincipalWhiteBg {
+background-image: url("../../../Media/eng/images/whiteBG.png");
+    width: 748px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    background-size: 100% 100%;
+    padding: 13px 11px 13px 7px;
+    position: relative;
+}
+
+.PrincipalBg 
+{
+font-size:18px;
+}
+
+.PricipalHeading {
+    padding-top: 13px;
+    padding-left: 15px;
+    margin-bottom: 66px;
+}
+
+.PrincipalBg {
+    background-color: #ebe0cc;
+    padding: 16px 15px 15px;
+    margin-bottom: 21px;
+}
+
+.PrincipalImg {
+    position: absolute;
+    right: 11px;
+    bottom: 0;
+    width: 405px;
+}
+
+.PrincipalImg img{width:100%;}
+
+.EmergencyText {
+    position: absolute;
+    top: 112px;
+    right: 67px;
+    background-color: #fff;
+    padding: 8px;
+}
+
+.PrincipalText {
+    color: #990000;
+    font-size: 18px;
+    padding-left: 22px;
+}
+
+/*Animation*/
+.KeyPrincipal1Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:8s;
+    animation-delay:8s;
+    -moz-animation-delay:8s;
+}
+
+.KeyPrincipal2Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:20s;
+    animation-delay:20s;
+    -moz-animation-delay:20s;
+}
+
+.KeyPrincipal3Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:26s;
+    animation-delay:26s;
+    -moz-animation-delay:26s;
+}
+
+.KeyPrincipal4Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:54s;
+    animation-delay:54s;
+    -moz-animation-delay:54s;
+}
+
+.KeyPrincipal5Anim {
+  -webkit-animation-name: zoomInCommon;
+  animation-name: zoomInCommon;
+      -webkit-animation-delay:26s;
+    animation-delay:26s;
+    -moz-animation-delay:26s;
+}
+
+.KeyPrincipal6Anim {
+  -webkit-animation-name: slideInLeftCommon;
+  animation-name: slideInLeftCommon;
+      -webkit-animation-delay:71s;
+    animation-delay:71s;
+    -moz-animation-delay:71s;
+}

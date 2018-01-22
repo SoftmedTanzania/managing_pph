@@ -1,0 +1,251 @@
+.BladderWhiteBg {
+background-color: #fff;
+    width: 748px;
+    margin: 0 auto;
+    padding: 55px 10px;
+    border: 1px solid #a6bde4;
+    border-radius: 12px;
+    box-shadow: 0px 0px 6px #aaa;;
+}
+
+.PlacnetaImg {
+    float: left;
+    margin: 13px;
+}
+.BladderImg {
+    float: left;
+    margin: 13px;
+}
+
+.BladderQue
+{
+    position: relative;
+}
+.BladderQue p
+{
+ font-size: 18px;
+}
+
+.BladderQue span
+{
+    background-image: url("../../../Media/eng/images/l01_s21_01.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 54px;
+    height: 36px;
+    font-size: 18px;
+    padding-top: 14px;
+    text-align: center;
+}
+
+.BladderQueBg {
+    background-color: #fae5ba;
+    padding: 10px 10px 20px 10px;
+}
+
+.BladderQue p {
+    font-size: 18px;
+    padding-top: 16px;
+    padding-left: 65px;
+}
+
+.BladderOption {
+padding-left: 83px;
+    padding-top: 13px;
+}
+
+input[type=radio]
+{
+display:none;
+}
+
+input[type=radio].BladderOption + label
+{
+background-image: url("../../../Media/eng/images/radio_btn1.png");
+    background-repeat: no-repeat;
+    padding-left: 36px;
+    font-size: 18px;
+    display: block;
+    line-height: 37px;
+    background-position: left top;
+    cursor: pointer;
+}
+
+input[type=radio].BladderOption:checked + label
+{
+    background-image: url("../../../Media/eng/images/radio_btn2.png");
+    background-repeat: no-repeat;
+    padding-left: 36px;
+    font-size: 18px;
+    display: block;
+    line-height: 37px;
+    background-position: left top;
+    cursor: pointer;
+}
+
+.BladderBtn
+{
+    background-image: url("../../../Media/eng/images/submit.png");
+    background-repeat: no-repeat;
+    margin-left: 6px;
+    border: none;
+    width: 143px;
+    height: 44px;
+    background-color: transparent;
+    cursor: pointer;
+    margin-top: 62px;
+}
+
+.BladderBtnHover
+{
+    background-image: url("../../../Media/eng/images/submit2.png");
+    background-repeat: no-repeat;
+}
+
+.BladderBtnDisable
+{
+    background-image: url("../../../Media/eng/images/submit2.png");
+    background-repeat: no-repeat;
+}
+
+.BladderBtn_2
+{
+    background-image: url("../../../Media/eng/images/submit2.png");
+    background-repeat: no-repeat;
+	    margin-left: 6px;
+    border: none;
+    width: 143px;
+    height: 44px;
+    background-color: transparent;
+    cursor: pointer;
+    margin-top: 62px;
+}
+
+.BladderOptionSection {
+    margin-bottom: 6px;
+    position: relative;
+}
+
+.BladderTick {
+    position: absolute;
+    top: 7px;
+    left: -20px;
+}
+
+.BladderFeedback {
+    font-size: 18px;
+    line-height: 28px;
+    padding: 21px 29px 48px 29px;
+    margin: 23px 10px;
+	background-image: url("../../../Media/eng/images/010102-15-01.png");
+    background-repeat: no-repeat;
+	background-size:100% 100%;
+}
+
+
+.VitalFeedback {
+    font-size: 18px;
+    line-height: 28px;
+    padding: 21px 29px 13px 29px;
+    margin: 7px 10px;
+    background-image: url("../../../Media/eng/images/010102-15-01.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: left;
+    width: 428px;
+}
+
+.VitalFeedbackSection {
+    float: left;
+    background-color: #fff;
+    padding: 10px;
+    width: 269px;
+    border: 1px solid #cccccc;
+    margin-top: 9px;
+    font-size: 18px;
+    position: relative;
+}
+
+.VitalFeedbackHeading
+{
+    background-color: #dbf8ff;
+    padding: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 268px;
+}
+
+.VitalFeedback2 ul
+{
+    margin-left: 19px;
+    margin-top: 35px;
+}
+
+.knowledgeChkText {
+    font-size: 18px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.effectiveabsImg {
+    position: absolute;
+    bottom: -3px;
+    left: 53px;
+    width: 449px;
+	    z-index: 1;
+}
+
+.effectiveabsImg img{width:100%;}
+
+.effectiveabsImg2 {
+    position: absolute;
+    bottom: -3px;
+    left: 140px;
+    width: 334px;
+}
+
+.effectiveabsImg2 img{width:100%;}
+
+.effectiveabsImg3 {
+position: absolute;
+    bottom: -3px;
+    right: 0;
+    width: 430px;
+    z-index: 1;
+}
+
+.effectiveabsImg3 img{width:100%;}
+
+.effectiveabsImg4 {
+    position: absolute;
+    bottom: 105px;
+    left: 108px;
+    width: 334px;
+    z-index: 1;
+}
+
+.emergencyFeedback {
+    font-size: 18px;
+    line-height: 28px;
+    padding: 12px 20px 12px 20px;
+    margin: 23px 10px;
+    background-image: url("../../../Media/eng/images/010102-15-01.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    z-index: 2;
+    position: relative;
+    width: 407px;
+}
+
+/*Animation*/
+
+
+.BladderImganim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:17s;
+    animation-delay:17s;
+    -moz-animation-delay:17s;
+}
+

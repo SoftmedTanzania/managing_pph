@@ -1,0 +1,128 @@
+.white_boxes{
+background-color:#fff;
+height:400px;
+width:95%;
+margin: 0 auto;
+    box-shadow: 1px 1px 10px 1px #888;
+}
+
+.keys_text2{
+    padding: 5px 10px;
+    font-size: 16px;
+	font-weight: bold;
+}
+.images_divs{
+        padding: 40px 30px;
+    width: 87%;
+    margin: 0 auto;
+}
+
+.img_46_1{
+    float: left;
+        padding-right: 35px;
+		cursor:pointer;
+}
+.img_46_2{
+    float: left;
+	    padding-right: 35px;	
+		cursor:pointer;
+}
+.img_46_3{
+       float: left;
+	   cursor:pointer;
+}
+
+.c_click{
+        font-style: italic;
+    font-size: 18px;
+    padding: 20px 20px;
+    color: #a82626
+}
+.big_img1{
+    text-align: center;
+	padding-top: 12px;
+}
+.big_img2{
+    text-align: center;
+	padding-top: 12px;
+}
+.big_img3{
+    text-align: center;
+	padding-top: 12px;
+}
+
+.close_tabs_46{
+    background-image: url("../../../Media/eng/images/close.png");
+  background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 27px;
+    height: 26px;
+    position: absolute;
+    right: 15%;
+    top: 14%;
+    cursor: pointer;
+}
+.close_tabs_46:hover {
+    background-image: url("../../../Media/eng/images/close_hover.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.close_tabs_txt_46{
+font-size: 18px;
+    position: absolute;
+    right: 37px;
+    top: 3px;
+    color: #2c5278;
+}
+
+/*Animation*/
+
+
+@-webkit-keyframes keys_fades {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes keys_fades {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.keys_fades1 {
+  -webkit-animation-name: keys_fades;
+  animation-name: keys_fades;
+    -webkit-animation-delay: 1s;
+   animation-delay: 1s;
+}
+
+.keys_fades2 {
+  -webkit-animation-name: keys_fades;
+  animation-name: keys_fades;
+    -webkit-animation-delay:2s;
+   animation-delay: 2s;
+}
+.keys_fades3 {
+  -webkit-animation-name: keys_fades;
+  animation-name: keys_fades;
+    -webkit-animation-delay: 3s;
+   animation-delay: 3s;
+}
+.keys_fades4 {
+  -webkit-animation-name: keys_fades;
+  animation-name: keys_fades;
+    -webkit-animation-delay: 4s;
+   animation-delay: 4s;
+}
+
+
+

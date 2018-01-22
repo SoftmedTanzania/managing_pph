@@ -1,0 +1,2297 @@
+Manifest-Version: 1.0
+Built-By: 1.0.0
+Created-By: Android Gradle 1.0.0
+
+Name: assets/www/UN/Media/eng/audio/d.mp3
+SHA1-Digest: hp4pGhHHvqwzEYT4ZhX7EMBVsQ4=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s18_01.m4a
+SHA1-Digest: scFjgx+XdR5gLVfSTdxHeMWCiPw=
+
+Name: assets/www/UN/Media/eng/images/106_bg.png
+SHA1-Digest: YnxySQMsv2AoUMwIu5xgs5SsdfA=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_35.m4a
+SHA1-Digest: +sBzEXAVq5jCB6yPqV0PMUAhcds=
+
+Name: assets/www/UN/Media/eng/images/impac2.png
+SHA1-Digest: yY0Dvh7D7A5ElxmO7BVu10W4FhQ=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s03_01.mp3
+SHA1-Digest: 0MO+GtxtA2YTo1/XPryYIjBv0vo=
+
+Name: res/drawable/color_button_background.xml
+SHA1-Digest: eTDswTGmHxVdOtxDdqR44aucRn8=
+
+Name: assets/www/UN/Scripts/engine/css/010101-03.css
+SHA1-Digest: HJ48GjT03oVatSgemHxuSZAIw9g=
+
+Name: assets/www/UN/dist/skin/pink.flag/image/jplayer.pink.flag.jpg
+SHA1-Digest: +/+KjGbv30vXrVXWiANuBW4C4RY=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43.m4a
+SHA1-Digest: d2GhLyFqiWStAO+clxfo4q9AElY=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s07_01.mp3
+SHA1-Digest: DCmGPKDXCZ94IgEXard97Dmt7ow=
+
+Name: assets/www/UN/Media/eng/images/intro_bg.png
+SHA1-Digest: 7xs0C+iSCEOJYAj+YdZ65sQdzG8=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s10_01.m4a
+SHA1-Digest: O466qSyou7gP3O8Nxuj4T57DM00=
+
+Name: assets/www/UN/Scripts/engine/css/010102-44.css
+SHA1-Digest: MM7/Yr80C4JtHqMeJd5TGsxGGFA=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_46_2.mp3
+SHA1-Digest: 3u6FTzScWeZ8g9utddHY+t2vhiY=
+
+Name: assets/www/css/animations.css
+SHA1-Digest: AQFUDy+DO4mKAyYyK6HicEUwNko=
+
+Name: assets/www/UN/Media/eng/images/pages_bg_2_2.png
+SHA1-Digest: 8/N15tDxWMuUtsvY/7LbvIh1MMM=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_int_s05_01.mp3
+SHA1-Digest: pllemszeiB8Wa93UxC5NEgMaswk=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s14_01.m4a
+SHA1-Digest: ebWM0z3Bd4TOLdjU/jwxgB2WLsg=
+
+Name: assets/www/UN/Scripts/libs/spin/spin.js
+SHA1-Digest: gXPmgZO2I+fKetiKLn5OM68t9Yg=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_6.mp3
+SHA1-Digest: M/r8LDGDWcOKNubgtZvNQszPn4M=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA1-Digest: f7p1rHw6kBqunadJYz5vUi7ZElM=
+
+Name: assets/www/UN/Scripts/engine/css/010102-13.css
+SHA1-Digest: AO4lq2eTdBnhFhcJZDQM1LFPujA=
+
+Name: assets/www/UN/Media/eng/images/line_bg.png
+SHA1-Digest: gqWwj0XKPndCe09KVeQf+9mgKNM=
+
+Name: assets/www/UN/Scripts/libs/scorm/APIWrapper.js
+SHA1-Digest: BOQCekQN23g1Oz6bqNDO+/7y7Yk=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s15_01.mp3
+SHA1-Digest: u+NU8Bp6kcRA/pZdxUPu8WjjGB8=
+
+Name: assets/www/UN/Media/eng/images/assessment_q.png
+SHA1-Digest: K+5wN4H+mw3BAkxerAYdHPc2Kfw=
+
+Name: assets/www/UN/Scripts/engine/css/010102-21.css
+SHA1-Digest: Z35LIxMFRh3PbBxo9VF3UvhIt/g=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43_5.m4a
+SHA1-Digest: Ug/AdfZVg/tZm7nydZ4HAF+AiA0=
+
+Name: assets/www/UN/Media/eng/images/sp_bubble1.png
+SHA1-Digest: meQ/7X+N3Afn2D1T3Egxo6nT84Q=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s11_01.mp3
+SHA1-Digest: LM0Qzb78w1uOqOxBUseizzkYeFo=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s19_01.mp3
+SHA1-Digest: vPtQzgG3D+VKrTjieUf50E5PpDo=
+
+Name: assets/www/UN/Resource/dummy.pdf
+SHA1-Digest: EhMt13I9POChSHWOizAN3uycnZg=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.joyride.js
+SHA1-Digest: /1+xcpmimutnGWdWhuRCzpf6IfQ=
+
+Name: res/drawable-hdpi-v4/bubble_arrow_up.png
+SHA1-Digest: Yi4w0bzmZ82F6Eq5rd9pNg9JIsg=
+
+Name: res/drawable-xhdpi-v4/ic_search.png
+SHA1-Digest: S5zAg/S5NbWZb4iEdHEc5UA7LpI=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_33.mp3
+SHA1-Digest: AX9s95IpXhelQRe7JoX6376K4oU=
+
+Name: assets/www/UN/lib/circle-player/js/mod.csstransforms.min.js
+SHA1-Digest: JMdh32M8NXJPRHulv6diHXtqftQ=
+
+Name: assets/www/UN/Media/eng/images/small5.png
+SHA1-Digest: x+qQcsi5xxTHrByH4asq79hywpg=
+
+Name: assets/www/UN/Media/eng/images/img_46_3.png
+SHA1-Digest: GD8Cm4y0jI4WO5/cCwlAy+LrY1E=
+
+Name: assets/www/UN/Scripts/engine/css/debugger.css
+SHA1-Digest: Lpbrt+kgNenyZp1kUrEsVyDaEpg=
+
+Name: res/raw/xwalk.pak
+SHA1-Digest: ZXeuqlb8ZN0pT/bD6n8IskKhts4=
+
+Name: res/drawable-hdpi-v4/bubble.9.png
+SHA1-Digest: 22r8zDmGZnnRrbkeNZ/FLZ/MUdw=
+
+Name: resources.arsc
+SHA1-Digest: QR+n/UCM5F0kVcb0EItAm1N5rD4=
+
+Name: assets/www/UN/Media/eng/images/010102-32-01.png
+SHA1-Digest: hlq1h4s1Oj5VDk+qlSE2DkFlox4=
+
+Name: res/drawable/color_picker_border.xml
+SHA1-Digest: kNR+Q0C3perk72WUFmo+x6vHZrw=
+
+Name: assets/www/UN/Media/eng/images/clinic3.png
+SHA1-Digest: FHSCkKXj4UEPF0DG3wipbA/D4V8=
+
+Name: assets/www/UN/skin/blue.monday/jplayer.blue.monday.jpg
+SHA1-Digest: D4AGTpkNKVtbE9V1ZXPWphkpqqM=
+
+Name: assets/www/UN/Media/eng/images/close_hover.png
+SHA1-Digest: BWdn+98bdzlxCgoz92RHzgOpZrc=
+
+Name: assets/www/UN/Media/eng/images/010102-10-02.png
+SHA1-Digest: glO51TWR5PF6b/MkIK7j6Yu4izo=
+
+Name: assets/www/UN/Scripts/engine/css/010102-28.css
+SHA1-Digest: 5bYhjjCOVJMUDneIJWcqQexOFCc=
+
+Name: assets/www/UN/Media/eng/images/010102-29-02.png
+SHA1-Digest: vEyXM2VRCOrVXnAb7fFgEQxPiq8=
+
+Name: assets/www/UN/Media/eng/images/credit_red_arrow.png
+SHA1-Digest: sB0vQ4IkT4dOECAaD9bpzkByYgA=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/jquery
+ .js
+SHA1-Digest: tium9QQlzxWjuMZOUGNLtFFksc4=
+
+Name: res/drawable/dropdown_popup_background_up.9.png
+SHA1-Digest: XI1eKOlLQ8iNdHAY7BCZaYqVSIs=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s07_01.m4a
+SHA1-Digest: M5eh4QJsAq7+ncIGz0+q+FPw8ik=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA1-Digest: FVwW8q5pXNyqdiSUoAgfev5NTHs=
+
+Name: assets/www/UN/Media/eng/images/credit_purple_patch.png
+SHA1-Digest: PCIePodcACVoO8oHD+CohzCSdNA=
+
+Name: assets/www/UN/skin/blue.monday/po_btn.png
+SHA1-Digest: pEs6hBX/Sw2tw86OJOUz6oFTsFE=
+
+Name: assets/www/UN/Scripts/engine/audioPlayer.js
+SHA1-Digest: Re48puhmpvruHeyiBQnJvq2Uvd8=
+
+Name: assets/www/UN/skin/circle.skin/bgr.jpg
+SHA1-Digest: FA1SEkPpVDx0DzkjDLGWZzjpdL4=
+
+Name: assets/www/UN/Media/eng/images/tree.png
+SHA1-Digest: fHQt5JBCFN0uwvtsn5sDs3Bzqk4=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s03_01.m4a
+SHA1-Digest: Enk1nqJ4IFDoZbBoEQ95dQXT8KY=
+
+Name: assets/www/UN/dist/skin/blue.monday/image/jplayer.blue.monday.jp
+ g
+SHA1-Digest: 6bxA1Vz1X3PcmkH3XagoD65FT6o=
+
+Name: assets/www/UN/Media/eng/images/loader.gif
+SHA1-Digest: wogb38OuwdlqkxryoiNALWfxbiI=
+
+Name: res/drawable-xxhdpi-v4/ic_menu_share_holo_light.png
+SHA1-Digest: y9kfbNCDKL49BS2/tyF4VB937Jo=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s09_04.mp3
+SHA1-Digest: UiHXqo10cbowPNp4w8qoMWZROy8=
+
+Name: assets/www/UN/Media/eng/images/bg2.jpg
+SHA1-Digest: 95SOOnS3k0HLhbrpgIornZE/cz0=
+
+Name: assets/www/UN/Scripts/libs/scorm/APIWrapper_old.js
+SHA1-Digest: BOQCekQN23g1Oz6bqNDO+/7y7Yk=
+
+Name: assets/www/UN/Media/eng/images/red_patch.png
+SHA1-Digest: LgwRihUQ4AoGsObsEK1JECfRQEI=
+
+Name: assets/www/css/jquery-1.4.1.min.js
+SHA1-Digest: fVkQZIWxHZ52eSTg/qqxFC8vkek=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_7.m4a
+SHA1-Digest: puXJuOzfk/j70lFiquHTj+x8yhY=
+
+Name: assets/www/UN/Media/eng/images/010102-04-05.png
+SHA1-Digest: KKmrkYKWxh4NUFiPUntAeeIac1M=
+
+Name: assets/www/UN/Media/eng/images/bor_radius2.png
+SHA1-Digest: kfdApXOnQptDNLt38YCfPgNlOX4=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/credits.png
+SHA1-Digest: hcovcSQzoe0luJ+F+yUPjPBiNFE=
+
+Name: res/layout-v17/color_picker_dialog_title.xml
+SHA1-Digest: LxuuwUvMlGBFJqYb8HxlVtnzoZQ=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_46_3.m4a
+SHA1-Digest: 98VLqQKGPDQ0R6LdHjiufB/S2Rg=
+
+Name: assets/www/UN/Media/eng/images/arrow_one.png
+SHA1-Digest: wVDgLQVBgrKDSpLauE+zQ1wHznU=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/mod_1_screen_1.mp3
+SHA1-Digest: qx1u48N/E3JweN7bU8T52S0MKnY=
+
+Name: assets/www/UN/Media/eng/audio/mod_1_screen_1.m4a
+SHA1-Digest: NvWiDm6IbVmICjebMCFEEghgdug=
+
+Name: assets/www/UN/skin/blue.monday/play_o_btn.png
+SHA1-Digest: BTD+HP084Xj0bGxTVnpbs7zN/oc=
+
+Name: assets/www/UN/Media/eng/images/010102-40-03.png
+SHA1-Digest: LUO0TmWA2i06l+CEYJUAl6a/soo=
+
+Name: assets/www/UN/Media/eng/images/placenta.png
+SHA1-Digest: WCF3VW10WZprDpGFeeSqPgw0j0E=
+
+Name: assets/www/UN/skin/blue.monday/jplayer.blue.monday_.jpg
+SHA1-Digest: igoLIvheCIQofbC1kfOpyxkp3U8=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/course_name.png
+SHA1-Digest: GscQe1KYb3Kn7pGQxXfwCVSzi/g=
+
+Name: assets/www/UN/Media/eng/images/arrow_animation.gif
+SHA1-Digest: usESO5HHeyIMAJYIIld0q1sFpwI=
+
+Name: assets/www/UN/lib/circle-player/js/jquery.transform2d.js
+SHA1-Digest: eAT1fW8R3zGstJBwSEAiACunmcI=
+
+Name: assets/www/js/jquery-1.11.3.min.js
+SHA1-Digest: J2yH/z4eMVVnnDGJOOdOXBt22Ak=
+
+Name: res/raw/device_capabilities_api.js
+SHA1-Digest: dFVr50dKa7bTwOlynTXkkfm6op8=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s06_01.m4a
+SHA1-Digest: 7mNRIZNcnnb7AIg64VucR0MTuVA=
+
+Name: assets/www/UN/Scripts/engine/css/010102-05.css
+SHA1-Digest: Hl9N6UcLx/YnDadp1B24ud6A1QQ=
+
+Name: res/drawable-land-ldpi-v4/screen.png
+SHA1-Digest: ZfZgMgv6EzcmpS1oX2OZ+2L3Xg4=
+
+Name: assets/www/UN/dist/skin/pink.flag/mustache/jplayer.pink.flag.vid
+ eo.playlist.html
+SHA1-Digest: 8SZlWrHVelozjFD//I5tz/CFlBI=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s02_01.m4a
+SHA1-Digest: f2lRsuSAmjk2uMcI/dq23LDm0sg=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.js
+SHA1-Digest: X6GJnwmhvVzOV9Vhbwot1z/fBmk=
+
+Name: res/drawable-xhdpi-v4/dropdown_popup_background_up.9.png
+SHA1-Digest: 1awvdghEm3kI+FSkMkH21qWMLBk=
+
+Name: assets/www/UN/Media/eng/images/credit_blue_blue.png
+SHA1-Digest: /o3hYZm/BJd3NA8fz2upOQ48AeQ=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.offcanvas.js
+SHA1-Digest: pJIuIkiOuupuaXJlM4yVd4doTCI=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_42.mp3
+SHA1-Digest: BkG0yMuQ224hG5Bo4uW8uKr0CPg=
+
+Name: res/drawable-xxxhdpi-v4/ic_warning.png
+SHA1-Digest: VOGI4lCMZf5IWV1nrZL+NdgtI5w=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_25.mp3
+SHA1-Digest: SMI/+DgW3oGGsNBYMOyIb8A1JS4=
+
+Name: assets/www/UN/Media/eng/images/sum4.png
+SHA1-Digest: QPmNo+SMpCOZ13rjQbNo6ObXJ0k=
+
+Name: assets/www/UN/Scripts/libs/jquery.ui.touch-punch.min.js
+SHA1-Digest: LF9IugDhcP+SdIbnz/EFGxIHOiE=
+
+Name: assets/www/UN/skin/circle.skin/progress.png
+SHA1-Digest: 4+kGuF0xGXNiaAJs4DZA4IFtLqs=
+
+Name: assets/www/UN/Media/eng/images/small4.png
+SHA1-Digest: RjhtZIvHoRjajFQUGmHDLTpENpo=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_l01_s02_01.mp3
+SHA1-Digest: rOo0xrYDP0kzWpdTcHoz2g0spyw=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s11_02.m4a
+SHA1-Digest: Vo1uYK/Y+Qz/pECrI11A8uufg5k=
+
+Name: assets/www/UN/Scripts/engine/fonts/glyphicons-halflings-regular.
+ eot
+SHA1-Digest: hrb2K3hT5n0+Y19lEqWl78WOo8M=
+
+Name: assets/www/UN/Scripts/engine/css/010102-45.css
+SHA1-Digest: lmrBuRYMUv+XfaNMlAYI8WqeOW0=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_46_1.mp3
+SHA1-Digest: kO0lx8Jkag+QPgJpQWuX1N62iTo=
+
+Name: assets/www/UN/Media/eng/images/clinic2.png
+SHA1-Digest: hRqDbZ1Ul3rzcBSuxZVPS6D8X9U=
+
+Name: assets/www/css/jQuery Mobile 1.4.1.js
+SHA1-Digest: TAjUieqCvJaI/QxHjGptnUmhoRw=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_5.mp3
+SHA1-Digest: Sc7vLPYlndF9IgOkdmHQNzYOO/k=
+
+Name: assets/www/UN/Media/eng/images/010102-10-03.png
+SHA1-Digest: XipkWrKaKKCZRHw8fnUNTbXdk+c=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_28.m4a
+SHA1-Digest: 4LjrVG+2jIkW0MMFhL0yADrZFek=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_34.m4a
+SHA1-Digest: zOr1zjyWjB4vwpaWpB0FkLjhX8o=
+
+Name: res/drawable/ic_menu_share_holo_light.png
+SHA1-Digest: 6pzaIEQyx10/IdXFshmqO0qDVFc=
+
+Name: res/drawable-xxhdpi-v4/ic_warning.png
+SHA1-Digest: fpctIpHCkwLtm9S1boWrJmywP+Y=
+
+Name: assets/www/UN/Media/eng/images/nextBtn.jpg
+SHA1-Digest: pK77HAEDKyeWpzswr+PO8kQrZ10=
+
+Name: assets/www/UN/Scripts/engine/css/010101-04.css
+SHA1-Digest: GPJxiFQmoIrU7d0URYLsQi6wqjQ=
+
+Name: res/drawable-hdpi-v4/dropdown_popup_background_up.9.png
+SHA1-Digest: DERSRtcP3j47lixBCf5MeV9sv8Y=
+
+Name: assets/www/UN/skin/circle.skin/buffer.png
+SHA1-Digest: I6ABPscJqi759feXiJf2qgRRsGs=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_33_1.mp3
+SHA1-Digest: 9x41iSiaRXbklca+xFGwI9tckIo=
+
+Name: assets/www/UN/lib/aurora/opus.js
+SHA1-Digest: E55uP8wlCUDHC+2zmiwsst+F4jQ=
+
+Name: assets/www/UN/Media/eng/images/assess_red_bg2.png
+SHA1-Digest: W+od7yYCK4ZLSmshl2qmksZIe5E=
+
+Name: assets/www/UN/Media/eng/images/passed.png
+SHA1-Digest: IaFjLnExNtybxK0YrluCZnnlFvs=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_1.m4a
+SHA1-Digest: a7MZ3gWvErcWp6VVMDxqXsViDUo=
+
+Name: assets/www/UN/Media/eng/images/assessment_bg.png
+SHA1-Digest: PiWZ3kqelDyAdquKfZY3zWj2n9U=
+
+Name: assets/www/UN/index.html
+SHA1-Digest: TCpwiLqcQsDPc/H64Ehb1p8iHDE=
+
+Name: res/drawable/ondemand_overlay.9.png
+SHA1-Digest: 9wEu4afCDcE42kw8hkrbEHvjau0=
+
+Name: assets/www/css/video-js.css
+SHA1-Digest: XGVRtEX1zBPTLmqoTfnQyS8soFE=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA1-Digest: WY63KRIwUfBJT7ADJajHaAGlUMA=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/bg_background.png
+SHA1-Digest: aaYvAP/EW+jyc2MgPsKnmjevwhM=
+
+Name: res/layout-v17/color_picker_dialog_content.xml
+SHA1-Digest: 59Bxbi6zDTpFNMvoQcjP2nz+G6E=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s04_01.mp3
+SHA1-Digest: ObvOq/HpK+BqN6ctIia6kK8CuJc=
+
+Name: assets/www/UN/Media/eng/images/010102-14-01.png
+SHA1-Digest: tmesyAUfgSkujerRZl07WS8jSvU=
+
+Name: assets/www/UN/Media/eng/images/KC4all_Go-for-it-green.png
+SHA1-Digest: Y86JUco6zN8USROkFd9Fic83riY=
+
+Name: res/raw/contacts_api.js
+SHA1-Digest: 7IL0JFxBXZO8TmRhqDCMvcr+7PM=
+
+Name: assets/www/UN/dist/skin/blue.monday/mustache/jplayer.blue.monday
+ .audio.single.html
+SHA1-Digest: EJ1HtRxX2ZymE3kRXgpYBoAHFY8=
+
+Name: assets/www/UN/skin/blue.monday/jplayer.blue.monday_old.css
+SHA1-Digest: AYX+MYZIMHyFkWUudmiIJlXmKZw=
+
+Name: assets/www/UN/Media/eng/images/010102-25-01.png
+SHA1-Digest: pPmVE9FyFYPrYRkjDvOUWbZU7G0=
+
+Name: assets/www/UN/Resource/PAC_Assess_and_Treat_Flow_charts.pdf
+SHA1-Digest: OOCiJIemdKROsA/KrhR2wD74yBM=
+
+Name: assets/www/UN/skin/circle.skin/controls.jpg
+SHA1-Digest: AFDcb6wlTVO/HXbmN1FllO1KgRc=
+
+Name: assets/www/UN/Scripts/engine/config.js
+SHA1-Digest: 9IHQ2sLnPk7E9225IVLG1Y7gpFY=
+
+Name: assets/www/UN/Media/eng/images/010102-07-02.png
+SHA1-Digest: ueLRtUucTVZmYTApY7kPGr20zQo=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43_3.mp3
+SHA1-Digest: egjN37ABSlPAjyitxxHSEdZhUSg=
+
+Name: assets/www/UN/Media/eng/images/arrow_fade.png
+SHA1-Digest: mZbMFedaW8V0NQZ0UIG005HEwRM=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_32.mp3
+SHA1-Digest: CkG3YGn3rsuSrvCRCwGlfPs0SSg=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43_4.mp3
+SHA1-Digest: jG+A1X6usxsSd8/iT9XHEpju5fU=
+
+Name: res/drawable-xxxhdpi-v4/verify_checkmark.png
+SHA1-Digest: cIbmrRUJAPPOo/wkgKGRPjzVKbw=
+
+Name: res/drawable-xhdpi-v4/ic_menu_share_holo_light.png
+SHA1-Digest: DenLMKAt19uuupH0VnLhKcjn/MQ=
+
+Name: assets/www/UN/lib/aurora/mp3.js
+SHA1-Digest: KcO83bG/ON8kLBD8tPKxu8OQlAM=
+
+Name: assets/www/play_course.html
+SHA1-Digest: Az4GLKXShWASb7CDRwEKpZBXBZg=
+
+Name: assets/www/UN/Media/eng/images/footer_bg.jpg
+SHA1-Digest: g9nqLxq40gTpK+MTOv715jkXC1c=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/mod_1_screen_2.mp3
+SHA1-Digest: +CclRbB5NVI9LCoyCLw99MceIHc=
+
+Name: assets/www/UN/Media/eng/images/bg3.jpg
+SHA1-Digest: I17Qn5b6KSPuf9OIQx9/04mbtz0=
+
+Name: assets/www/UN/Media/eng/images/PrevBtnActive.jpg
+SHA1-Digest: SLDDHaW9CJsS79wJexRlX0j+Arc=
+
+Name: assets/www/UN/Media/eng/images/010102-40-02.png
+SHA1-Digest: aZycvd6K9xv1yeamNyI3NwZc7pQ=
+
+Name: assets/www/UN/Scripts/engine/ltie9.js
+SHA1-Digest: 4zgJDulHA9NVaXzLQxcz4Vf2hYA=
+
+Name: assets/www/UN/Media/eng/images/resources.png
+SHA1-Digest: B1VJ8YxFjVgKbqk+rk3rwut9FyA=
+
+Name: assets/www/UN/Media/eng/images/speech_bub2.png
+SHA1-Digest: bMcbbNJ7iSIFnkXjS0nu492do50=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA1-Digest: QqszXVs7DAO7cpkZYgDYRx2o7mQ=
+
+Name: assets/www/UN/dist/skin/blue.monday/mustache/jplayer.blue.monday
+ .video.playlist.html
+SHA1-Digest: SYFOvby/eV5NxWvKtPpTfYwVq08=
+
+Name: assets/www/UN/Media/eng/audio/mod_1_screen_2.m4a
+SHA1-Digest: gwEs3G8RccjTOy9hdb6wJo7HK7Y=
+
+Name: assets/www/UN/Media/eng/images/nurse1.png
+SHA1-Digest: QJE2Rf3AWWIMAJl+4hukUADzjbc=
+
+Name: assets/www/UN/Media/eng/images/010102-29-03.png
+SHA1-Digest: 5c/yJ1D3qyd06RF9PD5HvnBv3/g=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/modern
+ izr.js
+SHA1-Digest: 3xtL/z2ZRVNIST7XQXvN/DdJklc=
+
+Name: assets/www/UN/Media/eng/images/bor_radius1.png
+SHA1-Digest: C2eCmLiAVuIMx45vwXmdVKBMf1E=
+
+Name: assets/www/UN/Scripts/engine/css/010101-09.css
+SHA1-Digest: 1VeCod5XHCSkMzR7GrMxr3Jj6ko=
+
+Name: res/layout-v17/validation_message_bubble.xml
+SHA1-Digest: mIgSR2PW4lz+VbHAMCHobbI0CDM=
+
+Name: assets/www/css/Master_Style.css
+SHA1-Digest: 3hDWSBwWLCe5W6aqVe09LP5X7FM=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_26.mp3
+SHA1-Digest: MoUFupxFU3UJDmyDBhkUfbYI2XU=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion.min.js
+SHA1-Digest: diPr3tG+I4BhNQWjOrsFJ+ha6CE=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43.mp3
+SHA1-Digest: 9zmc7t0Ldd+Kges7dTCTk6NFsmw=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_6.m4a
+SHA1-Digest: 7XDIXp6wqxt7rJqDHZ0hfR2ZG6g=
+
+Name: assets/www/js/index.js
+SHA1-Digest: XOgfCClBRgq6pMO47ucEnLF7f+s=
+
+Name: assets/www/UN/Media/eng/images/sum3.png
+SHA1-Digest: cWau+GaWOPm/agWHR2YLGtwT5+Y=
+
+Name: res/drawable-hdpi-v4/ic_menu_share_holo_light.png
+SHA1-Digest: lfby6sh7nU1sA7vWy27sZA3sdDk=
+
+Name: assets/www/UN/Media/eng/images/010102-06-01.png
+SHA1-Digest: ybyOYE3NWjCl+O8k4A1Xtemtu/k=
+
+Name: assets/www/UN/Resource/WHO managing pph_eng.pdf
+SHA1-Digest: QiM/1tAGBgw4hwgAKcWVIJmrG9k=
+
+Name: assets/www/UN/Media/eng/images/010102-17-01.png
+SHA1-Digest: YRkuQT8XUqEICiHTd68AiJGUV68=
+
+Name: assets/www/UN/Media/eng/images/S1.png
+SHA1-Digest: mW5WloZAfXaHFe6VbtikyXWwd2A=
+
+Name: assets/www/UN/Media/eng/images/credit_orange_orange.png
+SHA1-Digest: +IN1VmLsz+fFccov6ot5xPNtVeE=
+
+Name: assets/www/UN/Scripts/engine/css/010102-12.css
+SHA1-Digest: SthQarNyb9ATdgsiT+s8zFPYoag=
+
+Name: assets/www/UN/Media/eng/images/feedback_box.png
+SHA1-Digest: XXlQpk0VO4Z4P7qgQSzLJ33dcXo=
+
+Name: assets/www/UN/skin/blue.monday/jplayer.blue.monday.seeking.gif
+SHA1-Digest: bIYV8rrg/6OaAtXxsE5yswuDAeE=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_46_2.m4a
+SHA1-Digest: uzu20/Yqi0JOdLw2x0w5kJYYTHs=
+
+Name: assets/www/UN/Media/eng/images/laptop.png
+SHA1-Digest: 1AMTA4siofSuYyMyXbTnb/7ofI0=
+
+Name: assets/www/UN/Scripts/engine/css/010102-06.css
+SHA1-Digest: m9N0pRT85rh3r7MO3bMjADUD9pU=
+
+Name: assets/www/UN/lib/aurora/flac.js
+SHA1-Digest: ef5h7pcZ64L7WDs0bS2rQ8aG8GQ=
+
+Name: assets/www/UN/Media/eng/images/010102-09-06.png
+SHA1-Digest: 0VvOFuLQS1FM425Iij0wOTE6Wy8=
+
+Name: assets/www/UN/Media/eng/images/010102-28-01.png
+SHA1-Digest: GTUTRtdtztUBpZrLtMg+6JcucjI=
+
+Name: assets/www/UN/Media/eng/images/010102-39-01.png
+SHA1-Digest: BuAjKsZucSqJp0hyW+MrmJvZxH0=
+
+Name: assets/www/UN/Media/eng/images/010102-31-01.png
+SHA1-Digest: Xela+iLixQu9Ae9Um8LEi+2Skc8=
+
+Name: assets/www/UN/Media/eng/images/impac1.png
+SHA1-Digest: E7uELAxRnbpZ6FtPDXFhWeeJ+IY=
+
+Name: assets/www/UN/Scripts/libs/jquery-ui.js
+SHA1-Digest: eCAPxBSYWb1IhxSlA/iouPzXgEg=
+
+Name: assets/www/UN/lib/circle-player/skin/bgr.jpg
+SHA1-Digest: FA1SEkPpVDx0DzkjDLGWZzjpdL4=
+
+Name: assets/www/js/jquery-1.4.1.min.js
+SHA1-Digest: fVkQZIWxHZ52eSTg/qqxFC8vkek=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s19_01.m4a
+SHA1-Digest: 4iyrIWNCusv2RKQj30LTG/Ce6MY=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s04_01.mp3
+SHA1-Digest: KAakFr3hxjmWMc54Ii4y9TgezzA=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s06_01.mp3
+SHA1-Digest: OLUk7jTd1Gz91hLa+XoCbqgMXNc=
+
+Name: assets/www/UN/Media/eng/images/R_popup.png
+SHA1-Digest: mjj2r5hfX9zoIAmw6PP/gQLaiUg=
+
+Name: assets/www/UN/Resource/WHO_recommendations_for_prevention_treatm
+ ent_pph.pdf
+SHA1-Digest: xJ+9niIklQ2nExireCJFlmnrH3k=
+
+Name: assets/www/UN/lib/README.md
+SHA1-Digest: c78qpBGTd7tW5UUqaHzmyKzBpuI=
+
+Name: assets/www/UN/Scripts/engine/css/010102-46.css
+SHA1-Digest: b0i1tm9d2ef027UsBScJG0O9XKE=
+
+Name: assets/www/UN/Scripts/engine/css/010102-03.css
+SHA1-Digest: phfP50UROkGmVL7WjQyItPvifqw=
+
+Name: assets/www/UN/lib/circle-player/skin/buffer.png
+SHA1-Digest: I6ABPscJqi759feXiJf2qgRRsGs=
+
+Name: assets/www/css/Content_style.css
+SHA1-Digest: W7grGAbTvJ7QdsQ+oZXb/hX4Zfg=
+
+Name: assets/www/UN/lib/popcorn.subtitle.js
+SHA1-Digest: qQeXzMKU6l3KPps2C2uQBY/9lhE=
+
+Name: res/raw/icudtl.dat
+SHA1-Digest: lh2U35LRxx6ITzcTSASipomzcZs=
+
+Name: lib/armeabi-v7a/libxwalkdummy.so
+SHA1-Digest: i0qLCaSpNEIZO3Zh568u3fWw8xg=
+
+Name: assets/www/UN/skin/blue.monday/play_n_btn.png
+SHA1-Digest: J3QtPdDay+As0PX2Jub2WLwidgA=
+
+Name: assets/www/UN/Media/eng/images/cong_lady.png
+SHA1-Digest: vtr6H0PwpmARLLpU8Q/SCwJ0R2o=
+
+Name: res/drawable-hdpi-v4/verify_checkmark.png
+SHA1-Digest: fyFCh0Ipc1lGQXH6EwS/h34nFwE=
+
+Name: assets/www/UN/Media/eng/images/small3.png
+SHA1-Digest: WCCnDTgPBxBUk0LYbR2XHYGSHAQ=
+
+Name: assets/www/UN/Media/eng/audio/d.m4a
+SHA1-Digest: cY4RTXHI6jzQXlK3Jcrn+as4NBY=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_37.m4a
+SHA1-Digest: uQmtUnJVKbhcXtGOoWt3P4sJ6Go=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s15_01.m4a
+SHA1-Digest: 4B3vJ2qS1WvPZieoZh/e+sP3pSY=
+
+Name: assets/www/UN/Media/eng/images/purple_bor_bg.png
+SHA1-Digest: q+qHrbVpZ5+HJnHGxIGy3pffq3s=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_int_s06_01.mp3
+SHA1-Digest: dedC+9g0qon1YLlpz+D9quXUTmc=
+
+Name: assets/www/UN/Media/eng/images/resultline.jpg
+SHA1-Digest: u4ruL1T2e7VKWxUfPlGIvPseBBc=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/Back_icon.png
+SHA1-Digest: DYklhaSMhDKIbnffFErt/8Q1DBY=
+
+Name: assets/www/UN/Media/eng/images/zoomin.jpg
+SHA1-Digest: wS33wc6Cv7XxY2hgH7sUSjJ/4mw=
+
+Name: res/layout/date_time_suggestion.xml
+SHA1-Digest: WOu86RzUNfcO+6KJ+4rSPjbXeoo=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_int_s02_01.mp3
+SHA1-Digest: 5L8l1jk7MiLrPBcSCeYfkxp1H74=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_41.m4a
+SHA1-Digest: 7pylewNJevi/YwdcEKL3V+dKVwo=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_sum_s02_01.mp3
+SHA1-Digest: wySL0nZZzUNofIfKU0WODjfY4tI=
+
+Name: assets/www/UN/dist/skin/pink.flag/css/jplayer.pink.flag.min.css
+SHA1-Digest: hjxf+sjEt2/ao/sz4+kf1hk8GA4=
+
+Name: assets/www/css/jquery.mmenu.css
+SHA1-Digest: TI8W/BSYwTlB+1M8pMgyrKBVVLY=
+
+Name: assets/www/UN/Media/eng/images/010102-03-01.png
+SHA1-Digest: CRFTK5MPQkWrC38sDugfP1bxMH0=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_29.m4a
+SHA1-Digest: y23sAY3JVipwSXOkQ2A/KAjghHc=
+
+Name: assets/www/UN/Media/eng/video/respectful_care_at_birth.mp4
+SHA1-Digest: mLqwn2bAQe7qViDpGP2ItaViCmE=
+
+Name: assets/www/UN/Media/eng/images/010102-04-06.png
+SHA1-Digest: aBlWwuvHOpAORGlIdLrysBTMquU=
+
+Name: assets/www/UN/Media/eng/images/010102-06-06.png
+SHA1-Digest: Pahch8sPSfQvOzKnZdbJ/Jn44YU=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_35.mp3
+SHA1-Digest: IJD9hi8NYC8aDeAtBJC5/xVkasc=
+
+Name: assets/www/UN/Media/eng/images/010102-07-01.png
+SHA1-Digest: a/nf5QswpfUpfocTu/EBwswNZ1k=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s05_01.m4a
+SHA1-Digest: QG1UFHViWv1Ho+zMrvSJZpv4l0o=
+
+Name: assets/www/UN/Media/eng/images/checkbox.png
+SHA1-Digest: bdpGjL1Bys4DT/dHXhYj+RvNNGY=
+
+Name: res/drawable-hdpi-v4/ondemand_overlay.9.png
+SHA1-Digest: YFC2puLso68vwUNW0uRZsReVric=
+
+Name: assets/www/UN/Media/eng/audio/mod_1_screen_1.mp3
+SHA1-Digest: +h9eLdkPofbSIT/k0C8Y7o5ET0U=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_2.m4a
+SHA1-Digest: AKK9/urGBfeZhFUziaGy3KXmzW8=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s03_01.m4a
+SHA1-Digest: pXibdBWVn3oVrISUIijX1g7o7vQ=
+
+Name: assets/www/UN/Media/eng/images/big1.png
+SHA1-Digest: J0wKFjrzjKqGxAbIvl7F6cbFTik=
+
+Name: assets/www/UN/Media/eng/images/congrate_bg.png
+SHA1-Digest: vLt0gBLzXwdGaaTJZYuvpUYcQEg=
+
+Name: assets/www/css/index.css
+SHA1-Digest: Xn5KKnRg99sIQW5z0rf5zJjEDgI=
+
+Name: res/layout/date_time_picker_dialog.xml
+SHA1-Digest: FqohZj5Hj7zQKA6oG+otqKGi/tI=
+
+Name: res/drawable-xxhdpi-v4/ic_search.png
+SHA1-Digest: zdTx4ATlO+OmGQRGxgoQrxpAwzs=
+
+Name: assets/www/UN/Media/eng/images/img_46_2.png
+SHA1-Digest: miriztqCynkyaEdG2nLOzIibtoA=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_22.m4a
+SHA1-Digest: ObgOkyVlwQS1fngnBYATNp/7GaM=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_40.mp3
+SHA1-Digest: t/qU6vS2ahY9P65IjM8N6I9cbwM=
+
+Name: assets/www/UN/Media/eng/images/010102-04-03.png
+SHA1-Digest: MB/QicM5NoDO7j+BRSb3MrucphQ=
+
+Name: assets/www/UN/Media/eng/images/P_popup.png
+SHA1-Digest: vvl7nooE7tclXyxOXKRuzrOLrF0=
+
+Name: assets/www/UN/Media/eng/images/010102-03-04.png
+SHA1-Digest: yw9GaGA/L9xMFEv1f3wObSyKvk0=
+
+Name: assets/www/UN/skin/blue.monday/play.png
+SHA1-Digest: /FF9CrYWF3LSPWHWQzE7BlreYn4=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_1.mp3
+SHA1-Digest: iFWC4XJUucsW2AWU7/S7PbZZJJk=
+
+Name: lib/armeabi-v7a/libxwalkcore.so
+SHA1-Digest: MvY6XyGDpuLmaAa8HP/F8QUVZUI=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s20_01.m4a
+SHA1-Digest: dFobEckk7QXS5gtdJKb97rXEaEk=
+
+Name: res/drawable-hdpi-v4/dropdown_popup_background_down.9.png
+SHA1-Digest: L0FLwZP/cbwuYWJrDbBx1iNxVbg=
+
+Name: assets/www/UN/dist/skin/pink.flag/css/jplayer.pink.flag.css
+SHA1-Digest: qpVNNt/mYXTLaHS0YnMR5uNKrj0=
+
+Name: assets/www/UN/Media/eng/images/blue_47.png
+SHA1-Digest: 844tvSR72QOb09PdDNwON2nN+oA=
+
+Name: assets/www/UN/Scripts/engine/jquery.mobile-1.4.5.js
+SHA1-Digest: sI+IcJ4AzvVXTFbQ971qxqW5uyU=
+
+Name: assets/www/UN/Media/eng/images/submit2.png
+SHA1-Digest: gUXNif+E3sVoYah9GgqnlVGjw2s=
+
+Name: res/layout/color_picker_dialog_content.xml
+SHA1-Digest: 7qGMCs/rr9ynZR4KZFN5ZF6POjM=
+
+Name: assets/xwalk-command-line
+SHA1-Digest: wAZA0wYRURPnxEpt3M8kFThmtYY=
+
+Name: assets/www/UN/Media/eng/images/intro_bgone.png
+SHA1-Digest: w8nToFDQhkRPniHRMWbpipeJUMo=
+
+Name: assets/www/UN/Scripts/engine/css/010102-30.css
+SHA1-Digest: lmveqbBVQyTYXgbFM54XAAiq0A4=
+
+Name: res/drawable/color_picker_advanced_select_handle.png
+SHA1-Digest: fk3l3eHkGWeMp+0N+pkKTBelwc4=
+
+Name: res/layout/autofill_suggestion_item.xml
+SHA1-Digest: jy8H4apip2ckfCovBJu4uM6272M=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43_5.mp3
+SHA1-Digest: RfJJgvyTn98gkvU0OVTlh8dMtY0=
+
+Name: assets/www/UN/Media/eng/images/sum2.png
+SHA1-Digest: H6eoVE+pzpn5cwRC2bzt676vijc=
+
+Name: assets/www/UN/Scripts/engine/css/010102-26.css
+SHA1-Digest: X7LtWZ0uEQVdXhpH487hJtO23OE=
+
+Name: assets/www/UN/Media/eng/images/010102-09-05.png
+SHA1-Digest: blOT4yRFfyilzeSG/wpJ+sM3/fQ=
+
+Name: assets/www/UN/Scripts/engine/css/010102-18.css
+SHA1-Digest: 59u+AGJ/nGTVjiU/yKa0LiZLgBI=
+
+Name: assets/www/UN/Media/eng/audio/mod_3_screen_1.m4a
+SHA1-Digest: dJkg9GFhhyT17jc0yojY+F1Fcr0=
+
+Name: assets/www/UN/Media/eng/images/010102-05-05.png
+SHA1-Digest: c6FOj544oxADaTxgJ16gSvUjcpE=
+
+Name: res/drawable/bubble.9.png
+SHA1-Digest: eb1Yiz0jIp5ymq5k/ZyVLmKCSWk=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s10_01.mp3
+SHA1-Digest: 0kGvgu2TzY7lPOlSZ1cHtpiuSuE=
+
+Name: assets/www/UN/Media/eng/images/0101002-21-01.png
+SHA1-Digest: 7mlmPqDEGc5buqSKsY+bLxfPyvU=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.topbar.js
+SHA1-Digest: KmVm0ia5xQSmKhGiHh5inLZXUOI=
+
+Name: assets/www/UN/dist/skin/blue.monday/mustache/jplayer.blue.monday
+ .video.single.html
+SHA1-Digest: vVGVVee5/h5RCb0KNxAzuH0fszA=
+
+Name: assets/www/UN/Media/eng/images/checkbox_hover.png
+SHA1-Digest: bw3XJ8Mdl6oHGcKvev/RygTFdUQ=
+
+Name: assets/www/UN/Scripts/engine/css/010101-01.css
+SHA1-Digest: /4smguTDAXLui0Ka1YFgCWQXUlA=
+
+Name: assets/www/UN/Media/eng/images/play.png
+SHA1-Digest: 01ajj5VEKpFVXLZMm9jOBGkl0YI=
+
+Name: res/drawable-xxhdpi-v4/verify_checkmark.png
+SHA1-Digest: XM9f14PFAVUPGVK9hwYQhfwvy94=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_5.m4a
+SHA1-Digest: htcFsumHrQTx1A3RVv+cojQSy28=
+
+Name: assets/www/UN/Media/eng/images/010102-24-02.png
+SHA1-Digest: auRUbZ/QDkUXxBHrUQ9K7DpD4sk=
+
+Name: assets/www/UN/adlcp_rootv1p2.xsd
+SHA1-Digest: rBwmAmLoARoXZu2mQt+/SAQwMRI=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/menu_li_hover.png
+SHA1-Digest: xOCV/esDZ2rrpl91mZ/OFyQt5XA=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_44.m4a
+SHA1-Digest: fvDn7aZaxAdrsie1F22Bl9F6v3Y=
+
+Name: assets/www/UN/Media/eng/images/bg4.jpg
+SHA1-Digest: 58xaDEAAdWZHjUDvflI8neoF3RY=
+
+Name: assets/www/UN/Scripts/engine/css/010102-11.css
+SHA1-Digest: WOa1vSFdmJ/qjQP+f6cIUj2oN5A=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA1-Digest: xQF9FkF91ssL80U0ZZIBCcr9Qs0=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_46_1.m4a
+SHA1-Digest: dzlgLA36bDSI4VE6n7RqAWTJitw=
+
+Name: assets/www/UN/Media/eng/images/010102-40-01.png
+SHA1-Digest: KHdLVbOZXnzpY9lTzaN4LJX8kjI=
+
+Name: assets/www/UN/Media/eng/images/S2.png
+SHA1-Digest: funSkiKR0s04kAVHTtKIXQC5y3Q=
+
+Name: assets/www/UN/skin/pink.flag/jplayer.pink.flag.jpg
+SHA1-Digest: +/+KjGbv30vXrVXWiANuBW4C4RY=
+
+Name: assets/www/UN/Media/eng/images/blue_bor_bg.png
+SHA1-Digest: u5wWw2t1YWat0qtk1j9NqDKIIHg=
+
+Name: assets/www/UN/Media/eng/images/G_popup.png
+SHA1-Digest: lFZbdGY/pTuvfboKo2ixPF+YVWk=
+
+Name: assets/www/css/jquery.mobile-1.4.5.css
+SHA1-Digest: A5WHhfw+bq9RFAVBepgvguDzzLo=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_28.mp3
+SHA1-Digest: tLi4K6LlBiPcvtfuGqtmjhp1ZF4=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_36.m4a
+SHA1-Digest: s/AkpgxtyaOK+TEuPRC330ckGAQ=
+
+Name: assets/www/UN/Media/eng/images/blu_patchs.png
+SHA1-Digest: VFsuzwB8MfbEDcoVBpoCyTeKz/4=
+
+Name: assets/www/UN/Scripts/engine/css/010102-10.css
+SHA1-Digest: 7r8+ffRMjuP5zx6YF01LRevPAeg=
+
+Name: assets/www/UN/Media/eng/images/pages_bg_2_1.png
+SHA1-Digest: h0MMAtzFz8Csir/hMIi3NBXbLas=
+
+Name: assets/www/UN/dist/skin/blue.monday/css/jplayer.blue.monday.min.
+ css
+SHA1-Digest: hwmddlUFL10b5K28L78kxRu4r/M=
+
+Name: assets/www/UN/Media/eng/audio/mod_3_screen_1.mp3
+SHA1-Digest: Hr97nVU8hJzrG3csVeYPcKCQZ4E=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.accordion.js
+SHA1-Digest: j42lKc9pSoLQgW5naG3z+QH+Sto=
+
+Name: assets/www/css/HomeCss.css
+SHA1-Digest: 0XzFyL7/7t65TaElmZIsOCJl5Uw=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_42.m4a
+SHA1-Digest: MaZE/ijjIEWWuBHn/6eKnxH1Krs=
+
+Name: assets/www/UN/Scripts/libs/modernizr-2.0.6.min.js
+SHA1-Digest: dnUio5c4DmHGJjWk6lLX2b5bKvY=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/css/found
+ ation.min.css
+SHA1-Digest: F/FKXxJU8k50OHpK4MbcS+Ej0ck=
+
+Name: assets/www/UN/Scripts/engine/css/010102-47.css
+SHA1-Digest: fbElxw+ApRc4a943Rn0U8CpZ6Wc=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/pause_hover.png
+SHA1-Digest: LQNGgcFa289o9orCbZjrAq+UeQ0=
+
+Name: assets/www/css/Launch.css
+SHA1-Digest: 2z47z2oXRR96/vK8sFSZVWNdTYY=
+
+Name: res/drawable/dropdown_popup_background_down.9.png
+SHA1-Digest: BOaC2VjfWoCnt82Sx0mdnYISaGM=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_3.m4a
+SHA1-Digest: s0rXKi1WEA4j9turWiW/9zv79M8=
+
+Name: assets/www/UN/Scripts/engine/css/010102-04.css
+SHA1-Digest: y1zkdoeh9EnoSQWGqLqz+3WBoVA=
+
+Name: res/drawable-xhdpi-v4/dropdown_popup_background_down.9.png
+SHA1-Digest: FlAqUjWrPFafxadzhg6J2rJdXfE=
+
+Name: assets/www/UN/lib/aurora/vorbis.js
+SHA1-Digest: 1TBEf8AskXVgwSvwgioS5akect4=
+
+Name: assets/www/UN/lib/circle-player/skin/progress_sprite.jpg
+SHA1-Digest: arN7vJPPK0mxkuEoErW1N55pkiU=
+
+Name: assets/www/UN/ims_xml.xsd
+SHA1-Digest: ZOwJXkY0kSLHiQjBBYnQZR8WfR8=
+
+Name: assets/www/UN/dist/jplayer/jquery.jplayer.min.js
+SHA1-Digest: VS+PLpJJa9xjxTlpQpX3B1u0bYk=
+
+Name: res/drawable-hdpi-v4/ic_search.png
+SHA1-Digest: lQOKMvgbrzUmgloYbsb6jdTuYO8=
+
+Name: assets/www/UN/dist/skin/blue.monday/image/jplayer.blue.monday.vi
+ deo.play.png
+SHA1-Digest: ARVoH5s+maZszf8cR74GPwVJpy4=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/css/intro
+ .css
+SHA1-Digest: eQ2GU51cMTyM7rR0hYdWLgG/BXs=
+
+Name: assets/www/css/User_AMS_style.css
+SHA1-Digest: /Yxix+K5t9KukR+BfuDf6rjxWfg=
+
+Name: assets/www/UN/skin/blue.monday/stop_o_btn.png
+SHA1-Digest: BSGG5gn6CQd5Ah6rrBDz4jDqQ0E=
+
+Name: assets/www/UN/Media/eng/images/010102-30-02.png
+SHA1-Digest: pdmNiplCNbWhGj2c0d8FsLT3bfg=
+
+Name: assets/www/UN/Media/eng/images/clinic4.png
+SHA1-Digest: P6eXbuVAMa0Y1H+YwdEgQqzurfQ=
+
+Name: assets/www/UN/Resource/Managing_PAC_with_Misoprostol_or_MVA.pdf
+SHA1-Digest: dGn/vzW5J7dnsZzEh/TwIeRPqxg=
+
+Name: assets/www/UN/Media/eng/images/bor_radius4.png
+SHA1-Digest: acSLhoTXKfuBTAfiWHLXPi9wdRA=
+
+Name: assets/www/UN/Media/eng/images/010102-18-01.png
+SHA1-Digest: wHiPpUdPuPfaZOCaiC58UjC6/7E=
+
+Name: assets/www/UN/Media/eng/images/atony.png
+SHA1-Digest: y8jamRmIClyRISYlGlAYreATqcU=
+
+Name: assets/www/UN/lib/circle-player/skin/circle.player.css
+SHA1-Digest: NsJJrMYY/EkdhK0wvrL4VAGMcUk=
+
+Name: assets/www/UN/Media/eng/images/010102-03-02.png
+SHA1-Digest: qQrbVgXIcznE1YdfKeJIj/onPOE=
+
+Name: assets/www/UN/Media/eng/images/010102-06-07.png
+SHA1-Digest: ogAcxy/GpL0U9GqJfn8+lt77pcw=
+
+Name: assets/www/UN/Media/eng/images/010102-29-01.png
+SHA1-Digest: 5HgiU4GnktFm7OZnw2gABzs+ZJU=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s11_02.mp3
+SHA1-Digest: medaa5jcKQhnehfyJ66PGGM0JeY=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_34.mp3
+SHA1-Digest: Y2F20s+URwEBDkpPTiSdQPMweJI=
+
+Name: assets/www/UN/Scripts/libs/rem/rem.min.js
+SHA1-Digest: 7Jdtg3S26jVB43HA/iAPINZzmy8=
+
+Name: assets/www/UN/dist/skin/pink.flag/mustache/jplayer.pink.flag.aud
+ io.playlist.html
+SHA1-Digest: WbDvZU8ApLQQs8DowNE83ncBonQ=
+
+Name: assets/www/UN/Media/eng/audio/mod_1_screen_2.mp3
+SHA1-Digest: Btxadqh9ysTAqgSZV4V4sYl8tA8=
+
+Name: assets/www/UN/lib/circle-player/skin/controls.jpg
+SHA1-Digest: AFDcb6wlTVO/HXbmN1FllO1KgRc=
+
+Name: assets/www/UN/Media/eng/images/nurse3.png
+SHA1-Digest: jwX6EFZl/cf75GSvBltgNa7fWaQ=
+
+Name: res/layout-land-v21/date_time_picker_dialog.xml
+SHA1-Digest: S6o/6wrHXYaXnKEfISq5/+YdGc8=
+
+Name: assets/www/css/demo.css
+SHA1-Digest: KXd99y68Oi4wUTPt9EbpthDIpFA=
+
+Name: assets/www/css/landing_page.css
+SHA1-Digest: EzqPVXSroyBvX73CzZZbfMCDh80=
+
+Name: assets/www/UN/Media/eng/images/sum1.png
+SHA1-Digest: L5bQrB5tP52+Iz0l3V9uBJ1q0VA=
+
+Name: res/layout-v17/date_time_suggestion.xml
+SHA1-Digest: gC4+k1OuldGdjPhvglbYpxRqfgI=
+
+Name: assets/www/UN/Media/eng/images/bor_radius3.png
+SHA1-Digest: aARy9dItNvT2b8pyQ8SvTY2StiI=
+
+Name: assets/www/UN/Media/eng/images/think_bub.png
+SHA1-Digest: pnGHjsRXGLbXVTmRlmBvXUsStMU=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s09_01.m4a
+SHA1-Digest: mlPGoMNaxKWJjLBO8I1l9kZXL88=
+
+Name: assets/www/UN/Media/eng/images/010102-03-03.png
+SHA1-Digest: Jisgf3l0xjEWOanmy6DKUIWBeR0=
+
+Name: assets/www/css/jquery-1.11.3.min.js
+SHA1-Digest: J2yH/z4eMVVnnDGJOOdOXBt22Ak=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_41.mp3
+SHA1-Digest: HTfWbhvyqzOe79N+9NfQ2zCHh8E=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_sum_s02_01.mp3
+SHA1-Digest: 3aYzUl+4Rni7OEjurdnJg1HSJJI=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21.m4a
+SHA1-Digest: L6KVLi+bSdqkOsRYK85uxcpfaCE=
+
+Name: assets/www/UN/Scripts/engine/pageLoader.js
+SHA1-Digest: ISUSDX1l8tdFtfUS03jYVRQRAn8=
+
+Name: assets/www/UN/dist/skin/pink.flag/mustache/jplayer.pink.flag.vid
+ eo.single.html
+SHA1-Digest: Q2A0QLxnJ5uPiLnXduDZw577t4Q=
+
+Name: assets/www/UN/skin/blue.monday/vol_o_btn2.png
+SHA1-Digest: +jEOSnqQehbCmkhB8GIS2ub+t84=
+
+Name: assets/www/UN/Scripts/engine/css/010102-25.css
+SHA1-Digest: dC6XhsUANJ8bZ1M4DWi9Xal5pPY=
+
+Name: assets/www/UN/imsmd_rootv1p2p1.xsd
+SHA1-Digest: 9GOlsgYmlTqqzbUQRA0y05tuVOg=
+
+Name: assets/www/UN/Media/eng/images/img_46_1.png
+SHA1-Digest: 7rXdglCVasPWVeAk5rgwurFraEk=
+
+Name: assets/www/UN/Media/eng/images/trxt.png
+SHA1-Digest: Sff0EcyDnMWhxehRBaUteu9L91s=
+
+Name: assets/www/UN/Scripts/engine/css/010102-31.css
+SHA1-Digest: 21GSd0fxOMWgfxkr/moemcHl/IM=
+
+Name: assets/www/UN/Media/eng/images/010102-09-04.png
+SHA1-Digest: 0P7SPUuIMIYwvgJBRC9euCwiuSQ=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s04_01.m4a
+SHA1-Digest: f+Zj2FWiJcEmMTog51lO0HGCRJA=
+
+Name: assets/www/UN/Media/eng/images/010102-04-04.png
+SHA1-Digest: 3dQ9IkT4+v74pXS1tQqTOitqjQw=
+
+Name: assets/www/UN/skin/blue.monday/jplayer.blue.monday.video.play.pn
+ g
+SHA1-Digest: ARVoH5s+maZszf8cR74GPwVJpy4=
+
+Name: assets/www/UN/Media/eng/images/l01_s21_01.png
+SHA1-Digest: QiGXXtgd6RCPYjHBJ7SSLvSKjHA=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_2.mp3
+SHA1-Digest: BV/bwzkFBvawDnZ3V/7RzOHYXW0=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.dropdown.js
+SHA1-Digest: OlGNxvNdH0hrpnPleNXs8YLj8jQ=
+
+Name: assets/www/UN/Media/eng/audio/Intro.m4a
+SHA1-Digest: tKw7O8b0oWUciCMyN6eIwGAGNDM=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s05_01.mp3
+SHA1-Digest: QWPpfgdcWOrlHAb3/qYYPmV0WrM=
+
+Name: assets/www/UN/Media/eng/images/l01_s32_01.png
+SHA1-Digest: PDs3K07vXsRhG3J/1lGPnZsC77M=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_int_s01_01.mp3
+SHA1-Digest: Kc6PX3XwJjVUi3UTyf7CuR6UjmY=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_sum_s03_01.mp3
+SHA1-Digest: NAigeV/bvBEWVhTzFEYiV+obFho=
+
+Name: assets/www/UN/Media/eng/audio/blank_audio.m4a
+SHA1-Digest: I70GZS02DWl4IVaLjFMv7XHVQfI=
+
+Name: assets/www/UN/Media/eng/images/img_47.png
+SHA1-Digest: kTI+p7jGC6NNeftuhJotVYzIQYY=
+
+Name: res/layout/color_picker_dialog_title.xml
+SHA1-Digest: 9dVdp+4Plr/3QOyRBFre/Wo3lng=
+
+Name: assets/www/UN/Media/eng/images/010102-24-01.png
+SHA1-Digest: QRsxPcZ960pWL3Tp/j/f6r4IkOo=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.reveal.js
+SHA1-Digest: 6Xmww1BSJdB+Wag6KuPMAkFs8TE=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s16_01.mp3
+SHA1-Digest: nzwCZYxP8pTrpk5PrPSQ5l7oMX8=
+
+Name: assets/www/UN/Media/eng/images/010102-13-01.png
+SHA1-Digest: luvb7pkxdVM+/whD4uSiKviDiSg=
+
+Name: res/raw/presentation_api.js
+SHA1-Digest: /YdESti4e/c2dIxpaLDOhwcU7H4=
+
+Name: assets/www/UN/Media/eng/images/010102-35-01.png
+SHA1-Digest: r1wLvIff8DY8ikDedmYbA8knscI=
+
+Name: assets/www/UN/Scripts/engine/css/010102-19.css
+SHA1-Digest: A8+0peVxi2qXAZouCEJ3ByUB+Yo=
+
+Name: assets/www/UN/Scripts/engine/fonts/glyphicons-halflings-regular.
+ woff2
+SHA1-Digest: yjW2l9mcrk0bYPLWD803dxmH6wc=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s04_01.m4a
+SHA1-Digest: SCz/kdFAnBwgXY8AUVMWUCKmSGA=
+
+Name: res/drawable-hdpi-v4/color_picker_advanced_select_handle.png
+SHA1-Digest: hx2zX4qGq+5QfUO/iD+9O0uxWxY=
+
+Name: assets/www/UN/Media/eng/images/small2.png
+SHA1-Digest: jmhpIEwXU43rLgA56/dgXQJ4N2A=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_l01_s01_01.mp3
+SHA1-Digest: FzDkgphloSycpp9OnDQFC+ezb7g=
+
+Name: assets/www/UN/skin/blue.monday/vol_n_btn.png
+SHA1-Digest: bQ/s88AABRLwtPvXD7/ox41wWsk=
+
+Name: assets/www/UN/Scripts/engine/css/010101-02.css
+SHA1-Digest: /VTk4ypFRbL2DgG4fRok5h2twHs=
+
+Name: assets/www/UN/Resource/Primary_PPH_management.pdf
+SHA1-Digest: W7QYeOrq7jCSDch5Z61DP7K0PE8=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s05_01.mp3
+SHA1-Digest: GhZg8a41E4GymGt0bkG1TSklTR0=
+
+Name: res/layout-v17/autofill_suggestion_item.xml
+SHA1-Digest: Rj9GQGSvyzfZkM2eDfPNBfq9vHo=
+
+Name: assets/www/UN/Media/eng/images/eduriser_logo.png
+SHA1-Digest: vHvColeGXBQMYii54OhPNKM0HGI=
+
+Name: assets/www/UN/Media/eng/images/010102-04-08.png
+SHA1-Digest: eYYeOThCRlg8I+P6MLRwwTTDeWw=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_45.mp3
+SHA1-Digest: 1bO0x0xXuSDTW8BiFukS7plfkcc=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_4.m4a
+SHA1-Digest: oRaLohzblYIkhCS4OCVvaXNzDAg=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/css/found
+ ation.css
+SHA1-Digest: WyoO8G1KvXHpFdQSWpDxfGgnNd8=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s01_01.mp3
+SHA1-Digest: VkW0BD1zLWp1xbHK6ZOtgOJCbE8=
+
+Name: assets/www/UN/Scripts/libs/handlebar/handlebars-v1.2.0.js
+SHA1-Digest: jUvqSNJB2QZOmXKD1MmjG9Yxa/0=
+
+Name: assets/www/UN/Scripts/engine/css/010103-03.css
+SHA1-Digest: NyWa6eFv9yYsmY0zSNSpwLuvBH8=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_37.mp3
+SHA1-Digest: 2nrjW84JPHrNvBQw6wKrSrv5kTI=
+
+Name: assets/www/UN/dist/skin/pink.flag/image/jplayer.pink.flag.seekin
+ g.gif
+SHA1-Digest: WjB6xGB0pGMw7I87zahSvDJHznk=
+
+Name: assets/www/UN/Media/eng/images/S3.png
+SHA1-Digest: eSBtmm8O4R85FLWtboPA9FfX97c=
+
+Name: assets/www/UN/Scripts/engine/css/010102-01.css
+SHA1-Digest: Toh2Yms6a/I/GcpjxCTovsvt7oo=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s12_01.m4a
+SHA1-Digest: LXdgIu1QCN/gggDW/Giof9C1Cp0=
+
+Name: assets/www/UN/Scripts/libs/scorm/APIWrapper2004.js
+SHA1-Digest: Ml75FxZIvmxbbm7xgdfekLz5ykQ=
+
+Name: assets/www/UN/Media/eng/images/credit_purple_arrow.png
+SHA1-Digest: IbH7y6ROGFigF6BlJnKxIdHwC30=
+
+Name: assets/www/UN/dist/skin/blue.monday/image/jplayer.blue.monday.se
+ eking.gif
+SHA1-Digest: bIYV8rrg/6OaAtXxsE5yswuDAeE=
+
+Name: res/layout/color_picker_advanced_component.xml
+SHA1-Digest: XfobJVDgk1uhnELT3YkCRiBlzpI=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s16_01.m4a
+SHA1-Digest: OLw+OSSiBODeG3rElg0xE+XQ/ic=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_int_s07_01.mp3
+SHA1-Digest: MfHOBtds19biUH83ydmnyuybzdM=
+
+Name: assets/www/UN/Media/eng/images/big3.png
+SHA1-Digest: ENPJtlySaO5XLwS3sx56uF8nkLo=
+
+Name: assets/www/UN/Media/eng/images/010102-17-04.png
+SHA1-Digest: z9jb/H1aVYi5c3OQEoQgrJRxico=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s13_01.mp3
+SHA1-Digest: +oi4yLwbOCHdc437JpU7xjdEQNA=
+
+Name: assets/www/UN/Media/eng/images/010102-30-01.png
+SHA1-Digest: N57aUrz6wkqo7gebxe/4vlnjnMA=
+
+Name: assets/www/UN/lib/aurora/aurora.js
+SHA1-Digest: T4SOikmZjbkNJj/zG/2KHLVQ420=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s20_01.mp3
+SHA1-Digest: O56/CZjU05FhANmgqOV7TA6siUQ=
+
+Name: assets/www/UN/Media/eng/images/010102-40-06.png
+SHA1-Digest: c8oVbnqdvMaJ38npDj8OqfN8ye0=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/pdf_icon.png
+SHA1-Digest: OYfby2dSz1q2gh6fNtF3dTqcLvo=
+
+Name: res/drawable-xxxhdpi-v4/ic_search.png
+SHA1-Digest: MT/ITiZ+iXrQpMiRHMtywbz5kcA=
+
+Name: res/drawable-xxxhdpi-v4/ic_menu_share_holo_light.png
+SHA1-Digest: BGymd0BxB/twPS8qM7VKDtSbC4U=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.interchange.js
+SHA1-Digest: fkILcETAZ6PzBcxTKx3RCTgbmv4=
+
+Name: assets/www/css/StyleSheet.css
+SHA1-Digest: 6OUz0piUZGkg7XfAk52MvXbItvY=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s17_01.mp3
+SHA1-Digest: rK4+4fl1aGZWhhKj/XcxqLxBHsE=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_22.mp3
+SHA1-Digest: myyrcEcWGFQ7u2MhE/MqGrgWyPM=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_47.m4a
+SHA1-Digest: AnSIGSDOBVOnuy5Y/1U9GNc3v6Y=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_32_1.mp3
+SHA1-Digest: hsUWFBzJAGopfzvU2QrX7v87kfg=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_23.m4a
+SHA1-Digest: 7g3FEoaKcxM8OP2VCBbI/CvLMlg=
+
+Name: assets/www/UN/skin/blue.monday/vol_n_btn2.png
+SHA1-Digest: t+fpQizq8LtQngzyS/KW3drHU3s=
+
+Name: assets/www/UN/Resource/BAB_ActionPlan.pdf
+SHA1-Digest: 9KIH+ZoKTLn4ukzOO9Mjv+uvuog=
+
+Name: assets/www/UN/Scripts/engine/fonts/glyphicons-halflings-regular.
+ svg
+SHA1-Digest: 3lGoSUGAptsHSvLe4jg/CjY8Wwg=
+
+Name: res/drawable-land-mdpi-v4/screen.png
+SHA1-Digest: YVTonnvTeGj2Yhf0CYjFyC55TZE=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_29.mp3
+SHA1-Digest: 7sTIpjsQ7lCzxM2qvAbsrqQLES0=
+
+Name: assets/www/UN/Media/eng/images/010102-34-01.png
+SHA1-Digest: Uc8niBOpPdluILOfT/5tgmAtnHc=
+
+Name: assets/www/UN/Media/eng/images/010102-12-02.png
+SHA1-Digest: VPO/7Gi11+cRI8TB0ayUClXvvJE=
+
+Name: assets/www/UN/Media/eng/images/credit_red_patch.png
+SHA1-Digest: 4DfF8SuTXQoA5FSUQ8qp0ZIc7tE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: rwOsbiSh59WwUnfNb3K0vS12Iq4=
+
+Name: assets/www/UN/Media/eng/images/010102-05-03.png
+SHA1-Digest: 6rG/fn/o1+m39vKdjUKfnEA0DQc=
+
+Name: assets/www/UN/Scripts/engine/css/010102-24.css
+SHA1-Digest: 2pGAQIrPlvF+hXRQML6hJ+1WGTE=
+
+Name: assets/www/UN/lib/aurora/aac.js
+SHA1-Digest: zvAoY6kFnoAtiIvjjwkS07sXHhM=
+
+Name: assets/www/UN/dist/skin/pink.flag/mustache/jplayer.pink.flag.aud
+ io.stream.html
+SHA1-Digest: 1QylFc2HDf3keahwMPVb7BpxQoA=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43_2.m4a
+SHA1-Digest: 6pRxx/zDtYpgetmzjF7Jd+ZU6XY=
+
+Name: assets/www/UN/Media/eng/images/yellowBg.png
+SHA1-Digest: Qdf4ESFhV0It3Qwn+yE1xOp40K0=
+
+Name: assets/www/UN/Media/eng/images/010102-09-03.png
+SHA1-Digest: GZeo1+ET7nlLjaZu9o/b8iFrzDg=
+
+Name: res/xml/config.xml
+SHA1-Digest: bzsN9jWE4oq5odpO2oZUoqmgkM0=
+
+Name: res/drawable/ic_search.png
+SHA1-Digest: 5f3oXmlxojVK3lKcMUwK7xxbIn0=
+
+Name: res/raw/launch_screen_api.js
+SHA1-Digest: QgroQBamE1iO+EX412fB0obyw2k=
+
+Name: assets/www/UN/Media/eng/images/preBtn.jpg
+SHA1-Digest: aFRcSun4yhHdQ2h8qHeZWby2UNg=
+
+Name: assets/www/UN/Media/eng/images/010102-06-04.png
+SHA1-Digest: jWQnQyqROKY5lwFOPGCMoB+CkPE=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/Next_icon.png
+SHA1-Digest: DiMhyPyRuMQjg0kY+JTVxpPiVgQ=
+
+Name: assets/www/UN/dist/skin/pink.flag/mustache/jplayer.pink.flag.aud
+ io.single.html
+SHA1-Digest: VdkSMwZW9cTRX+CeZsXxzRp3kkQ=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s09_02.m4a
+SHA1-Digest: b5tB9FTJkwjeT5yL81Ce/EhkRMc=
+
+Name: assets/www/UN/Media/eng/images/correct.png
+SHA1-Digest: 1YU5uA41JaHj2fQvSafoSRlrOn0=
+
+Name: assets/www/UN/skin/blue.monday/jplayer.blue.monday.css
+SHA1-Digest: sJnsHtohLm7CPV7m2C7Mdh0KszM=
+
+Name: assets/www/js/jquery.mmenu.min.js
+SHA1-Digest: p54GgDUtAvv6pQmzIY5DwZZZ4XA=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_46.m4a
+SHA1-Digest: PS+1QU5YrtkQiyzfnbBDSBhGzTw=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_int_s03_01.mp3
+SHA1-Digest: w2e6SiwvnsuHwbbH/Pnnc1qxUHg=
+
+Name: res/layout-v17/dropdown_item.xml
+SHA1-Digest: LOCRS/C7GtMGM/AQJyG5krKf4q0=
+
+Name: assets/www/UN/Media/eng/images/010102-04-01.png
+SHA1-Digest: brU5ERkdtyn2TwO+BKXvMGzWXQI=
+
+Name: assets/www/UN/lib/circle-player/skin/progress.png
+SHA1-Digest: 4+kGuF0xGXNiaAJs4DZA4IFtLqs=
+
+Name: assets/www/UN/Media/eng/images/l01_s34_01.png
+SHA1-Digest: IZgaCaGSbmuxSYsO3biI8FoG/oI=
+
+Name: assets/www/UN/skin/blue.monday/jplayer.blue.monday.png
+SHA1-Digest: mZFimRZCAIQilp6lWi1hUIXRfBE=
+
+Name: assets/www/UN/Media/eng/images/small1.png
+SHA1-Digest: rGQEomIAAD7TxL9Rby6B0Cp1AK4=
+
+Name: assets/www/UN/Media/eng/images/010102-15-01.png
+SHA1-Digest: LZJ28U/l0M9OPSWlU5iMlocVEwM=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_38.m4a
+SHA1-Digest: QfgzBfYLaL2Yt723JWvfgouptGg=
+
+Name: assets/www/UN/Scripts/engine/css/animate.css
+SHA1-Digest: jC0S2bYvM9EUsddX6MI402z2Is8=
+
+Name: assets/www/UN/Media/eng/images/010102-11-01.png
+SHA1-Digest: eOliQzixxBNn+hqCA0ptWxum2HE=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_3.mp3
+SHA1-Digest: rLF9VvFked4Uias7zb/IKnU516o=
+
+Name: assets/www/UN/Media/eng/images/credits.png
+SHA1-Digest: gAf251nuSXyDvWDDH/aEqIRFd5k=
+
+Name: assets/www/UN/Media/eng/images/010102-19-01.png
+SHA1-Digest: UNXYa67Z7sHOmW+u4beCsqUaqhU=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.magellan.js
+SHA1-Digest: HVlTPSyPkEDnDvHloMsjvORF4qA=
+
+Name: assets/www/UN/Scripts/engine/structureNew.js
+SHA1-Digest: Vo+aSA4IxThxMkikPvBRyn/heWE=
+
+Name: assets/www/UN/skin/pink.flag/jplayer.pink.flag.seeking.gif
+SHA1-Digest: WjB6xGB0pGMw7I87zahSvDJHznk=
+
+Name: assets/www/UN/Scripts/engine/css/010102-41.css
+SHA1-Digest: v0tGfNGZjyWkRrxuzHrWUuSEnLw=
+
+Name: assets/www/UN/Media/eng/images/010102-29-06.png
+SHA1-Digest: 8mtrIfEtHVNToZlEn9KXuNO+tuM=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_31.m4a
+SHA1-Digest: 070Tsp4sUJVlfGe25WTp2nwCsdE=
+
+Name: assets/www/css/header_bg.gif
+SHA1-Digest: jUA3NcPF9F16vUxvK3upOyb8ToI=
+
+Name: assets/www/UN/Scripts/engine/css/010103-02.css
+SHA1-Digest: kVOf4z6LcA81aBMJdBmyU/ZNQG4=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_26_1.mp3
+SHA1-Digest: eMnECdo75xUhSulIaLvk2Gnm8V8=
+
+Name: assets/www/cordova.js
+SHA1-Digest: 09ZWDrQSJMRayDv25DH7S5m8oNI=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 1uMPjGtE4YYLp1+R4dq1mf0LENQ=
+
+Name: assets/www/js/jquery.mobile-1.4.5.js
+SHA1-Digest: GahXYSl58LuTaI0bpj6IzE0csiU=
+
+Name: assets/www/UN/Media/eng/images/credit_yellow_arrow.png
+SHA1-Digest: VmZgPCtFBgZv26E2UgJUrTM2e0I=
+
+Name: res/drawable/dropdown_popup_background.xml
+SHA1-Digest: ow+87ey1bnE8XTBr7ZndwbcWiuo=
+
+Name: assets/www/UN/Media/eng/images/010102-34-02.png
+SHA1-Digest: +icfXAmCoKBr9YmB2/Wo4MvHOEI=
+
+Name: assets/www/css/style1.css
+SHA1-Digest: pXaGrnGoEdHnmY7I+VRDlf0JqDY=
+
+Name: res/drawable-land-xhdpi-v4/screen.png
+SHA1-Digest: Eme1m+KzdcxmzKWK1Sn3tLqwBxk=
+
+Name: assets/www/UN/Media/eng/images/sp_bubble1.gif
+SHA1-Digest: JKaZKvwxPRDVqKd0+TjBQOXwkqg=
+
+Name: res/drawable-hdpi-v4/ic_warning.png
+SHA1-Digest: wQTW949cObGCwvWTOGxypHnyP5U=
+
+Name: assets/www/UN/Scripts/engine/myScreenxmls.js
+SHA1-Digest: pCDB6zO5bp/0cA70o/GeLKJ5l04=
+
+Name: assets/www/UN/Media/eng/images/book_img.png
+SHA1-Digest: Or7YYrPtvXWUu49P4NEtV5E1xC4=
+
+Name: assets/www/UN/Scripts/libs/underscore/underscore.js
+SHA1-Digest: WFWk5xGGlEz8ZyZkDKOx/JsoQDg=
+
+Name: assets/www/UN/Scripts/libs/scorm/SCORMFunctions_old.js
+SHA1-Digest: SEKYLIS2zmi+ytH075mIBFnNh0A=
+
+Name: res/layout-v17/multi_field_time_picker_dialog.xml
+SHA1-Digest: CjttQsMfqOfMPZ/3hzciwXB+biA=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_44.mp3
+SHA1-Digest: 5Lpe+iK9L031zJ+5apouLtZ6GQg=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/txt.png
+SHA1-Digest: 9xto0SExifr8d/8Iax9ACQ8V7Cw=
+
+Name: res/layout/dropdown_item.xml
+SHA1-Digest: /h3nt9qOqpvHLTl7Gi3JG+gNGMY=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_36.mp3
+SHA1-Digest: jJlPJsTYvmd8QFhH1ttsGyiburE=
+
+Name: assets/www/UN/Media/eng/images/010102-12-01.png
+SHA1-Digest: w1J6T59+Y6wWSkUg3JfYIPhGrsM=
+
+Name: assets/www/UN/Media/eng/images/010102-17-05.png
+SHA1-Digest: Ujf6neKxn0hdCfEx1PzKRdxk7VI=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s06_01.mp3
+SHA1-Digest: LR2S+OPzzfya/5ZYxLmr500SRao=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21.mp3
+SHA1-Digest: 6A14W+4WsomX1S+5Vr9kj5scDg0=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_24.m4a
+SHA1-Digest: auDBVM+12WuPx44mbfgwtCUGR9o=
+
+Name: assets/www/UN/Media/eng/images/010102-06-05.png
+SHA1-Digest: mCUDdDtjnD1eG7W2ngSTOK57qIU=
+
+Name: assets/www/UN/skin/blue.monday/vol_o_btn.png
+SHA1-Digest: MiadlJyoCei+TyCIzLsGhsEUNS4=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/Intro.mp3
+SHA1-Digest: eqyuLJskUDF/Dw5U1gmHGJJEuVc=
+
+Name: assets/www/UN/Media/eng/images/pages_2_bg_1.png
+SHA1-Digest: OK+nVU9fe0234PwkEfF2F+/eIZE=
+
+Name: res/drawable-xhdpi-v4/bubble_arrow_up.png
+SHA1-Digest: ZCJ1fXA6LKVErVHZQE8rpWoaQzk=
+
+Name: assets/www/UN/Media/eng/images/big2.png
+SHA1-Digest: FgFCqucmfF4ex7prUYPG8eEhYYE=
+
+Name: assets/www/UN/Media/eng/images/credit_blue_patch.png
+SHA1-Digest: 7/4NDQIAS+Qkaek2y0aJDD0sNJk=
+
+Name: assets/www/UN/lib/circle-player/js/circle.player.js
+SHA1-Digest: ZzR9RTctRaR2sY3RFspOL7jGCk8=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: dQCAedvB4oN8DXvdYrOhhXRE5hg=
+
+Name: assets/www/UN/Media/eng/images/010102-04-07.png
+SHA1-Digest: U/AdGZhO3jMoM5FWNKf9pLPKbSI=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_40.m4a
+SHA1-Digest: qDx9pPrTcwo4t7kX9oVqCf8c+v0=
+
+Name: res/drawable/verify_checkmark.png
+SHA1-Digest: 72xLkJBE0udFpIrA5jzY1impSnA=
+
+Name: res/layout-v21/date_time_picker_dialog.xml
+SHA1-Digest: n/UkDvpg5bsDMhFL2aBpmeg/kZg=
+
+Name: assets/www/UN/skin/circle.skin/circle.player.css
+SHA1-Digest: NsJJrMYY/EkdhK0wvrL4VAGMcUk=
+
+Name: assets/www/UN/Media/eng/images/purple_102_27_bg2.png
+SHA1-Digest: XetyOAYLi4RxorE5veOKYzZdJ1k=
+
+Name: assets/www/UN/Media/eng/images/radio_btn1.png
+SHA1-Digest: eSO9avp/CpD+/DyKdIyTVeSN/BM=
+
+Name: assets/www/UN/skin/circle.skin/progress_sprite.jpg
+SHA1-Digest: arN7vJPPK0mxkuEoErW1N55pkiU=
+
+Name: assets/www/UN/Media/eng/images/010102-09-02.png
+SHA1-Digest: eTeZCXROuIdfYdKagwKtO4COaNM=
+
+Name: assets/www/UN/Scripts/engine/css/010102-02.css
+SHA1-Digest: jwwCM0yG18f0yYrbASmap+NYWwI=
+
+Name: assets/www/css/StyleSheet11.css
+SHA1-Digest: Ts+GrCWeuUpTZCVCt4G9j9o2Lvw=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.tab.js
+SHA1-Digest: TdNT/30Cc6V4Joy4PqgmsiWgq2Y=
+
+Name: assets/www/css/Style_New.css
+SHA1-Digest: oV4K9V8KdVTyWQqM0SDBB9KIk0U=
+
+Name: assets/www/UN/lib/popcorn.player.js
+SHA1-Digest: 6Bzovqt7IyyEzkztmpxEqua6S5w=
+
+Name: assets/www/UN/Media/eng/video/IPAS.mp4
+SHA1-Digest: /FuN4+8Wqe/3X8QRUpYmi8s5EMA=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: kV9AstYjZWHqG5jLx9bXdjrQjHU=
+
+Name: assets/www/UN/lib/aurora/ogg.js
+SHA1-Digest: 6QNXobaN09wyJH73tBVse4w2Lz0=
+
+Name: assets/www/img/logo.png
+SHA1-Digest: MW0GF0+VJyF3L6n2kH6NKUswUL0=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s08_01.m4a
+SHA1-Digest: UF/EtR5MtIBkM8A387rgljvr5wU=
+
+Name: res/drawable-land-hdpi-v4/screen.png
+SHA1-Digest: SnEeLBNJPYyr+znAdl3VZcz93hY=
+
+Name: res/layout-v17/two_field_date_picker.xml
+SHA1-Digest: H51OiOK/P1b1qadAQ5KtUfxuoa4=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_sum_s03_01.mp3
+SHA1-Digest: TKVsps0ctT8uwKcr8f1iH1Isn7o=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_30.m4a
+SHA1-Digest: kCOyEKRX4UWQNmuu1hIzNtYg/JI=
+
+Name: assets/www/UN/Scripts/engine/css/010102-40.css
+SHA1-Digest: I0SHOnyevNtNo+pLEykO0j07L6g=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/Title.png
+SHA1-Digest: MIU83NANli+2MZyDeVDmCWB+BjI=
+
+Name: assets/www/UN/Media/eng/images/Gif.gif
+SHA1-Digest: 6NbeEPnzNAO17V/vwPprteyuSwc=
+
+Name: assets/www/UN/Media/eng/images/green_bor_bg.png
+SHA1-Digest: CMgvvrG7PfbTKWhR01rXxr7wTIM=
+
+Name: assets/www/UN/Media/eng/images/010102-03-05.png
+SHA1-Digest: zTs6c0sbfU/jTTV08V/jtGG+0sA=
+
+Name: assets/www/UN/Media/eng/images/010102-05-04.png
+SHA1-Digest: 7Z7B6KvyrUK4qZafBY7gG4mYmkk=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/footer_bg_.png
+SHA1-Digest: TBcQcGHiL9K+xnJ75+QSW/vvLNc=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/css/found
+ ation_bullet.css
+SHA1-Digest: 6FiDghjJcnT3jCV9ktCOAEDN4Eg=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s05_01.m4a
+SHA1-Digest: a8kYwo9SBUwcXwgHTitZqn+L7lM=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/pause.png
+SHA1-Digest: 31ANchD891phaEHHXaF+KJltt1g=
+
+Name: assets/www/UN/Scripts/engine/css/010102-17.css
+SHA1-Digest: g42evFvQuLC1FZc8PGOlkrVj+8Q=
+
+Name: assets/www/UN/skin/blue.monday/stop_n_btn.png
+SHA1-Digest: tO+2WKAGhENfnEeEvrnlm2ALfYI=
+
+Name: assets/www/UN/Scripts/engine/myScreenHTML.js
+SHA1-Digest: KAcwYCowM+sDP3ZdZdJ/nUG9puY=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s08_01.m4a
+SHA1-Digest: tP7IkYdvPgoMke1UTMqNhR0RY7I=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s09_03.m4a
+SHA1-Digest: WGm+Rt41fL5O7D7x6dt/ASEdwzk=
+
+Name: assets/www/UN/Media/eng/audio/Intro.mp3
+SHA1-Digest: /Lg+QTywHdJS8OZ9IkEP5LrvR5Y=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s09_01.mp3
+SHA1-Digest: SaxnG5amM4mvkqFr9j7Zs4e20BQ=
+
+Name: assets/www/css/headerBg.png
+SHA1-Digest: 0pIgBjPShqu6eDyfzfQV5lWr6LY=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s01_01.mp3
+SHA1-Digest: oWePfHm1WQIf+qP7LatefGSUyI0=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_45.m4a
+SHA1-Digest: BTbR1oGJqECFyhqdEyxVFeJtE8o=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s12_01.mp3
+SHA1-Digest: EI7CNpjUuojwwhELC3WVrwE6gWw=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA1-Digest: vFPeQjaqLAS6sZilCZUrPyl6jrw=
+
+Name: res/menu/select_action_menu.xml
+SHA1-Digest: kMW+22DSfs3F7xf+RyuFf3D7acI=
+
+Name: assets/www/UN/Scripts/engine/css/GUI.css
+SHA1-Digest: hsOoQufS098Z1BUBCDHwfAjfQXw=
+
+Name: assets/www/plugins/cordova-plugin-whitelist/whitelist.js
+SHA1-Digest: LhPJehMZoBACH/WKPQVj+FjkRRI=
+
+Name: res/drawable-xhdpi-v4/bubble.9.png
+SHA1-Digest: tIEen3e9izYg9ek91jz1YJ4PWyk=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_sum_s02_01.m4a
+SHA1-Digest: atlKhfCtEiJtOLsHiCpMGvwtijs=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43_1.m4a
+SHA1-Digest: vpmx/Gu/DEP2NdZ8Uzc/oahnEwc=
+
+Name: assets/www/UN/Media/eng/images/010102-04-02.png
+SHA1-Digest: SuOcQqMsZl4omNOh5D26Qb3Q/+o=
+
+Name: assets/www/UN/Resource/Overview_of_2012_WHO_PPH_Recs.pdf
+SHA1-Digest: oe3CcPPEwsgo/EVcgq+NnEZG3+s=
+
+Name: assets/www/UN/Media/eng/images/credit_orange_patch.png
+SHA1-Digest: 9y5nnhWCDiwVb7KZAUJvg9nKlD8=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/d.mp3
+SHA1-Digest: +FzfSooVqE4aDLBay2AR56Pjr5M=
+
+Name: assets/www/UN/Media/eng/images/submit.png
+SHA1-Digest: a++sQ807TNDuzxy1Djju0caGVo8=
+
+Name: res/layout/two_field_date_picker.xml
+SHA1-Digest: HcHD9ZBhbXvfdlbbSJfSSejDok0=
+
+Name: assets/www/css/slider.css
+SHA1-Digest: lflufsqK6Ms0ZpNVHBoQIyGfnqg=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_21_4.mp3
+SHA1-Digest: ncRUHLo31iWN5h8SuheLYbqweh8=
+
+Name: assets/www/UN/Media/eng/images/010102-29-07.png
+SHA1-Digest: JU3by8FF9kbnAa3Cs2W2BtdAZto=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s08_01.mp3
+SHA1-Digest: 8IGoMZbSOZifMf1VlvGxsjzyYeg=
+
+Name: assets/www/UN/imsmanifest.xml
+SHA1-Digest: G6NB7TI3l1zVwSF1DG0qLavVna4=
+
+Name: assets/www/UN/lib/popcorn.js
+SHA1-Digest: GTkz/rw2FP3RzNiFyCBNJRkuHMs=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/download_icon.png
+SHA1-Digest: zAfj4NvoPXoAUEmYS3X5RG0xFqA=
+
+Name: assets/www/UN/Scripts/engine/TemplateFunctions.js
+SHA1-Digest: zPZeoRstsNgsk0mX6D8sGbDuO0s=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/replay.png
+SHA1-Digest: sDPw/yHfXPyz76nqAEj+CsMr2iI=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s02_01.mp3
+SHA1-Digest: XG1pF6PHq3wKV96BNjD1r3gaobU=
+
+Name: assets/www/UN/dist/jplayer/jquery.jplayer.js
+SHA1-Digest: XGaIPhOz+rtuhbu0LijfGRQIjb0=
+
+Name: assets/www/UN/skin/blue.monday/pn_btn.png
+SHA1-Digest: LaVpcFEZl29geiy4Nn6R/otdo+A=
+
+Name: assets/www/UN/Scripts/engine/css/010103-01.css
+SHA1-Digest: npadVWRm4fR1N0pdmneVBEf99RU=
+
+Name: assets/www/UN/Resource/PAC_MVA_job_aid_wallchart.pdf
+SHA1-Digest: 9I05DLlvU+jC1vQF07OgvPJ/Qf0=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_int_s08_01.mp3
+SHA1-Digest: /ywhDdSaoAC37Ry1W7ZHYYxMq8Y=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s11_01.m4a
+SHA1-Digest: WPtjSQPh2FAO5/QpgCSA5HuBO2o=
+
+Name: assets/www/UN/Scripts/engine/css/010102-38.css
+SHA1-Digest: +EVNi/38hJB67x3vm8E3p1z2ZE8=
+
+Name: res/drawable/bubble_arrow_up.png
+SHA1-Digest: WBMdlQh7TBmMw8GHDpzGdK7lGx0=
+
+Name: assets/www/UN/Media/eng/images/010102-12-04.png
+SHA1-Digest: 7P/iteHlV3dbPOqxLSD9Ug8fKe8=
+
+Name: assets/www/UN/Media/eng/images/clinic1.png
+SHA1-Digest: Jj/sYcQ9MUBmCuGDxK8lQ2ex20A=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.orbit.js
+SHA1-Digest: Yio1txQLCtrioIxP0OGf3Grd2RM=
+
+Name: assets/www/UN/Media/eng/images/010102-34-03.png
+SHA1-Digest: Ab0HUkxTjUTv9SaB4E5tSxYIlBo=
+
+Name: assets/www/UN/Media/eng/video/MAFPostpartumHaemorrhageTreatment_
+ 20.mp4
+SHA1-Digest: 0O9YUnndI/iVjaYd+2IJiQDYVqE=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_32_1.m4a
+SHA1-Digest: TE7kQhETWdUomb36wRwrpDHaxSM=
+
+Name: res/drawable-xhdpi-v4/color_picker_advanced_select_handle.png
+SHA1-Digest: Gi/dQaEH2B/WFd7BBKCjds7pt70=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_int_s04_01.mp3
+SHA1-Digest: 66TdQD0yBnEaCYvNUXqHaWrEHnU=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_33.m4a
+SHA1-Digest: Yk2LEdFWqevmjFmpkzSt5zKnn/E=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s13_01.m4a
+SHA1-Digest: SjOtY/X84Tv+HPkwdtlx+2hn0Iw=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s17_01.m4a
+SHA1-Digest: rwxW076/6wc9ibggczplZOlMbf8=
+
+Name: assets/www/UN/Media/eng/images/com_img.png
+SHA1-Digest: O8yBdez5H0Yi2EAEX10tU/VTRYI=
+
+Name: assets/www/UN/dist/skin/blue.monday/mustache/jplayer.blue.monday
+ .audio.stream.html
+SHA1-Digest: BfoZ8VPXTADZB9egk8AziJjfF4g=
+
+Name: assets/www/index.html
+SHA1-Digest: KYSk9Qxj2L7SSHxXLVheRV31k7Y=
+
+Name: assets/www/UN/Scripts/engine/css/010101-05.css
+SHA1-Digest: SDISD6sdDpM6szg2sIaPre+g6VA=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s07_01.m4a
+SHA1-Digest: ObjPq5KrKYnp47+s2QyIBdZjhiI=
+
+Name: assets/www/UN/Scripts/engine/css/010102-34.css
+SHA1-Digest: ruhi/YYytWeV57I4iOei5jU445s=
+
+Name: assets/www/UN/Media/eng/images/010102-05-01.png
+SHA1-Digest: U+VejpKKQFdVGcJUirjyaW2Wt9g=
+
+Name: assets/www/UN/Media/eng/images/010102-09-01.png
+SHA1-Digest: eu6yMBkVdFw83MQEZq2HAeKbtPo=
+
+Name: assets/www/UN/Media/eng/images/radio_btn2.png
+SHA1-Digest: bzfGw5k1yH5kd/FPAFzItLysMZg=
+
+Name: assets/www/UN/lib/popcorn.ie8.js
+SHA1-Digest: d1fgcNmCA7HDUvBnWVrKB6ibpzE=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43_2.mp3
+SHA1-Digest: 52IQ/7ue3yJIoSqPkZR4PQ6vQ0w=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.alert.js
+SHA1-Digest: 98OrvFE+YlfTtv4CsFmiqXMiqCk=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_int_s01_01.m4a
+SHA1-Digest: u25Ikz3LoQAcctkLUQgt9NnGQVg=
+
+Name: assets/www/UN/Media/eng/images/close.png
+SHA1-Digest: AgqkP0BBmkCjdwobWPsPDMCkCVE=
+
+Name: assets/www/UN/Scripts/libs/scorm/constants.js
+SHA1-Digest: UEi79QD+BiceJh8rqX+6ATp8kwI=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_47.mp3
+SHA1-Digest: kDgDh6hvfQgEJgFInZQVU/RKEng=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_27_1.mp3
+SHA1-Digest: 4jHXq3nhehr/EvAn1HXLvuVRJvY=
+
+Name: res/layout-v17/color_picker_advanced_component.xml
+SHA1-Digest: hHVCMgkyvQB3jo4YmgyUiE37Jrw=
+
+Name: assets/www/UN/Media/eng/images/incorrect.png
+SHA1-Digest: /hpU+ZeR9HTHGYIPXbBluN+qYUY=
+
+Name: assets/www/UN/Scripts/engine/css/010102-07.css
+SHA1-Digest: y7XjV79wbKxsVShupMp8tCA6f4Q=
+
+Name: assets/www/UN/Media/eng/images/B_popup.png
+SHA1-Digest: 7rtk0ZceZjyW1CoxtcbhnqsjWQU=
+
+Name: assets/www/UN/Media/eng/images/credit_green_arrow.png
+SHA1-Digest: 0TnjY/SVx2ra9EY8QzzbRfjviIk=
+
+Name: assets/www/UN/Scripts/libs/scorm/SCORMFunctions.js
+SHA1-Digest: cyJ6aJ9BGpCrGBpYoXIC1SnJ8Tg=
+
+Name: assets/www/UN/Scripts/engine/fonts/glyphicons-halflings-regular.
+ woff
+SHA1-Digest: J45JqG5jTabyoC87R92dKo8mIQ8=
+
+Name: assets/www/UN/Media/eng/images/fail.jpg
+SHA1-Digest: yieJorHqcDQC9JVtfpY8Z6JUuug=
+
+Name: res/layout/validation_message_bubble.xml
+SHA1-Digest: BF+Bmjzi2iwpis3mL9TE1AyRtRg=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_31.mp3
+SHA1-Digest: SfgCBRfXzw/wDPg1+So84sgY0D4=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s02_01.m4a
+SHA1-Digest: 7gPxiBcx/3mp3shswax1vjoMq50=
+
+Name: assets/www/UN/Scripts/engine/css/010101-08.css
+SHA1-Digest: RACyIjYaVURMdfxIGdDMkHokhh4=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/mod_3_screen_1.mp3
+SHA1-Digest: vKjhzVuqPHMW8myzKmELcHhQuNk=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s06_01.m4a
+SHA1-Digest: KH4wHSddANMJ80TFJMad7McImA4=
+
+Name: assets/www/UN/lib/jquery.min.js
+SHA1-Digest: 1sH0GXLeB7Cb+mPS5Q+atB7Dcr0=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_23.mp3
+SHA1-Digest: Ks3rAcH94qiD00eTdASCMnfQvb4=
+
+Name: assets/www/UN/Media/eng/images/010102-29-04.png
+SHA1-Digest: 9KvS/UKjGbOKGnJAxxp4+MdqQT0=
+
+Name: assets/www/UN/dist/skin/blue.monday/mustache/jplayer.blue.monday
+ .audio.playlist.html
+SHA1-Digest: 9oh+qbs9nV6cd7kHt4cq1jUEol0=
+
+Name: assets/www/UN/Media/eng/images/speech_bub1.png
+SHA1-Digest: mzprdRwshaT3bDSbDyJRi8rGOCs=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s14_01.mp3
+SHA1-Digest: xMUi14D+5HhtVT2IAiV9Wcgfcn0=
+
+Name: assets/www/UN/Media/eng/images/clock.png
+SHA1-Digest: ChXiBrjaElgam8GjUi9MxySTD6c=
+
+Name: res/drawable-xhdpi-v4/verify_checkmark.png
+SHA1-Digest: 4xjXZmCD1J9nO4pPXMNUktMNl7s=
+
+Name: assets/www/UN/Media/eng/images/keyPointBg.png
+SHA1-Digest: QH8fcE/wFlIfCoc9vuOIC/t5bfo=
+
+Name: assets/www/UN/Scripts/engine/css/010102-43.css
+SHA1-Digest: NBXXS7MXG8E98TZE/BdDx692cQ8=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s09_04.m4a
+SHA1-Digest: oRGu9KkcyRo5I4uU0T/ZMcdqkVA=
+
+Name: assets/www/UN/Media/eng/images/nextBtnActive.jpg
+SHA1-Digest: SXNcBmy2/aCS/VGwvYeKS5pEGho=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_25.m4a
+SHA1-Digest: fdlZikONhQo8d9vMwhPnDNQoXDE=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s03_01.mp3
+SHA1-Digest: eiMF9M42Da6/8bHgjNoVsqFCEZc=
+
+Name: assets/www/UN/Scripts/engine/css/Animation.css
+SHA1-Digest: xQgilkRQcmNtYM7hMkVuDTAcwv0=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s18_01.mp3
+SHA1-Digest: P9xtSwdPt+vvdXwTikF1GS0n6Js=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.abide.js
+SHA1-Digest: mTs3PwOhfGZ/ld8iNGDFy2YlE64=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s07_01.mp3
+SHA1-Digest: z6F8m3sDwAqzkM6FlBt5qXXxhpc=
+
+Name: res/drawable-xhdpi-v4/ic_warning.png
+SHA1-Digest: +cy0zPrl/7gQLIq6rHQqV5VtUI4=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_38.mp3
+SHA1-Digest: 0XFAtJp8Wn/L2brDutjPklNN9ls=
+
+Name: assets/www/UN/Media/eng/images/010102-37-01.png
+SHA1-Digest: 198tKXnroKLHqEbF/WwxkTod8Og=
+
+Name: assets/www/UN/Media/eng/images/010102-06-02.png
+SHA1-Digest: G3jbi6mgh2XOtsvRiJZrBHG+PYU=
+
+Name: assets/www/UN/Media/eng/images/launch.png
+SHA1-Digest: iRkCYZVCnedx+ekS+r+kla60Dk0=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: UD4vXeoj2K2JvHrFgWEqas0Qd14=
+
+Name: assets/www/UN/Media/eng/images/010102-17-02.png
+SHA1-Digest: +gsD9AK1n8qr9jKFHnmfeVnbBjc=
+
+Name: assets/www/UN/Media/eng/audio/fd.mp3
+SHA1-Digest: FdwitRavsoH6/5iUWBOGhK/6bbk=
+
+Name: assets/www/UN/Media/eng/images/010102-33-01.png
+SHA1-Digest: /dhJhLfzgaQhVHtCsl91ibBoz94=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA1-Digest: zC0fBe0s/SpGce1vXhhq+pTqaOU=
+
+Name: assets/www/UN/Media/eng/images/big5.png
+SHA1-Digest: KBhHQ/GXDinHm4toDsRWCpBViQE=
+
+Name: assets/www/UN/Media/eng/images/credit_yellow_patch.png
+SHA1-Digest: iNhRlNINk37u+yeAdpNpjdwAvdw=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s09_02.mp3
+SHA1-Digest: CNPTpeX4fF76h1H7t6Cva7kv7ys=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/pwfc_pph_l01_s03_01.mp3
+SHA1-Digest: m9LMSoivZmC91Ew2J3nTxLRIJIs=
+
+Name: assets/www/UN/imscp_rootv1p1p2.xsd
+SHA1-Digest: MhPA9CROY8saHOhuJ3102mFgVmw=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA1-Digest: FngQiAwFpTvpWIf8s0DWGwViLj0=
+
+Name: res/drawable-port-ldpi-v4/screen.png
+SHA1-Digest: 0xgQIHIbfOrpLeNb8Awy2KsX/rk=
+
+Name: assets/www/UN/Media/eng/images/credit_green_patch.png
+SHA1-Digest: GTe8ZCsfWqMazB82BvDgI6mJyPA=
+
+Name: assets/www/js/jQuery Mobile 1.4.1.js
+SHA1-Digest: TAjUieqCvJaI/QxHjGptnUmhoRw=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.tooltip.js
+SHA1-Digest: 3X8a6l6Mlaw7rV54e/M2DryqjvI=
+
+Name: assets/www/UN/Media/eng/images/video_btn.png
+SHA1-Digest: feDLAJdcWriOgDkNgi2O9jDkp0I=
+
+Name: assets/www/UN/Media/eng/images/red_bor_bg.png
+SHA1-Digest: bkv76q1FYDu4Rxqda6X5YR9A3Fk=
+
+Name: assets/www/UN/Scripts/engine/css/assessment.css
+SHA1-Digest: Z0KH1ugsrtmD40ZkleZRjXIbGVE=
+
+Name: assets/www/UN/Media/eng/images/010102-17-03.png
+SHA1-Digest: uHGwS/zwUBt1i3nVb9Eq3L0Gdvc=
+
+Name: assets/www/UN/Media/eng/images/010102-12-03.png
+SHA1-Digest: eoizpsH//Ldiq8AU6KnPYzP+WGU=
+
+Name: assets/www/UN/Media/eng/images/big4.png
+SHA1-Digest: rqY5iQ4AFHbcdhUVnRASdtYohKA=
+
+Name: assets/www/UN/Scripts/engine/css/010102-29.css
+SHA1-Digest: 8cWXV1OglA3pfnm270io4wtbWRU=
+
+Name: assets/www/UN/Scripts/libs/scorm/APIWrapper_backup.js
+SHA1-Digest: kycWjIyG2DWwlj7jWiCO+vE/bwQ=
+
+Name: assets/www/UN/dist/skin/pink.flag/image/jplayer.pink.flag.video.
+ play.png
+SHA1-Digest: ARVoH5s+maZszf8cR74GPwVJpy4=
+
+Name: assets/www/css/style.css
+SHA1-Digest: 3Rov5nm3Q4vG8ycG0Y5hrN6Jw3w=
+
+Name: assets/www/UN/Scripts/engine/courseResizer.js
+SHA1-Digest: UOUe87fJkpP0AmiRXn5tYbf8zUM=
+
+Name: assets/www/css/QuizUp.css
+SHA1-Digest: wG66W4bQLn+YM9vSaREyjOpzz8g=
+
+Name: assets/www/UN/Media/eng/images/010102-34-04.png
+SHA1-Digest: apnxqQ1jKqcUutXY2EfOXJadQ8Q=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/js/founda
+ tion/foundation.clearing.js
+SHA1-Digest: jiZ0lUSjZIy8OZoS4sKSuwJcMSI=
+
+Name: assets/www/UN/Resource/PAC_Client_Brochure.pdf
+SHA1-Digest: 3b6k160adPGWc6wrUA+9bdwULQ0=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43_1.mp3
+SHA1-Digest: U+DPQYYHQS6RzpSHiBFZO7xkM34=
+
+Name: assets/www/UN/Scripts/libs/foundation/foundation-5.0.2/css/norma
+ lize.css
+SHA1-Digest: mO1Ia8AozPTL2shVeV4uP8RpVCc=
+
+Name: assets/www/UN/skin/blue.monday/pause.png
+SHA1-Digest: RY568fTzRfOfamb9VzokRTSLu3g=
+
+Name: assets/www/UN/Media/eng/images/res_close.png
+SHA1-Digest: dvCZOFRWiV4+IIXFRfPoOKn5S2s=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_46_3.mp3
+SHA1-Digest: v2aTb7QGjoZtFz0Jkr/fAN9RUp8=
+
+Name: assets/www/UN/Media/eng/images/page_footer.png
+SHA1-Digest: 2CWA7hzsVtvW5ZhrCXdi0r79Tog=
+
+Name: assets/www/UN/Scripts/engine/css/010102-09.css
+SHA1-Digest: QEBgoA3JgIjqD0JL7Jjv19O21Ws=
+
+Name: assets/www/UN/Scripts/engine/fonts/glyphicons-halflings-regular.
+ ttf
+SHA1-Digest: RLwYUPVwlyJnsWmuGPHLBrYR/6I=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s02_01.mp3
+SHA1-Digest: LFe8DZ5BU5T9PeI7j2jsaggPB5o=
+
+Name: assets/www/UN/Scripts/engine/css/credits.css
+SHA1-Digest: 1MCyztAbAtM+8BJc32gvtMeyaG8=
+
+Name: assets/www/UN/Media/eng/images/010102-10-01.png
+SHA1-Digest: gMoIgpuA/qh1WYPvVKj7JSPuTJI=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s08_01.mp3
+SHA1-Digest: j8KpvGeXQZKxWTyZx3LCMQNA0G8=
+
+Name: assets/www/UN/Scripts/engine/css/010101-06.css
+SHA1-Digest: gMAUjdpJpznOGzMbZRKaLpBwrm8=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_sum_s03_01.m4a
+SHA1-Digest: 5kJ0NPGqrnM8QMo3KqEy9vyhSlk=
+
+Name: assets/www/UN/Media/eng/images/010102-05-02.png
+SHA1-Digest: 2FkfaCwxTSjgs2qJTFqtv03YdbE=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_33_1.m4a
+SHA1-Digest: Y8DlGYW1DTCscQRDyT/7W/IIU6c=
+
+Name: assets/www/UN/dist/jplayer/jquery.jplayer.swf
+SHA1-Digest: J76wLxG9K8MB9fyiDssdArpQlao=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_46.mp3
+SHA1-Digest: GyeoiH+Tz0ePtWeWVDt7lrS19Lk=
+
+Name: assets/www/UN/lib/circle-player/js/jquery.grab.js
+SHA1-Digest: 34wRw/fkPdfMlblO5/7hJ6+bW8A=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43_4.m4a
+SHA1-Digest: Vvyfra4RSBIB6USR76t5I1ZNDaE=
+
+Name: assets/www/UN/Scripts/engine/css/010102-20.css
+SHA1-Digest: D3rj4dkMAPAWzsPjGuaE3b9ZwAs=
+
+Name: res/raw/messaging_api.js
+SHA1-Digest: zjh74FiJIC5hB7DupWApVxHA91c=
+
+Name: assets/www/UN/Media/eng/images/button_bg.png
+SHA1-Digest: 2AlXS6HUK5Rh1MlNFkC2Fbn1U7o=
+
+Name: assets/www/css/Launch-def.css
+SHA1-Digest: XmRh/pkwyLeroPPUcEpGftF4OJ8=
+
+Name: assets/www/UN/Media/eng/images/010102-40-05.png
+SHA1-Digest: 64PXzXFBBYSl3GKluoRaOVm9x0w=
+
+Name: assets/www/UN/Media/eng/video/MAFPostpartumHaemorrhagePrevention
+ _6.mp4
+SHA1-Digest: /eTnFPXLe4Ko68WsSAv46HzmM4Q=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: 2GpiQ+XoQsbQEzqXIIrpbq510l8=
+
+Name: assets/www/UN/Media/eng/images/010102-06-03.png
+SHA1-Digest: Z/U+gEqItM102QWyrHCUy34OLWI=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s09_03.mp3
+SHA1-Digest: kah3N3fhAsP/YsSUZo6w4QEcMlU=
+
+Name: assets/www/UN/Scripts/engine/css/010101-07.css
+SHA1-Digest: f0JnixW0eC7OP3khrR1+mHN9n5M=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_27_1.m4a
+SHA1-Digest: PNoPnO5oZ+ADkXOAoObjWbGfOL0=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_43_3.m4a
+SHA1-Digest: l0o6c6N56p6KwOHnBdnbaobvX34=
+
+Name: assets/www/UN/Scripts/engine/css/style.css
+SHA1-Digest: N5JGUI4mOQrZcANrJHfPiJuwRQI=
+
+Name: res/layout/multi_field_time_picker_dialog.xml
+SHA1-Digest: uKup0gU/ulfH+W7OMUZK4J6DEIo=
+
+Name: assets/www/UN/skin/pink.flag/jplayer.pink.flag.video.play.png
+SHA1-Digest: ARVoH5s+maZszf8cR74GPwVJpy4=
+
+Name: assets/www/UN/Media/eng/images/010102-40-04.png
+SHA1-Digest: yaPPRbBctV2CLBcKGODTinWmoa4=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_24.mp3
+SHA1-Digest: 5zLEZIMR7W3TdsBoOXi5cF9GP+4=
+
+Name: assets/www/UN/Media/eng/images/whiteBG.png
+SHA1-Digest: S+MNtIW26+h7Hkb2jnOygScQDjk=
+
+Name: assets/www/UN/Media/eng/images/assessment_incorrect.png
+SHA1-Digest: 7YIFlb5nltYNccskCa1ppTmW1sw=
+
+Name: assets/www/UN/Media/eng/audio/pwfc_pph_l01_s01_01.m4a
+SHA1-Digest: X29ERFCBBErnXZn8pz7CmOs8SvI=
+
+Name: assets/www/UN/Scripts/engine/css/010102-08.css
+SHA1-Digest: ncKzyJchx6XoOS+AdWJ7gRdc+DE=
+
+Name: assets/www/UN/Media/eng/images/assessment_correct.png
+SHA1-Digest: 2Tdu++7hUYeLYmf5poIUn4m6V/A=
+
+Name: assets/www/UN/Media/eng/audio/cleaned/fd.mp3
+SHA1-Digest: uFN6i5u+5Agc4L+P1xpqSbXwMkg=
+
+Name: assets/www/UN/Media/eng/images/newTemplates/resources.png
+SHA1-Digest: mAjLtleo3TGsnXLBd/k1OjNZrl0=
+
+Name: res/layout-land/date_time_picker_dialog.xml
+SHA1-Digest: Pw99Fsq5lQqskRTySFQOazFWWyM=
+
+Name: assets/www/UN/dist/skin/blue.monday/css/jplayer.blue.monday.css
+SHA1-Digest: sTjjAC24/aIc2m4ywE+fTIaUVGk=
+
+Name: assets/www/UN/skin/pink.flag/jplayer.pink.flag.css
+SHA1-Digest: 2H9kUNUx5k47zGLS1ztP8sLUxmI=
+
+Name: res/drawable-xhdpi-v4/ondemand_overlay.9.png
+SHA1-Digest: IVMr9AmE+Xr6szSnc3Kmns+nTSI=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_30.mp3
+SHA1-Digest: JWV6xDny2eQSKHFmpVZV6aj/21c=
+
+Name: assets/www/UN/Media/eng/images/010102-29-05.png
+SHA1-Digest: 3Bgg81PjKyzZ7G6lrR3X4mHTEhQ=
+
+Name: assets/www/UN/Scripts/engine/css/010102-42.css
+SHA1-Digest: sR39Sr0XqKhnNtGnI9E8JURWED0=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_32.m4a
+SHA1-Digest: orlP1Gmjl0eh69byV0D9kxdm8hQ=
+
+Name: assets/www/UN/Scripts/engine/css/010102-36.css
+SHA1-Digest: kaN4TdISdmrcXynvvFXhglzjphQ=
+
+Name: assets/www/plugins/com.moust.cordova.videoplayer/www/videoplayer
+ .js
+SHA1-Digest: 6p5LEIgfqEg5dT7/PpPTQf6wgmQ=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_26.m4a
+SHA1-Digest: YTuWV6dww8J6YDPTG+TTWVV7+nc=
+
+Name: assets/www/UN/Scripts/engine/engine.js
+SHA1-Digest: xcy6cKVl/KGWsdXH2+QcpNKgoEk=
+
+Name: res/drawable/ic_warning.png
+SHA1-Digest: SoAwFGoKNOpYKOoAEO8QwRNcEH8=
+
+Name: classes.dex
+SHA1-Digest: zJw8lxwzGQ+lil854pAMzn2nndw=
+
+Name: assets/www/UN/Media/eng/images/cong_bubble.png
+SHA1-Digest: 8Xe9GHpTu86t8Cg4gi/Ax7zZCXY=
+
+Name: assets/www/UN/Media/eng/audio/mod_2_26_1.m4a
+SHA1-Digest: m1zjdU1T+q9lsmHmZ5+yOjOZhlE=
+
+Name: assets/www/UN/Media/eng/images/010102-11-02.png
+SHA1-Digest: nyQ2Siuu2PnH2XpmTQVRsnjp2uY=
+

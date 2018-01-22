@@ -1,0 +1,44 @@
+.NotepadeSectioncyk
+{
+    background-image: url("../../../Media/eng/images/010102-10-03.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 231px;
+    font-size: 18px;
+    float: right;
+    margin-right: 7px;
+    line-height: 24px;
+    padding: 36px 21px;
+	    position: absolute;
+    right: 5px;
+    top: -11px;
+}
+
+.BladderFeedbackcyk {
+    font-size: 18px;
+    line-height: 28px;
+    padding: 21px 29px 48px 29px;
+    margin: 17px 10px;
+    background-image: url("../../../Media/eng/images/010102-15-01.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 436px;
+}
+
+.BladderFeedbackcyk2 {
+    font-size: 18px;
+    line-height: 28px;
+    padding: 5px 15px 9px 15px;
+    margin: 0px 10px;
+    background-image: url("../../../Media/eng/images/010102-15-01.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 464px;
+}
+
+.BladderFeedbackcykItext {
+    color: #990000;
+    font-size: 18px;
+    padding: 5px 10px;
+    width: 470px;
+}

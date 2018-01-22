@@ -1,0 +1,74 @@
+.keyPointWhiteBg {
+    background-image: url("../../../Media/eng/images/whiteBG.png");
+    width: 748px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    background-size: 100% 100%;
+    padding-bottom: 1px;
+}
+
+
+.KeyPointYellowBg
+{
+    background-image: url("../../../Media/eng/images/yellowBg.png");
+    background-repeat: no-repeat;
+    width: 587px;
+    height: 53px;
+    line-height: 46px;
+    padding-left: 10px;
+    position: relative;
+    margin-left: -4px;
+    background-size: 100% 100%;
+    margin-bottom: 44px;
+    margin-top: 16px;
+}
+
+.keyPointHeading {
+    padding: 20px 0 0 20px;
+}
+
+.KeyPointImg {
+    position: absolute;
+    top: -36px;
+    right: -78px;
+}
+
+.KeyPointImg2 {
+    top: -34px;
+}
+
+/*Animation*/
+
+.KeyPoint1Anim {
+  -webkit-animation-name: slideInDownCommon;
+  animation-name: slideInDownCommon;
+      -webkit-animation-delay:7s;
+    animation-delay:7s;
+    -moz-animation-delay:7s;
+}
+
+.KeyPoint2Anim {
+  -webkit-animation-name: slideInDownCommon;
+  animation-name: slideInDownCommon;
+      -webkit-animation-delay:23s;
+    animation-delay:23s;
+    -moz-animation-delay:23s;
+}
+
+.KeyPoint3Anim {
+  -webkit-animation-name: slideInDownCommon;
+  animation-name: slideInDownCommon;
+      -webkit-animation-delay:41s;
+    animation-delay:41s;
+    -moz-animation-delay:41s;
+}
+
+.KeyPoint4Anim {
+  -webkit-animation-name: slideInDownCommon;
+  animation-name: slideInDownCommon;
+      -webkit-animation-delay:53s;
+    animation-delay:53s;
+    -moz-animation-delay:53s;
+}
+

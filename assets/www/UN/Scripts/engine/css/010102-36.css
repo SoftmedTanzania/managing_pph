@@ -1,0 +1,62 @@
+.diagnoseHeading
+{
+font-weight:bold;
+font-size:18px;
+padding:10px;
+}
+
+.safari .DiagnoseBubble4 {
+    width: 177px;
+    height: 79px;
+    text-align: center;
+    padding: 36px 74px;
+}
+
+.DiagnoseNurseImg
+{
+position:absolute;
+left:15px;
+bottom:-3px;
+}
+
+.DiagnoseBubble
+{
+    background-image: url("../../../Media/eng/images/010102-10-02.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 127px;
+    top: 55px;
+    font-size: 18px;
+
+}
+
+.DiagnoseBubble1
+{
+width: 179px;
+    height: 79px;
+    padding: 62px 89px;
+
+}
+.DiagnoseBubble2
+{
+width: 172px;
+    height: 79px;
+    padding: 62px 96px;
+
+}
+.DiagnoseBubble3
+{
+    width: 179px;
+    height: 79px;
+    padding: 40px 71px;
+    text-align: center;
+}
+
+.DiagnoseBubble4
+{
+width: 177px;
+    height: 79px;
+    text-align: center;
+    padding: 53px 74px;
+
+}

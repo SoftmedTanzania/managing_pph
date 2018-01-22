@@ -1,0 +1,54 @@
+.CompressWhiteBg {
+background-image: url("../../../Media/eng/images/whiteBG.png");
+    width: 723px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    background-size: 100% 100%;
+        padding: 23px 25px 26px;
+    position: relative;
+}
+
+.Compress11 {
+    float: left;
+    width: 100%;
+}
+
+.Compress1Title {
+	background-image: url("../../../Media/eng/images/010102-24-01.png");
+    padding: 344px 15px 23px 15px;
+	font-size:20px;
+    text-align: center;
+    width: 332px;
+    float: left;
+    margin-right: 19px;
+    background-size: 100% 100%;
+}
+.Compress2Title {
+   background-image: url("../../../Media/eng/images/010102-24-02.png");
+       padding: 333px 15px 11px 27px;
+    width: 300px;
+	font-size:20px;
+    float: left;
+    background-size: 100% 100%;
+}
+
+
+/*Animation*/
+.compress1Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:1s;
+    animation-delay:1s;
+    -moz-animation-delay:1s;
+}
+
+.compress2Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:17s;
+    animation-delay:17s;
+    -moz-animation-delay:17s;
+}
+
+

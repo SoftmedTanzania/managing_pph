@@ -1,0 +1,69 @@
+.pphBg{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 449px;
+    position: relative;
+	background-image: url("../../../Media/eng/images/l01_s32_01.png");
+}
+
+
+.pphWhiteBg{
+    background-repeat: no-repeat;
+    position: relative;
+    background-image: url("../../../Media/eng/images/whiteBG.png");
+    width: 681px;
+	margin:0 auto;
+    height: 421px;
+    padding: 18px 33px 0px;
+}
+
+.pphWhiteBg li
+{
+    list-style-type: none;
+    float: left;
+    margin: 18px 15px;
+}
+
+/*Animation*/
+
+.Img1Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:7s;
+    animation-delay:7s;
+    -moz-animation-delay:7s;
+}
+
+.Img2Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:30s;
+    animation-delay:30s;
+    -moz-animation-delay:30s;
+}
+
+.Img3Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:41s;
+    animation-delay:41s;
+    -moz-animation-delay:41s;
+}
+
+
+.Img4Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:56s;
+    animation-delay:56s;
+    -moz-animation-delay:56s;
+}
+
+.Img5Anim {
+  -webkit-animation-name: FadeInCommon;
+  animation-name: FadeInCommon;
+      -webkit-animation-delay:67s;
+    animation-delay:67s;
+    -moz-animation-delay:67s;
+}
+

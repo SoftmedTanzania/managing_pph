@@ -1,0 +1,47 @@
+.BeginWhiteBg {
+    background-color: #fff;
+    width: 748px;
+    border: 1px solid #999999;
+    margin: 0 auto;
+}
+
+.BeginImg0 {
+width: 303px;
+    margin: 81px auto;
+}
+
+
+.BeginImg1 {
+    float: right;
+    width: 245px;
+    margin-right: 17px;
+    margin-top: 17px;
+}
+
+.BeginImg1 img,.BeginImg2 img
+{
+width:100%;
+}
+
+.BeginImg2 {
+    width: 544px;
+    margin: 0 auto 15px;
+}
+
+/*Animation*/
+
+.BeginImg1Anim {
+  -webkit-animation-name: slideInLeftCommon;
+  animation-name: slideInLeftCommon;
+   -webkit-animation-delay:1s;
+    animation-delay:1s;
+    -moz-animation-delay:1s;
+}
+
+.BeginImg2Anim {
+  -webkit-animation-name: slideInRightCommon;
+  animation-name: slideInRightCommon;
+   -webkit-animation-delay:2s;
+    animation-delay:2s;
+    -moz-animation-delay:2s;
+}
